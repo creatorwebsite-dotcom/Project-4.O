@@ -1,12 +1,12 @@
 {
-  "updatedAt": "23 Oct 2026, 02:34 PM IST",
+  "updatedAt": "23 Oct 2026, 02:46 PM IST",
   "currentDateIso": "2026-10-23",
   "currentDateDisplay": "23 Oct 2026",
   "availableDates": [
     {
       "dateIso": "2026-10-23",
       "dateDisplay": "23 Oct 2026",
-      "updatedAt": "23 Oct 2026, 02:34 PM IST",
+      "updatedAt": "23 Oct 2026, 02:46 PM IST",
       "articleCount": 30
     },
     {
@@ -23,15 +23,48 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (23 Oct 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 23 Oct 2026, 02:34 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 23 Oct 2026, 02:46 PM IST",
   "totalArticles": 30,
   "articles": [
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
+      "title": "K.P. Sahadevan, Keralam CPI(M) leader and trade unionist, dies at 84",
+      "link": "https://www.thehindu.com/news/national/kerala/kp-sahadevan-keralam-cpim-leader-and-trade-unionist-dies-at-84/article71615312.ece",
+      "pubDate": "Fri, 23 Oct 2026 14:35:42 +0530",
+      "dateIso": "2026-10-23",
+      "dateDisplay": "23 Oct 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/qt1l6z/article71615354.ece/alternates/LANDSCAPE_1200/saha.jpg",
+      "fullParagraphs": [
+        "Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.",
+        "He had been undergoing treatment for age-related ailments.",
+        "Mr. Sahadevan devoted more than six decades of his life to the communist and working-class movements, beginning his trade union activities at the age of 18. He remained at the forefront of workers’ struggles until the final day of his life.",
+        "After completing his primary education, Mr. Sahadevan began his working life as a beedi worker. He entered public life as secretary of the Kannur division of the KP Tobacco Workers Union. He subsequently helped form and led numerous trade unions, emerging as a prominent voice of the working class in Keralam.",
+        "He served as a member of the CITU All India Working Committee, State Secretary of the Beedi and Cigar Workers Federation, and national vice-president of the federation. He was also the general secretary of the CITU district committee and a former member of the CPI(M) State committee.",
+        "Mr. Sahadevan endured imprisonment and repeated police brutality during his political career. During the Emergency, he was detained under the Maintenance of Internal Security Act (MISA) for 20 months. He spent nearly two more years in prison during different periods. He suffered severe injuries in police violence, including during a crackdown shortly before the Emergency. On March 17, 2003, he was again subjected to a brutal police assault during an LDF march to the Kannur Superintendent of Police’s office.",
+        "He became a member of the Communist Party in 1955-56. From the formation of the CPI(M) in 1964 until 1978, he served as secretary of the Kannur Municipal Local Committee. He became a district committee member in 1978 and joined the district secretariat in 1986. He was elected to the CPI(M) State committee in 2005 and stepped down from the body in 2022. He contested the Kannur Assembly constituency as the LDF candidate in the 2006 election.",
+        "Mr. Sahadevan was the son of the late Kunhiraman and K.P. Thala of Kannothuchal in Elayavoor.",
+        "He is survived by his wife, K.K. Kaushalya, a former manager of the Kannur Town Service Cooperative Bank, and their two sons, K.P. Sajeevan and Shameer."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Veteran communist and trade union leader K.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sahadevan passed away in Kannur, Keralam, on Friday afternoon. Sahadevan was former CPI(M) State committee member and CITU State secretary.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kaushalya, a former manager of the Kannur Town Service Cooperative Bank, and their two sons, K.P.",
+      "vocabList": [
+        "Communist",
+        "Sahadevan",
+        "Afternoon",
+        "Secretary",
+        "Undergoing",
+        "Treatment"
+      ],
+      "summary": "Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.",
+      "keyPoints": "• Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.<br>• He had been undergoing treatment for age-related ailments.<br>• Mr. Sahadevan devoted more than six decades of his life to the communist and working-class movements, beginning his trade union activities at the age of 18. He remained at the forefront of workers’ struggles until the final day of his life."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
       "title": "A greying population, a strained care system",
       "link": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
-      "pubDate": "Fri, 23 Oct 2026 10:02:58 +0530",
+      "pubDate": "Fri, 23 Oct 2026 14:26:00 +0530",
       "dateIso": "2026-10-23",
       "dateDisplay": "23 Oct 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -67,7 +100,7 @@
       "categoryLabel": "🏛️ National & Polity",
       "title": "Southern States should strengthen intelligence-sharing, operational coordination: Telangana CM",
       "link": "https://www.thehindu.com/news/national/telangana/southern-states-should-strengthen-intelligence-sharing-operational-coordination-telangana-cm/article71615221.ece",
-      "pubDate": "Fri, 23 Oct 2026 14:23:13 +0530",
+      "pubDate": "Fri, 23 Oct 2026 14:36:04 +0530",
       "dateIso": "2026-10-23",
       "dateDisplay": "23 Oct 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -107,7 +140,7 @@
       "dateIso": "2026-10-23",
       "dateDisplay": "23 Oct 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/o291hz/article71615297.ece/alternates/LANDSCAPE_1200/farmers%20youth%20groups%20march%20delhi%20cec%20protest%20oct%2023.jpeg",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/t788iq/article71615297.ece/alternates/LANDSCAPE_1200/farmers%20youth%20groups%20march%20delhi%20cec%20protest%20oct%2023.jpeg",
       "fullParagraphs": [
         "The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak Khana, at the intersection of Kalibari Marg and Bhai Vir Singh Marg.",
         "Krantikari Yuva Sangathan (KYS) and the Students’ Federation of India (SFI) have extended their support to the protest, with activists from Delhi, Haryana and western Uttar Pradesh participating as well.",
@@ -200,37 +233,6 @@
       ],
       "summary": "The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 23, 2026), with the Saran Teachers’ constituency recording the highest turnout at 13.56%, followed by Patna at 12.88%.",
       "keyPoints": "• The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 23, 2026), with the Saran Teachers’ constituency recording the highest turnout at 13.56%, followed by Patna at 12.88%.<br>• As many as 5.32 lakh voters were eligible to decide the fate of 150 candidates in the fray. According to the office of the Chief Electoral Officer, among the Graduates’ constituencies, Darbhanga recorded the highest turnout at 8%, followed by Patna at 5.5%, Kosi at 5.14% and Tirhut at 4.81%.<br>• Among the Teachers’ constituencies, Saran recorded the highest turnout, followed by Patna, then Darbhanga at 12% and Tirhut at 5.88%. The average voting percentage for the Graduates’ constituencies was 5.86%, and for the Teachers’, 11.08%."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Speeding lorry rams ambulance in Telangana’s Nirmal; mother, ailing daughter dead",
-      "link": "https://www.thehindu.com/news/national/telangana/speeding-lorry-rams-ambulance-in-telanganas-nirmal-mother-ailing-daughter-dead/article71614772.ece",
-      "pubDate": "Fri, 23 Oct 2026 14:07:45 +0530",
-      "dateIso": "2026-10-23",
-      "dateDisplay": "23 Oct 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.",
-        "The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources.",
-        "The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment. The front portion of the ambulance was badly mangled in the impact. Four others, including the ambulance driver, sustained multiple injuries in the accident.",
-        "Sources said the lorry driver was suspected to be under the influence of alcohol and was driving at high speed on the wrong side of the road. Soan police registered a case and took up investigation.",
-        "Telangana issues guidelines for management of road safety funds",
-        "Telangana sees drop in road fatalities, but pedestrian safety remains a concern",
-        "‘Zero Fatalities’ goal puts 48 deadly corridors on Telangana’s road safety radar"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources. The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana issues guidelines for management of road safety funds Telangana sees drop in road fatalities, but pedestrian safety remains a concern ‘Zero Fatalities’ goal puts 48 deadly corridors on Telangana’s road safety radar",
-      "vocabList": [
-        "Daughter",
-        "Speeding",
-        "Ambulance",
-        "Junction",
-        "District",
-        "Telangana"
-      ],
-      "summary": "A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.",
-      "keyPoints": "• A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.<br>• The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources.<br>• The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment. The front portion of the ambulance was badly mangled in the impact. Four others, including the ambulance driver, sustained multiple injuries in the accident."
     },
     {
       "category": "economy",
@@ -1006,14 +1008,47 @@
     "2026-10-23": {
       "dateIso": "2026-10-23",
       "dateDisplay": "23 Oct 2026",
-      "updatedAt": "23 Oct 2026, 02:34 PM IST",
+      "updatedAt": "23 Oct 2026, 02:46 PM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "K.P. Sahadevan, Keralam CPI(M) leader and trade unionist, dies at 84",
+          "link": "https://www.thehindu.com/news/national/kerala/kp-sahadevan-keralam-cpim-leader-and-trade-unionist-dies-at-84/article71615312.ece",
+          "pubDate": "Fri, 23 Oct 2026 14:35:42 +0530",
+          "dateIso": "2026-10-23",
+          "dateDisplay": "23 Oct 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/qt1l6z/article71615354.ece/alternates/LANDSCAPE_1200/saha.jpg",
+          "fullParagraphs": [
+            "Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.",
+            "He had been undergoing treatment for age-related ailments.",
+            "Mr. Sahadevan devoted more than six decades of his life to the communist and working-class movements, beginning his trade union activities at the age of 18. He remained at the forefront of workers’ struggles until the final day of his life.",
+            "After completing his primary education, Mr. Sahadevan began his working life as a beedi worker. He entered public life as secretary of the Kannur division of the KP Tobacco Workers Union. He subsequently helped form and led numerous trade unions, emerging as a prominent voice of the working class in Keralam.",
+            "He served as a member of the CITU All India Working Committee, State Secretary of the Beedi and Cigar Workers Federation, and national vice-president of the federation. He was also the general secretary of the CITU district committee and a former member of the CPI(M) State committee.",
+            "Mr. Sahadevan endured imprisonment and repeated police brutality during his political career. During the Emergency, he was detained under the Maintenance of Internal Security Act (MISA) for 20 months. He spent nearly two more years in prison during different periods. He suffered severe injuries in police violence, including during a crackdown shortly before the Emergency. On March 17, 2003, he was again subjected to a brutal police assault during an LDF march to the Kannur Superintendent of Police’s office.",
+            "He became a member of the Communist Party in 1955-56. From the formation of the CPI(M) in 1964 until 1978, he served as secretary of the Kannur Municipal Local Committee. He became a district committee member in 1978 and joined the district secretariat in 1986. He was elected to the CPI(M) State committee in 2005 and stepped down from the body in 2022. He contested the Kannur Assembly constituency as the LDF candidate in the 2006 election.",
+            "Mr. Sahadevan was the son of the late Kunhiraman and K.P. Thala of Kannothuchal in Elayavoor.",
+            "He is survived by his wife, K.K. Kaushalya, a former manager of the Kannur Town Service Cooperative Bank, and their two sons, K.P. Sajeevan and Shameer."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Veteran communist and trade union leader K.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sahadevan passed away in Kannur, Keralam, on Friday afternoon. Sahadevan was former CPI(M) State committee member and CITU State secretary.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kaushalya, a former manager of the Kannur Town Service Cooperative Bank, and their two sons, K.P.",
+          "vocabList": [
+            "Communist",
+            "Sahadevan",
+            "Afternoon",
+            "Secretary",
+            "Undergoing",
+            "Treatment"
+          ],
+          "summary": "Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.",
+          "keyPoints": "• Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahadevan was former CPI(M) State committee member and CITU State secretary.<br>• He had been undergoing treatment for age-related ailments.<br>• Mr. Sahadevan devoted more than six decades of his life to the communist and working-class movements, beginning his trade union activities at the age of 18. He remained at the forefront of workers’ struggles until the final day of his life."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
           "title": "A greying population, a strained care system",
           "link": "https://www.thehindu.com/news/national/telangana/a-greying-population-a-strained-care-system/article71613250.ece",
-          "pubDate": "Fri, 23 Oct 2026 10:02:58 +0530",
+          "pubDate": "Fri, 23 Oct 2026 14:26:00 +0530",
           "dateIso": "2026-10-23",
           "dateDisplay": "23 Oct 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -1049,7 +1084,7 @@
           "categoryLabel": "🏛️ National & Polity",
           "title": "Southern States should strengthen intelligence-sharing, operational coordination: Telangana CM",
           "link": "https://www.thehindu.com/news/national/telangana/southern-states-should-strengthen-intelligence-sharing-operational-coordination-telangana-cm/article71615221.ece",
-          "pubDate": "Fri, 23 Oct 2026 14:23:13 +0530",
+          "pubDate": "Fri, 23 Oct 2026 14:36:04 +0530",
           "dateIso": "2026-10-23",
           "dateDisplay": "23 Oct 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -1089,7 +1124,7 @@
           "dateIso": "2026-10-23",
           "dateDisplay": "23 Oct 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/o291hz/article71615297.ece/alternates/LANDSCAPE_1200/farmers%20youth%20groups%20march%20delhi%20cec%20protest%20oct%2023.jpeg",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/t788iq/article71615297.ece/alternates/LANDSCAPE_1200/farmers%20youth%20groups%20march%20delhi%20cec%20protest%20oct%2023.jpeg",
           "fullParagraphs": [
             "The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak Khana, at the intersection of Kalibari Marg and Bhai Vir Singh Marg.",
             "Krantikari Yuva Sangathan (KYS) and the Students’ Federation of India (SFI) have extended their support to the protest, with activists from Delhi, Haryana and western Uttar Pradesh participating as well.",
@@ -1182,37 +1217,6 @@
           ],
           "summary": "The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 23, 2026), with the Saran Teachers’ constituency recording the highest turnout at 13.56%, followed by Patna at 12.88%.",
           "keyPoints": "• The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 23, 2026), with the Saran Teachers’ constituency recording the highest turnout at 13.56%, followed by Patna at 12.88%.<br>• As many as 5.32 lakh voters were eligible to decide the fate of 150 candidates in the fray. According to the office of the Chief Electoral Officer, among the Graduates’ constituencies, Darbhanga recorded the highest turnout at 8%, followed by Patna at 5.5%, Kosi at 5.14% and Tirhut at 4.81%.<br>• Among the Teachers’ constituencies, Saran recorded the highest turnout, followed by Patna, then Darbhanga at 12% and Tirhut at 5.88%. The average voting percentage for the Graduates’ constituencies was 5.86%, and for the Teachers’, 11.08%."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Speeding lorry rams ambulance in Telangana’s Nirmal; mother, ailing daughter dead",
-          "link": "https://www.thehindu.com/news/national/telangana/speeding-lorry-rams-ambulance-in-telanganas-nirmal-mother-ailing-daughter-dead/article71614772.ece",
-          "pubDate": "Fri, 23 Oct 2026 14:07:45 +0530",
-          "dateIso": "2026-10-23",
-          "dateDisplay": "23 Oct 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.",
-            "The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources.",
-            "The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment. The front portion of the ambulance was badly mangled in the impact. Four others, including the ambulance driver, sustained multiple injuries in the accident.",
-            "Sources said the lorry driver was suspected to be under the influence of alcohol and was driving at high speed on the wrong side of the road. Soan police registered a case and took up investigation.",
-            "Telangana issues guidelines for management of road safety funds",
-            "Telangana sees drop in road fatalities, but pedestrian safety remains a concern",
-            "‘Zero Fatalities’ goal puts 48 deadly corridors on Telangana’s road safety radar"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources. The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana issues guidelines for management of road safety funds Telangana sees drop in road fatalities, but pedestrian safety remains a concern ‘Zero Fatalities’ goal puts 48 deadly corridors on Telangana’s road safety radar",
-          "vocabList": [
-            "Daughter",
-            "Speeding",
-            "Ambulance",
-            "Junction",
-            "District",
-            "Telangana"
-          ],
-          "summary": "A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.",
-          "keyPoints": "• A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.<br>• The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources.<br>• The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment. The front portion of the ambulance was badly mangled in the impact. Four others, including the ambulance driver, sustained multiple injuries in the accident."
         },
         {
           "category": "economy",
@@ -2686,116 +2690,144 @@
       "id": "gk_23 Oct 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "23 Oct 2026",
-      "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
-      "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
-      "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
+      "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahade...\"?",
+      "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahade...\"?",
+      "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Veteran communist and trade union leader K.P. Sahadevan passed away in Kannur, Keralam, on Friday afternoon. He was 84. Mr. Sahade...\"?",
       "optsEn": [
-        "A greying population, a strained care system",
+        "K.P. Sahadevan, Keralam CPI(M) leader and trade unionist, dies at 84",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "A greying population, a strained care system",
+        "K.P. Sahadevan, Keralam CPI(M) leader and trade unionist, dies at 84",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "A greying population, a strained care system",
+        "K.P. Sahadevan, Keralam CPI(M) leader and trade unionist, dies at 84",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Hoping to find a more manageable way to earn a living, the 60-year-old borrowed money from acquaintances and set up a roadside vegetable stall. But another health problem emerged, making it difficult to keep the business running.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “This is a crucial requirement of those who are unable to step out of their house,” says Sobha."
+      "explanation": "<strong>1. Core Context & Background:</strong> Veteran communist and trade union leader K.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sahadevan passed away in Kannur, Keralam, on Friday afternoon. Sahadevan was former CPI(M) State committee member and CITU State secretary.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kaushalya, a former manager of the Kannur Town Service Cooperative Bank, and their two sons, K.P."
     },
     {
       "id": "gk_23 Oct 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "23 Oct 2026",
+      "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
+      "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
+      "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue. Hop...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A greying population, a strained care system",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A greying population, a strained care system",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A greying population, a strained care system",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Girija (name changed) spent years working as a domestic worker before her failing knees made it difficult for her to continue.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Hoping to find a more manageable way to earn a living, the 60-year-old borrowed money from acquaintances and set up a roadside vegetable stall. But another health problem emerged, making it difficult to keep the business running.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “This is a crucial requirement of those who are unable to step out of their house,” says Sobha."
+    },
+    {
+      "id": "gk_23 Oct 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "23 Oct 2026",
       "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Calling for a united front against criminal networks operating across State borders, Telangana Chief Minister A. Revanth Reddy on ...\"?",
       "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Calling for a united front against criminal networks operating across State borders, Telangana Chief Minister A. Revanth Reddy on ...\"?",
       "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Calling for a united front against criminal networks operating across State borders, Telangana Chief Minister A. Revanth Reddy on ...\"?",
       "optsEn": [
+        "Southern States should strengthen intelligence-sharing, operational coordination: ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Southern States should strengthen intelligence-sharing, operational coordination: ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Southern States should strengthen intelligence-sharing, operational coordination: ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Southern States should strengthen intelligence-sharing, operational coordination: ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Southern States should strengthen intelligence-sharing, operational coordination: ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Southern States should strengthen intelligence-sharing, operational coordination: ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Calling for a united front against criminal networks operating across State borders, Telangana Chief Minister A.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Revanth Reddy on Friday (October 23, 2026) urged southern States to strengthen intelligence-sharing and operational coordination, stressing that no State could effectively combat crime in isolation. Inaugurating the Southern States’ Police Coordination Committee meeting at the Telangana Integrated Command and Control Centre (TGICCC) in Hyderabad, the Chief Minister offered to share Telangana’s technological infrastructure and policing practices with neighbouring States to tackle cybercrime, narcotics trafficking and organised crime.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Maintaining that efficient, ethical and impartial policing was the first expectation of citizens, the Chief Minister said resources allocated to police modernisation and welfare should be viewed as an investment in public safety rather than expenditure."
     },
     {
-      "id": "gk_23 Oct 2026_3",
+      "id": "gk_23 Oct 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "23 Oct 2026",
       "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak...\"?",
       "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak...\"?",
       "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak...\"?",
       "optsEn": [
-        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Protests against SIR LIVE: March heads towards ECI HQ amid tight security in centr...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> The march to ECI, called by the Delhi Coordination Committee of People Against SIR — a people’s collective — started near Gole Dak Khana, at the intersection of Kalibari Marg and Bhai Vir Singh Marg.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Krantikari Yuva Sangathan (KYS) and the Students’ Federation of India (SFI) have extended their support to the protest, with activists from Delhi, Haryana and western Uttar Pradesh participating as well. Security was tightened near Bangla Sahib Gurudwara, with Delhi Police and Rapid Action Force (RAF) personnel deployed in large numbers ahead of the march.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Delhi / Special Intensive Revision of electoral rolls / protest / Election Commission of India / India / Live news"
     },
     {
-      "id": "gk_23 Oct 2026_4",
+      "id": "gk_23 Oct 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "23 Oct 2026",
       "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Chief Minister V. D. Satheesan has offered to host the exhibition of artist and photographer Raihan Vadra, son of Congress leader ...\"?",
       "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Chief Minister V. D. Satheesan has offered to host the exhibition of artist and photographer Raihan Vadra, son of Congress leader ...\"?",
       "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Chief Minister V. D. Satheesan has offered to host the exhibition of artist and photographer Raihan Vadra, son of Congress leader ...\"?",
       "optsEn": [
+        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Satheesan has offered to host the exhibition of artist and photographer Raihan Vadra, son of Congress leader Priyanka Gandhi Vadra, in Keralam , amid a controversy over the removal of some of his photographs depicting Delhi protests.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Raihan Vadra said the Bikaner House administration in Delhi pulled down many of his pictures of the protests at his solo exhibition, 'No Idea Is Final'. He claimed that the Bikaner House administration had warned him that the exhibition could be cancelled if he did not take down the pictures by 5 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> BJP spokesperson Pradeep Bhandari on Thursday said Bikaner House policy did not permit the display of political content and asked Priyanka Gandhi to find another way to \"launch\" her son into politics."
     },
     {
-      "id": "gk_23 Oct 2026_5",
+      "id": "gk_23 Oct 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "23 Oct 2026",
       "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 2...\"?",
@@ -2804,51 +2836,23 @@
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Brisk polling in eight Bihar MLC seats; 150 candidates in fray"
       ],
-      "ans": 2,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> The biennial election to eight Bihar Legislative Council seats witnessed brisk polling in the first two hours on Friday (October 23, 2026), with the Saran Teachers’ constituency recording the highest turnout at 13.56%, followed by Patna at 12.88%.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> As many as 5.32 lakh voters were eligible to decide the fate of 150 candidates in the fray. According to the office of the Chief Electoral Officer, among the Graduates’ constituencies, Darbhanga recorded the highest turnout at 8%, followed by Patna at 5.5%, Kosi at 5.14% and Tirhut at 4.81%.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Under it, the Bihar government provides post-result grants to private or community-run educational institutions that largely sustain themselves on students’ fees; the staff there do not have a regular pay scale, leading to unstable income."
-    },
-    {
-      "id": "gk_23 Oct 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "23 Oct 2026",
-      "qEn": "[23 Oct 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-j...\"?",
-      "qHi": "[23 Oct 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-j...\"?",
-      "qMr": "[23 Oct 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-j...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Speeding lorry rams ambulance in Telangana’s Nirmal; mother, ailing daughter dead",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Speeding lorry rams ambulance in Telangana’s Nirmal; mother, ailing daughter dead",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Speeding lorry rams ambulance in Telangana’s Nirmal; mother, ailing daughter dead",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> A mother and her ailing daughter were killed and four others injured when a speeding lorry rammed into an ambulance at Kadthal Y-junction in Soan mandal of Nirmal district, Telangana, late on Thursday (October 22, 2026) night.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased were identified as 50-year-old Paru Bhai and her 22-year-old daughter Saraswathi, of Jhari village in Gadiguda mandal of Adilabad district, according to sources. The accident occurred when the ambulance was carrying Saraswathi to a hospital in Hyderabad for treatment.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana issues guidelines for management of road safety funds Telangana sees drop in road fatalities, but pedestrian safety remains a concern ‘Zero Fatalities’ goal puts 48 deadly corridors on Telangana’s road safety radar"
     },
     {
       "id": "gk_23 Oct 2026_7",
