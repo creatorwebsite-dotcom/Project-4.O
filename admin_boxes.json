@@ -1,24 +1,15 @@
 {
-  "updated_at": "2026-10-23 13:26:03 IST",
+  "updated_at": "2026-10-23 13:28:28 IST",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 35,
-    "results": 13,
+    "latest_jobs": 29,
+    "results": 10,
     "admit_cards": 8,
     "answer_keys": 8,
     "syllabus": 8,
     "admissions": 8
   },
   "trending_top_6": [
-    {
-      "id": "3be99039dc2a",
-      "title": "India Post GDS Result 2026 Out",
-      "sub": "Result",
-      "url": "https://img2.freejobalert.com/news/2026/10/236451-6acdaff9c5fcc12590836.pdf",
-      "details": "India Post GDS Result 2026 has released on 12 October 2026 for 23,757 Gramin Dak Sevak, Branch Postmaster (BPM) and Assistant Branch Postmaster (ABPM)/Dak Sevak vacancies under Schedule-II, July 2026. Candidates can download the circle-wise 1st merit list PDF and search their registration number to check shortlisting status. Visit indiapostgdsonline.gov.in for the official result and document verification instructions.",
-      "rushScore": 103,
-      "active": true
-    },
     {
       "id": "010889f1bd36",
       "title": "RRB NTPC Apply Online 2026 Starts (Graduate and UG), Check Link, Fee and Last Date",
@@ -52,6 +43,15 @@
       "sub": "Admit Card",
       "url": "https://www.ibps.in",
       "details": "Official update for IBPS SO Mains admit card 2026 released at ibps.in for 1,035 Specialist Officer posts, exam on November 1. Check official dates, eligibility criteria, selection process, and direct portal links below.",
+      "rushScore": 100,
+      "active": true
+    },
+    {
+      "id": "2cdbf2723b8e",
+      "title": "India Post revenue crosses ₹4,000 cr for second straight quarter: Scindia",
+      "sub": "Result",
+      "url": "https://indiapostgdsonline.gov.in",
+      "details": "Official update for India Post revenue crosses ₹4,000 cr for second straight quarter: Scindia. Check official dates, eligibility criteria, selection process, and direct portal links below.",
       "rushScore": 100,
       "active": true
     },
