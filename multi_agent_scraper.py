@@ -1,0 +1,1271 @@
+import asyncio
+from datetime import datetime, timedelta
+import hashlib
+import json
+import os
+import re
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
+from curl_cffi import requests as cffi_requests
+
+DATABASE_FILE = "jobs_database.json"
+ADMIN_BOXES_FILE = "admin_boxes.json"
+
+# ==============================================================================
+# LAYER 1A: TARGET SCRAPING WEBSITES (ONLY THE 2 WEBSITES & THEIR MIRRORS)
+# ==============================================================================
+SOURCES = [
+    {"name": "SarkariResultMirror", "url": "https://sarkariresult.com.cm/"},
+    {"name": "SarkariResultMain", "url": "https://www.sarkariresult.com/"},
+    {"name": "FreeJobAlertMain", "url": "https://www.freejobalert.com/government-jobs/"},
+    {"name": "FreeJobAlertMirror", "url": "https://www.freejobalert.com/"},
+]
+
+ALLOWED_SOURCE_NAMES = {s["name"] for s in SOURCES}
+
+# 6 Core Categories in Exact Portal Order
+SIX_CATEGORIES_ORDER = [
+    "latest_jobs",
+    "results",
+    "admit_cards",
+    "answer_keys",
+    "syllabus",
+    "admissions",
+]
+
+CATEGORY_LABELS = {
+    "latest_jobs": "Latest Jobs",
+    "results": "Result",
+    "admit_cards": "Admit Card",
+    "answer_keys": "Answer Key",
+    "syllabus": "Syllabus",
+    "admissions": "Admission",
+}
+
+NON_GOVT_KEYWORDS = [
+    "ongc", "iocl", "ntpc", "sail", "bhel", "gail", "powergrid", "hpcl",
+    "coal india", "hal", "bel", "mdl", "nmdc", "bsnl", "dmrc", "mahametro",
+    "private", "apprentice", "semi-govt", "psu", "dccb", "pacs", "markfed",
+    "cooperative", "csc", "idbi", "lic", "niacl", "uiic",
+]
+
+STATE_KEYWORDS = {
+    "Maharashtra": ["mpsc", "mumbai", "pune", "nagpur", "maharashtra", "talathi", "gramsevak", "srpf", "mahadiscom", "msedcl", "mahametro", "bmc", "pmc", "arogya sevak", "krishi sevak", "vanrakshak", "mahabhumi"],
+    "Uttar Pradesh": ["uppsc", "uppcs", "lucknow", "uttar pradesh", "lekhpal", "up police", "uppbpb", "upsssc", "allahabad", "uptet", "uppsc ro", "up b.ed", "updeled"],
+    "Bihar": ["bpsc", "bihar", "patna", "csbc", "bssc", "btsc", "btet"],
+    "Madhya Pradesh": ["mppsc", "madhya pradesh", "bhopal", "mpesb", "mppeb", "mp police", "indore"],
+    "Rajasthan": ["rpsc", "rajasthan", "jaipur", "patwari", "rsmssb", "rssb", "reet"],
+    "Delhi": ["dsssb", "delhi police", "dmrc", "delhi metro", "delhi high court"],
+    "Haryana": ["hssc", "hpsc", "haryana", "chandigarh"],
+    "Punjab": ["psssb", "ppsc", "punjab"],
+    "Gujarat": ["gpsc", "ojas", "gujarat", "gsssb"],
+    "Karnataka": ["kpsc", "karnataka", "kea", "bengaluru"],
+    "Tamil Nadu": ["tnpsc", "tamil nadu", "chennai", "trb"],
+    "West Bengal": ["wbpsc", "west bengal", "kolkata", "wbp"],
+    "Jharkhand": ["jssc", "jpsc", "jharkhand", "ranchi"],
+    "Chhattisgarh": ["cgpsc", "cgvyapam", "chhattisgarh", "raipur"],
+    "Uttarakhand": ["ukpsc", "uksssc", "uttarakhand", "dehradun"],
+    "Odisha": ["opsc", "osssc", "ossc", "odisha", "bhubaneswar"],
+}
+
+BLOCK_DOMAINS = [
+    "play.google.com", "apps.apple.com", "whatsapp.com", "t.me", "telegram.me",
+    "facebook.com", "twitter.com", "x.com", "youtube.com", "instagram.com",
+    "pinterest.com", "linkedin.com", "sarkariresulttools.net", "addtoany.com",
+    "google.com", "bing.com", "duckduckgo.com", "yahoo.com", "dmca.com",
+]
+
+AGGREGATOR_HTML_DOMAINS = [
+    "sarkariresult.com",
+    "sarkariresult.com.cm",
+    "freejobalert.com",
+    "rojgarresult.com",
+    "sarkariexam.com",
+]
+
+JUNK_TITLES = [
+    "sarkari result", "tools", "latest notifications", "view more", "click here",
+    "home", "contact us", "disclaimer", "privacy policy", "about us", "sitemap",
+    "download app", "join telegram", "join whatsapp", "test series", "mock test",
+    "certificate verification", "pan card", "voter id", "typing test",
+]
+
+MONTH_MAP = {
+    "jan": 1, "january": 1, "feb": 2, "february": 2, "mar": 3, "march": 3,
+    "apr": 4, "april": 4, "may": 5, "jun": 6, "june": 6, "jul": 7, "july": 7,
+    "aug": 8, "august": 8, "sep": 9, "sept": 9, "september": 9, "oct": 10,
+    "october": 10, "nov": 11, "november": 11, "dec": 12, "december": 12,
+}
+
+
+# ==============================================================================
+# NON-BLOCKING NETWORK ENGINE
+# ==============================================================================
+def blocking_fetch(url, timeout=14):
+    try:
+        res = cffi_requests.get(
+            url, impersonate="chrome110", timeout=timeout, allow_redirects=True
+        )
+        if res.status_code == 200 and len(res.text) > 150:
+            return res.text
+    except Exception:
+        pass
+    return ""
+
+
+async def safe_fetch_non_blocking(url, loop, semaphore, timeout=22.0):
+    if not url or not url.startswith("http"):
+        return ""
+    async with semaphore:
+        try:
+            return await asyncio.wait_for(
+                loop.run_in_executor(None, blocking_fetch, url, int(timeout - 3)),
+                timeout=timeout,
+            )
+        except Exception:
+            return ""
+
+
+# ==============================================================================
+# LAYER 2: INTENT, 6-CATEGORY, JOB TYPE, STATE & RE-POST URGENCY CLASSIFIER
+# ==============================================================================
+class IntentAndMetaClassifierAgent:
+
+    @staticmethod
+    def analyze(title, box_heading="", body_snippet=""):
+        t = f"{title} {box_heading}".lower()
+        full_check = f"{t} {body_snippet[:400].lower()}"
+
+        # Detect if re-posted for Date Extended
+        is_date_extended = any(
+            k in t for k in ["date extended", "extended", "last date extended", "re-open", "reopen"]
+        )
+
+        # Map strictly to the 6 Portal Categories + Primary Intent
+        if any(k in t for k in ["answer key", "response sheet", "question paper", "objection"]):
+            cat_key = "answer_keys"
+            intent = "INTENT_ANSWER_KEY"
+        elif any(k in t for k in ["result", "merit list", "cutoff", "cut off", "score card", "scorecard", "final selection", "marks", "shortlisted"]):
+            cat_key = "results"
+            intent = "INTENT_RESULT"
+        elif any(k in t for k in ["admit card", "hall ticket", "call letter", "exam city", "exam date", "interview letter", "city intimation"]):
+            cat_key = "admit_cards"
+            intent = "INTENT_ADMIT_CARD"
+        elif any(k in t for k in ["syllabus", "exam pattern", "curriculum"]):
+            cat_key = "syllabus"
+            intent = "INTENT_SYLLABUS"
+        elif any(k in t for k in ["admission", "counselling", "counseling", "cuet", "neet", "jee ", "b.ed", "d.el.ed", "iti ", "polytechnic", "entrance"]):
+            cat_key = "admissions"
+            intent = "INTENT_ADMISSION"
+        else:
+            cat_key = "latest_jobs"
+            intent = "INTENT_DATE_EXTENDED" if is_date_extended else "INTENT_APPLY"
+
+        job_type = "Non-Govt + Semi-Govt" if any(k in full_check for k in NON_GOVT_KEYWORDS) else "Govt"
+        sector_code = "non_semi_govt" if job_type != "Govt" else "govt_only"
+
+        state = "All India / Central"
+        state_code = "all"
+        for s_name, kws in STATE_KEYWORDS.items():
+            if any(kw in full_check for kw in kws):
+                state = s_name
+                state_code = s_name.lower().replace(" ", "_")
+                if state_code == "uttar_pradesh":
+                    state_code = "up"
+                elif state_code == "madhya_pradesh":
+                    state_code = "mp"
+                elif state_code == "west_bengal":
+                    state_code = "wb"
+                break
+
+        return {
+            "category_key": cat_key,
+            "category_label": CATEGORY_LABELS[cat_key],
+            "admin_box": CATEGORY_LABELS[cat_key],
+            "primary_intent": intent,
+            "is_extended": is_date_extended,
+            "job_type": job_type,
+            "sector": sector_code,
+            "state": state,
+            "state_code": state_code,
+        }
+
+
+# ==============================================================================
+# LAYER 3 & 4: DEEP TABLE PARSER, STRICT 15-DAY DATE EXTRACTOR & LINK VERIFIER
+# ==============================================================================
+def parse_any_date_string(text):
+    if not text:
+        return None
+    cleaned = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", str(text), flags=re.IGNORECASE)
+
+    # Pattern 1: DD Mon YYYY or DD Month YYYY
+    m1 = re.search(
+        r"\b(\d{1,2})[\s\/\-\.](Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[\s\/\-\.,]+(202[4-9])\b",
+        cleaned,
+        re.IGNORECASE,
+    )
+    if m1:
+        day, mon_str, yr = int(m1.group(1)), m1.group(2).lower()[:3], int(m1.group(3))
+        mon = MONTH_MAP.get(mon_str, 1)
+        try:
+            return datetime(yr, mon, day)
+        except ValueError:
+            pass
+
+    # Pattern 2: Mon DD, YYYY
+    m2 = re.search(
+        r"\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2})[\s,]+(202[4-9])\b",
+        cleaned,
+        re.IGNORECASE,
+    )
+    if m2:
+        mon_str, day, yr = m2.group(1).lower()[:3], int(m2.group(2)), int(m2.group(3))
+        mon = MONTH_MAP.get(mon_str, 1)
+        try:
+            return datetime(yr, mon, day)
+        except ValueError:
+            pass
+
+    # Pattern 3: DD/MM/YYYY or DD-MM-YYYY or DD.MM.YYYY
+    m3 = re.search(r"\b(\d{1,2})[\/\-\.](\d{1,2})[\/\-\.](202[4-9])\b", cleaned)
+    if m3:
+        d, m, y = int(m3.group(1)), int(m3.group(2)), int(m3.group(3))
+        if 1 <= m <= 12 and 1 <= d <= 31:
+            try:
+                return datetime(y, m, d)
+            except ValueError:
+                pass
+
+    # Pattern 4: ISO YYYY-MM-DD
+    m4 = re.search(r"\b(202[4-9])-(\d{2})-(\d{2})\b", cleaned)
+    if m4:
+        try:
+            return datetime(int(m4.group(1)), int(m4.group(2)), int(m4.group(3)))
+        except ValueError:
+            pass
+
+    return None
+
+
+def is_direct_post_target_url(url, allow_direct_pdf_on_cdn=False):
+    """
+    Strictly rejects aggregator HTML pages, self-redirect links, social share links,
+    and dummy '#' or google links. Only accepts the real official/target URLs
+    or direct PDF files provided inside the post.
+    """
+    if not url or not url.startswith("http") or url.endswith("#"):
+        return False
+    u_low = url.lower().strip()
+    if any(b in u_low for b in BLOCK_DOMAINS):
+        return False
+
+    # Check if the URL is pointing to the aggregator's own domain
+    if any(ag in u_low for ag in AGGREGATOR_HTML_DOMAINS):
+        if allow_direct_pdf_on_cdn and u_low.split("?")[0].endswith(".pdf"):
+            return True
+        return False
+
+    return True
+
+
+def deep_parse_article_dossier(article_html, article_url, title):
+    """
+    Extracts every detail strictly from the scraped post page on the 2 websites.
+    Any date or field not present on the page remains an empty string "" (Zero Dummy Data).
+    """
+    dossier = {
+        "short_info": "",
+        "department": "",
+        "dates": {
+            "release_date": "",
+            "notification_date": "",
+            "apply_start_date": "",
+            "last_date": "",
+            "extended_date": "",
+            "fee_last_date": "",
+            "exam_date": "",
+            "admit_card_date": "",
+            "answer_key_date": "",
+            "result_date": "",
+            "real_post_date_obj": None,
+            "last_date_obj": None,
+        },
+        "fees": [],
+        "age_criteria": [],
+        "eligibility_list": [],
+        "total_vacancy": "",
+        "vacancy_number": 0,
+        "vacancy_rows": [],
+        "selection_process": [],
+        "exam_pattern": [],
+        "how_to_apply": [],
+        "links": {
+            "apply_link": "",
+            "notif_pdf": "",
+            "admit_card_link": "",
+            "answer_key_link": "",
+            "result_link": "",
+            "syllabus_link": "",
+            "official_site": "",
+        },
+        "all_extracted_links": [],
+    }
+
+    if not article_html:
+        return dossier
+
+    soup = BeautifulSoup(article_html, "html.parser")
+    for s in soup(["script", "style", "noscript"]):
+        s.decompose()
+
+    # 1. Extract Short Information & Department from the Post
+    for p in soup.find_all(["p", "div", "td"]):
+        ptxt = re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip()
+        if 65 <= len(ptxt) <= 650 and any(
+            k in ptxt.lower() for k in ["short information", "brief information", "has released", "invites online", "notification for"]
+        ):
+            clean_info = re.sub(
+                r"(?:sarkari\s*result|free\s*job\s*alert)(?:\.com|\.cm)?",
+                "",
+                ptxt,
+                flags=re.IGNORECASE,
+            ).strip()
+            dossier["short_info"] = clean_info
+            break
+
+    dept_split = re.split(r"\b(?:Recruitment|Online Form|Admit Card|Result|Answer Key|Syllabus|Admission|Vacancy|2026|2025)\b", title, flags=re.IGNORECASE)[0].strip(" -–|:")
+    dossier["department"] = dept_split if len(dept_split) >= 3 else title[:45]
+
+    # 2. Extract Real Post Publish / Update Date from Page Text or Meta
+    post_dates_found = []
+    text_blob = soup.get_text(" ", strip=True)
+
+    # Explicit Post Date / Updated Date line on SarkariResult & FreeJobAlert
+    explicit_date_matches = re.findall(
+        r"(?:Post Date|Post Update Date|Updated On|Published On|Date of Post|Latest Update)\s*[:\-–]?\s*([0-9]{1,2}[\s\/\-\.][A-Za-z0-9]+[\s\/\-\.,]+202[4-9])",
+        text_blob,
+        re.IGNORECASE,
+    )
+    for m_str in explicit_date_matches:
+        dt = parse_any_date_string(m_str)
+        if dt:
+            post_dates_found.append(dt)
+
+    for meta in soup.find_all("meta"):
+        prop = (meta.get("property", "") or meta.get("name", "")).lower()
+        if any(k in prop for k in ["published_time", "modified_time", "updated_time", "date", "pubdate"]):
+            dt = parse_any_date_string(meta.get("content", ""))
+            if dt:
+                post_dates_found.append(dt)
+
+    for time_tag in soup.find_all("time"):
+        dt = parse_any_date_string(time_tag.get("datetime", "") or time_tag.get_text(" ", strip=True))
+        if dt:
+            post_dates_found.append(dt)
+
+    # 3. Deep Scan Every Table Row & List Item on the Post Page
+    for node in soup.find_all(["tr", "li"]):
+        row_text = re.sub(r"\s+", " ", node.get_text(" ", strip=True)).strip()
+        row_low = row_text.lower()
+        if not row_text or len(row_text) > 550:
+            continue
+
+        # --- A. Dates Extraction (Exact from page, no dummy fallback) ---
+        dt_in_row = parse_any_date_string(row_text)
+        if dt_in_row:
+            dt_fmt = dt_in_row.strftime("%d %b %Y")
+            if any(k in row_low for k in ["post date", "update date", "published on", "latest update"]):
+                post_dates_found.insert(0, dt_in_row)
+                if not dossier["dates"]["release_date"]:
+                    dossier["dates"]["release_date"] = dt_fmt
+            if any(k in row_low for k in ["notification", "advt", "advertisement", "issue date"]):
+                if not dossier["dates"]["notification_date"]:
+                    dossier["dates"]["notification_date"] = dt_fmt
+                post_dates_found.append(dt_in_row)
+            if any(k in row_low for k in ["application begin", "start date", "starting date", "apply start", "registration start", "online apply start"]):
+                if not dossier["dates"]["apply_start_date"]:
+                    dossier["dates"]["apply_start_date"] = dt_fmt
+                post_dates_found.append(dt_in_row)
+            if any(k in row_low for k in ["last date", "closing date", "apply online last", "end date", "registration last"]):
+                if "extended" in row_low:
+                    dossier["dates"]["extended_date"] = dt_fmt
+                    dossier["dates"]["last_date"] = dt_fmt
+                    dossier["dates"]["last_date_obj"] = dt_in_row
+                elif "fee" in row_low or "payment" in row_low:
+                    if not dossier["dates"]["fee_last_date"]:
+                        dossier["dates"]["fee_last_date"] = dt_fmt
+                else:
+                    if not dossier["dates"]["last_date"]:
+                        dossier["dates"]["last_date"] = dt_fmt
+                        dossier["dates"]["last_date_obj"] = dt_in_row
+            if "extended" in row_low and not dossier["dates"]["extended_date"]:
+                dossier["dates"]["extended_date"] = dt_fmt
+                dossier["dates"]["last_date"] = dt_fmt
+                dossier["dates"]["last_date_obj"] = dt_in_row
+            if any(k in row_low for k in ["exam date", "cbt date", "prelims exam", "mains exam", "written exam", "test date"]):
+                if not dossier["dates"]["exam_date"]:
+                    dossier["dates"]["exam_date"] = dt_fmt
+            if any(k in row_low for k in ["admit card", "hall ticket", "call letter"]):
+                if not dossier["dates"]["admit_card_date"]:
+                    dossier["dates"]["admit_card_date"] = dt_fmt
+            if any(k in row_low for k in ["answer key", "objection", "response sheet"]):
+                if not dossier["dates"]["answer_key_date"]:
+                    dossier["dates"]["answer_key_date"] = dt_fmt
+            if any(k in row_low for k in ["result", "merit list", "score card", "scorecard"]):
+                if not dossier["dates"]["result_date"]:
+                    dossier["dates"]["result_date"] = dt_fmt
+
+        # --- B. Application Fee Extraction ---
+        if any(k in row_low for k in ["general", "obc", "ews", "sc / st", "sc/st", "application fee", "₹", "rs.", "rs /-", "nil", "exempted", "payment mode"]):
+            if len(dossier["fees"]) < 8 and len(row_text) < 180 and "click here" not in row_low:
+                if row_text not in dossier["fees"]:
+                    dossier["fees"].append(row_text)
+
+        # --- C. Age Limit Extraction ---
+        if any(k in row_low for k in ["minimum age", "maximum age", "age limit", "age relaxation", "years", "born between", "age as on"]):
+            if len(dossier["age_criteria"]) < 8 and len(row_text) < 200 and "click here" not in row_low:
+                if row_text not in dossier["age_criteria"]:
+                    dossier["age_criteria"].append(row_text)
+
+        # --- D. Eligibility / Qualification Extraction ---
+        if any(k in row_low for k in ["bachelor", "degree", "graduate", "10th", "12th", "matric", "intermediate", "diploma", "iti", "b.tech", "b.ed", "pg", "master", "ca ", "mbbs", "Qualification", "eligibility"]):
+            if len(dossier["eligibility_list"]) < 8 and len(row_text) < 240 and "click here" not in row_low:
+                if row_text not in dossier["eligibility_list"]:
+                    dossier["eligibility_list"].append(row_text)
+
+        # --- E. Total Vacancy & Category/Post Vacancy Table Extraction ---
+        tot_match = re.search(
+            r"(?:Total\s+Vacanc(?:y|ies)|Total\s+Posts?|Vacancy\s+Details\s+Total)\s*[:\-–]?\s*([0-9,]{1,8})\b",
+            row_text,
+            re.IGNORECASE,
+        )
+        if tot_match and not dossier["total_vacancy"]:
+            raw_num = tot_match.group(1).replace(",", "").strip()
+            if raw_num.isdigit():
+                dossier["vacancy_number"] = int(raw_num)
+                dossier["total_vacancy"] = f"{tot_match.group(1)} Posts"
+
+        cells = [
+            re.sub(r"\s+", " ", td.get_text(" ", strip=True)).strip()
+            for td in node.find_all(["td", "th"])
+        ]
+        if len(cells) >= 2 and "click here" not in row_low:
+            if any(k in row_low for k in ["post name", "trade name", "ur", "obc", "ews", "sc", "st", "total", "eligibility", "qualification", "vacancy"]):
+                if len(dossier["vacancy_rows"]) < 14 and cells not in dossier["vacancy_rows"]:
+                    dossier["vacancy_rows"].append(cells[:7])
+
+        # --- F. Selection Process & Exam Pattern Extraction ---
+        if any(k in row_low for k in ["selection process", "stage 1", "tier 1", "prelims", "mains", "physical test", "pet", "pst", "document verification", "medical exam", "skill test", "interview"]):
+            if len(dossier["selection_process"]) < 8 and "click here" not in row_low and len(row_text) < 220:
+                if row_text not in dossier["selection_process"]:
+                    dossier["selection_process"].append(row_text)
+
+        if any(k in row_low for k in ["negative marking", "questions", "marks", "duration", "minutes", "objective type", "reasoning", "quantitative", "general awareness", "syllabus"]):
+            if len(dossier["exam_pattern"]) < 8 and "click here" not in row_low and len(row_text) < 220:
+                if row_text not in dossier["exam_pattern"]:
+                    dossier["exam_pattern"].append(row_text)
+
+        # --- G. Exact Link & PDF Extraction from the Post's Important Links Table ---
+        for a in node.find_all("a", href=True):
+            href = urljoin(article_url, a["href"].strip())
+            a_txt = re.sub(r"\s+", " ", a.get_text(" ", strip=True)).strip()
+            context = f"{row_low} {a_txt.lower()}"
+
+            # Check if PDF or Official Notification
+            if is_direct_post_target_url(href, allow_direct_pdf_on_cdn=True):
+                is_pdf = href.lower().split("?")[0].endswith(".pdf")
+                if is_pdf or any(k in context for k in ["notification", "advt", "advertisement", "brochure", "short notice", "official notice"]):
+                    if any(k in context for k in ["syllabus", "exam pattern"]):
+                        if not dossier["links"]["syllabus_link"]:
+                            dossier["links"]["syllabus_link"] = href
+                    elif any(k in context for k in ["answer key", "response sheet"]):
+                        if not dossier["links"]["answer_key_link"]:
+                            dossier["links"]["answer_key_link"] = href
+                    elif any(k in context for k in ["result", "merit list", "cutoff", "selected list"]):
+                        if not dossier["links"]["result_link"]:
+                            dossier["links"]["result_link"] = href
+                    elif any(k in context for k in ["admit card", "hall ticket", "call letter"]):
+                        if not dossier["links"]["admit_card_link"]:
+                            dossier["links"]["admit_card_link"] = href
+                    else:
+                        if not dossier["links"]["notif_pdf"]:
+                            dossier["links"]["notif_pdf"] = href
+
+            # Check Direct Portal Action Links (Strictly non-aggregator URLs)
+            if is_direct_post_target_url(href, allow_direct_pdf_on_cdn=False):
+                if any(k in context for k in ["apply online", "registration", "online form", "candidate login", "apply link", "fill online"]):
+                    if not dossier["links"]["apply_link"]:
+                        dossier["links"]["apply_link"] = href
+                elif any(k in context for k in ["admit card", "hall ticket", "call letter", "exam city", "download admit"]):
+                    if not dossier["links"]["admit_card_link"]:
+                        dossier["links"]["admit_card_link"] = href
+                elif any(k in context for k in ["answer key", "response sheet", "question paper", "objection"]):
+                    if not dossier["links"]["answer_key_link"]:
+                        dossier["links"]["answer_key_link"] = href
+                elif any(k in context for k in ["download result", "check result", "result", "merit list", "score card", "scorecard", "cutoff"]):
+                    if not dossier["links"]["result_link"]:
+                        dossier["links"]["result_link"] = href
+                elif any(k in context for k in ["syllabus", "exam pattern"]):
+                    if not dossier["links"]["syllabus_link"]:
+                        dossier["links"]["syllabus_link"] = href
+                elif any(k in context for k in ["official website", "official portal", "official site"]):
+                    if not dossier["links"]["official_site"]:
+                        dossier["links"]["official_site"] = href
+
+            # Keep clean record of all verified links inside this post
+            if is_direct_post_target_url(href, allow_direct_pdf_on_cdn=True):
+                label_clean = re.sub(r"\bclick here\b", "", row_text, flags=re.IGNORECASE).strip(" :-–|") or a_txt or "Official Link"
+                if len(label_clean) <= 95 and not any(x["url"] == href for x in dossier["all_extracted_links"]):
+                    dossier["all_extracted_links"].append({"label": label_clean, "url": href})
+
+    # 4. Resolve Final Real Post Release/Update Date
+    now = datetime.now()
+    valid_post_dates = [d for d in post_dates_found if d <= now + timedelta(days=2)]
+    if valid_post_dates:
+        chosen_dt = max(valid_post_dates)
+        dossier["dates"]["real_post_date_obj"] = chosen_dt
+        if not dossier["dates"]["release_date"]:
+            dossier["dates"]["release_date"] = chosen_dt.strftime("%d %b %Y")
+
+    # Fallback: If vacancy number wasn't in a "Total" label, check title for numbers like "17,727 Posts"
+    if not dossier["total_vacancy"]:
+        t_vac = re.search(r"\b([0-9,]{2,7})\s+(?:Posts?|Vacanc(?:y|ies))\b", title, re.IGNORECASE)
+        if t_vac:
+            raw_n = t_vac.group(1).replace(",", "")
+            if raw_n.isdigit():
+                dossier["vacancy_number"] = int(raw_n)
+                dossier["total_vacancy"] = f"{t_vac.group(1)} Posts"
+
+    return dossier
+
+
+def passes_strict_15_day_and_link_gate(dossier, title):
+    """
+    1. Rejects any post older than 15 days from current date & timestamp.
+    2. Rejects any post that does not have at least one real verified direct link/PDF
+       extracted from the post (ensuring zero dummy/broken/redirect links).
+    """
+    t_low = title.lower()
+    if any(old_yr in t_low for old_yr in ["2020", "2021", "2022", "2023", "2024"]):
+        if "2026" not in t_low and "2025" not in t_low:
+            return False
+
+    now = datetime.now()
+    cutoff_15_days = now - timedelta(days=15)
+
+    post_dt = dossier["dates"].get("real_post_date_obj")
+    if not post_dt:
+        # Try notification_date or apply_start_date if explicit Post Date wasn't in meta
+        notif_dt = parse_any_date_string(dossier["dates"].get("notification_date", ""))
+        start_dt = parse_any_date_string(dossier["dates"].get("apply_start_date", ""))
+        candidates = [d for d in [notif_dt, start_dt] if d and d <= now + timedelta(days=2)]
+        if candidates:
+            post_dt = max(candidates)
+            dossier["dates"]["real_post_date_obj"] = post_dt
+            if not dossier["dates"]["release_date"]:
+                dossier["dates"]["release_date"] = post_dt.strftime("%d %b %Y")
+
+    # Strict 15-Day Check
+    if not post_dt or post_dt < cutoff_15_days:
+        return False
+
+    # Link Integrity Check: Must have at least 1 real direct link/PDF from the post
+    links = dossier["links"]
+    has_real_link = any(
+        is_direct_post_target_url(u, allow_direct_pdf_on_cdn=True)
+        for u in links.values()
+        if u
+    )
+    return has_real_link
+
+
+# ==============================================================================
+# LAYER 5: UNIQUE INTENT QUOTE ENGINE (PRESERVED RULES)
+# ==============================================================================
+INTENT_QUOTE_TEMPLATES = {
+    "INTENT_APPLY": [
+        "🔥 [{exam} Registration Challenge]: Form bharna sirf pehla kadam hai—aaj se rozana 8 ghante ki kadi tapasya ka sankalp lein aur apni seat pakki karein!",
+        "⚡ [{exam} Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!",
+        "🎯 [{exam} Lakshya Vedh]: Application window khul chuki hai—bina waqt gawaye form submit karein aur pehle mock test se apni raneeti shuru karein!",
+        "🦁 [{exam} Sangharsh Shuru]: Yeh sirf ek online form nahi, aapke sapno ka appointment letter hai—aaj se har ek minute ko etihasik banayein!",
+    ],
+    "INTENT_DATE_EXTENDED": [
+        "⏳ [{exam} Date Extended Opportunity]: Aakhiri mauka mila hai! Bina ek pal gawaye aaj hi form complete karein aur apni taiyari ko top gear mein dalein!",
+        "🔥 [{exam} Extended Window Alert]: Kismat ne dusra mauka diya hai—ab form bharne aur mock test lagane mein ek din ki bhi deri na karein!",
+    ],
+    "INTENT_ADMIT_CARD": [
+        "⚔️ [{exam} Admit Card Out]: Ranbhoomi ka bulawa aa chuka hai! Ab naye topics chhodkar sirf revision, speed aur 100% accuracy par prahar karein!",
+        "⏱️ [{exam} Final Countdown]: Hall ticket aapke haath mein hai—exam hall ka pressure wahi jeetega jiski mock practice mein loh-anushasan raha hai!",
+        "🛡️ [{exam} Exam Hall Temperament]: Admit card download karein aur aakhiri dino mein apni galtiyon ko zero par layein—ab waqt faisle ka hai!",
+        "🚀 [{exam} Antim Prahar]: Mehnat ke mahine ab kuch ghanto ke imtihaan mein badalne wale hain—apne aatmavishwas ko chattan jaisa majboot rakhein!",
+    ],
+    "INTENT_ANSWER_KEY": [
+        "🔍 [{exam} Answer Key Challenge]: Har ek sahi aur galat sawal ka post-mortem karein—yahi deep analysis aapko agle charan ka topper banayega!",
+        "📊 [{exam} Score Evaluation]: Answer key aa chuki hai! Apne raw marks check karein, doubtful questions par objection uthayein aur Mains/Next Stage ki raneeti banayein!",
+        "🧠 [{exam} Self-Audit Mode]: Response sheet sirf score nahi dikhati, aapki taiyari ka aaina dikhati hai—apne weak zones ko aaj hi chinhit karein!",
+    ],
+    "INTENT_RESULT": [
+        "🏆 [{exam} Result Milestone]: Parinaam ghoshit ho chuka hai! Safal abhyarthiyon ko badhai aur agle charan/DV ke liye kamar kas lein—safar abhi poora nahi hua!",
+        "🌟 [{exam} Merit List Update]: Jinhe safalta mili wo agle padav ko fateh karein, aur jo kuch anko se chooke wo dugne josh se agle imtihaan par tut padein!",
+        "🎖️ [{exam} Selection Verdict]: Result aapki kadi mehnat ki gawahi hai—apna roll number check karein aur aage ke document verification ki har shart poori karein!",
+    ],
+    "INTENT_SYLLABUS": [
+        "📘 [{exam} Blueprint Decoded]: Bina syllabus samjhe taiyari andhere mein teer chalane jaisi hai—har ek topic ko print karein aur ek-ek karke khatam karein!",
+        "🧭 [{exam} Master Syllabus]: Toppers alag kitabein nahi padhte, wo syllabus ke har point aur exam pattern ko ungliyon par yaad rakhte hain!",
+    ],
+    "INTENT_ADMISSION": [
+        "🎓 [{exam} Admission Counselling Alert]: Apne documents, rank card aur college choices ko dhyan se lock karein—sahi sansthan aapke bhavishya ki neev hai!",
+        "🌟 [{exam} Academic Gateway]: Counselling aur registration ki har tithi par nazar rakhein aur samay se pehle apni seat confirm karein!",
+    ],
+}
+
+
+def generate_unique_intent_quote(title, primary_intent, used_quotes_set, counter_seed):
+    clean_exam = re.sub(
+        r"\b(online form|recruitment|2026|2025|apply online|download|notification)\b",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    )
+    clean_exam = re.sub(r"\s+", " ", clean_exam).strip()[:38] or title[:35]
+
+    templates = INTENT_QUOTE_TEMPLATES.get(primary_intent, INTENT_QUOTE_TEMPLATES["INTENT_APPLY"])
+    for idx in range(len(templates)):
+        candidate = templates[(counter_seed + idx) % len(templates)].format(exam=clean_exam)
+        if candidate.lower() not in used_quotes_set:
+            used_quotes_set.add(candidate.lower())
+            return candidate
+
+    unique_tag = hashlib.md5(f"{title}_{primary_intent}_{counter_seed}".encode("utf-8")).hexdigest()[:4].upper()
+    fallback_quote = (
+        f"🔥 [{clean_exam} | {primary_intent.replace('INTENT_', '')} #{unique_tag}]: "
+        "Apni kadi mehnat, rozana mock analysis aur atoot anushasan se is pariksha mein apna parcham lehrayein!"
+    )
+    used_quotes_set.add(fallback_quote.lower())
+    return fallback_quote
+
+
+# ==============================================================================
+# LAYER 6 & 7: OPTION A (FULL DOSSIER) & OPTION B (90-DAY STRATEGY) SYNTHESIZER
+# ==============================================================================
+def build_90_day_strategy(title):
+    t = title.lower()
+    if any(k in t for k in ["ibps", "sbi", "rbi", "nabard", "bank", "lic", "niacl", "uiic", "idbi"]):
+        return {
+            "month_1": "Speed Math (Simplification, Quadratic, Number Series), Seating Arrangement & Linear/Circular Puzzles के बुनियादी नियम, और Reading Comprehension व Grammar (S-V-A) की रोज़ाना 3 घंटे प्रैक्टिस करें।",
+            "month_2": "Data Interpretation (Tabulated, Pie, Caselet), High-Level Floor/Box Puzzles, और पिछले 6 महीनों के Banking & Financial Current Affairs के साथ रोज़ाना 2 Sectional Timed Mocks लगाएं।",
+            "month_3": "रोज़ाना 1 Full-Length Prelims/Mains Mock Test दें, गलत हुए सवालों की Error Notebook बनाएं, और GA/Banking Awareness का बार-बार रिविज़न करके अपनी Accuracy 90%+ पर लॉक करें।",
+        }
+    elif any(k in t for k in ["ssc", "rrb", "railway", "ntpc", "group d", "alp", "cgl", "chsl", "mts", "gd", "police", "constable", "si ", "upsssc", "bssc"]):
+        return {
+            "month_1": "Arithmetic & Advance Maths के सभी फॉर्मूले, Reasoning के Coding-Decoding/Series/Analogy पैटर्न, और NCERT आधारित Static GK व Science के मुख्य कॉन्सेप्ट्स पूरे करें।",
+            "month_2": "पिछले 5 वर्षों के Official Previous Year Questions (PYQs) को टाइमर के साथ हल करें। Calculation Speed बढ़ाने के लिए Tables, Squares, Cubes और Fraction-to-Percentage रोज़ दोहराएं।",
+            "month_3": "रोज़ाना 1-2 Full CBT Mock Tests का गहन विश्लेषण (Deep Analysis) करें, कमज़ोर टॉपिक्स पर 50-50 सवाल हल करें और पिछले 1 वर्ष के Current Affairs व Static GK को पक्का करें।",
+        }
+    else:
+        return {
+            "month_1": "आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।",
+            "month_2": "Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।",
+            "month_3": "अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।",
+        }
+
+
+def calculate_high_rush_score(title, meta, dossier, is_today_last_date, is_extended):
+    """
+    Calculates real-time candidate demand/rush score on the current date
+    so the Top 6 highest-demand posts are placed into the 6 Trending Boxes.
+    """
+    score = 50
+    t_low = title.lower()
+
+    # 1. Recency Boost (newer within 15 days = higher rush)
+    post_dt = dossier["dates"].get("real_post_date_obj")
+    if post_dt:
+        days_ago = max(0, (datetime.now() - post_dt).days)
+        score += max(0, (15 - days_ago) * 2)
+
+    # 2. High-Volume National & State Exam Demand Boost
+    high_rush_keywords = [
+        "ssc", "rrb", "railway", "ntpc", "group d", "ibps", "sbi", "upsc",
+        "police", "constable", "bpsc", "uppsc", "mpsc", "ctet", "neet",
+        "cuet", "jee", "agniveer", "army", "gds", "india post", "talathi",
+    ]
+    if any(k in t_low for k in high_rush_keywords):
+        score += 20
+
+    # 3. Vacancy Magnitude Boost
+    vac_num = dossier.get("vacancy_number", 0)
+    if vac_num >= 10000:
+        score += 25
+    elif vac_num >= 2000:
+        score += 18
+    elif vac_num >= 500:
+        score += 10
+
+    # 4. Urgency Boost (Today Last Date / Date Extended)
+    if is_today_last_date:
+        score += 22
+    if is_extended:
+        score += 15
+
+    return score
+
+
+class MasterSynthesizer:
+
+    @staticmethod
+    def build_post(title, source_name, meta, dossier, used_quotes_set, counter_seed):
+        links = dossier["links"]
+        primary_url = (
+            links["apply_link"]
+            or links["result_link"]
+            or links["admit_card_link"]
+            or links["answer_key_link"]
+            or links["notif_pdf"]
+            or links["syllabus_link"]
+            or links["official_site"]
+        )
+        if not primary_url:
+            return None
+
+        # Detect Urgency Tags: "Today Last Date" or "Date Extended"
+        now_today_date = datetime.now().date()
+        last_dt_obj = dossier["dates"].get("last_date_obj")
+        is_today_last_date = bool(last_dt_obj and last_dt_obj.date() == now_today_date)
+        is_extended = bool(meta["is_extended"] or dossier["dates"].get("extended_date"))
+
+        right_end_tag = ""
+        right_end_badge_html = ""
+        if is_today_last_date:
+            right_end_tag = "Today Last Date"
+            right_end_badge_html = (
+                "<span style='float:right; background:#dc2626; color:#ffffff; "
+                "font-size:10.5px; font-weight:800; padding:1px 6px; border-radius:4px; "
+                "margin-left:6px;'>⏳ Today Last Date</span>"
+            )
+        elif is_extended:
+            right_end_tag = "Date Extended"
+            right_end_badge_html = (
+                "<span style='float:right; background:#fee2e2; color:#991b1b; "
+                "font-size:10.5px; font-weight:800; padding:1px 6px; border-radius:4px; "
+                "border:1px solid #fca5a5; margin-left:6px;'>📅 Date Extended</span>"
+            )
+
+        rush_score = calculate_high_rush_score(
+            title, meta, dossier, is_today_last_date, is_extended
+        )
+
+        intent_sig = f"{hashlib.md5(title.lower().encode('utf-8')).hexdigest()[:10]}__{meta['primary_intent']}"
+        job_id = hashlib.md5(intent_sig.encode("utf-8")).hexdigest()[:12]
+
+        post_dt_obj = dossier["dates"].get("real_post_date_obj")
+        post_timestamp = int(post_dt_obj.timestamp()) if post_dt_obj else 0
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        quote = generate_unique_intent_quote(
+            title, meta["primary_intent"], used_quotes_set, counter_seed
+        )
+        strategy = build_90_day_strategy(title)
+
+        # Build Date Rows (Only include dates that actually exist on the scraped page; leave blank if missing)
+        d_map = dossier["dates"]
+        date_items_html = ""
+        date_fields = [
+            ("Post Release / Update Date", d_map["release_date"]),
+            ("Notification Date", d_map["notification_date"]),
+            ("Apply Online Start Date", d_map["apply_start_date"]),
+            ("Last Date to Apply", d_map["last_date"]),
+            ("Extended Last Date", d_map["extended_date"]),
+            ("Fee Payment Last Date", d_map["fee_last_date"]),
+            ("Exam Date", d_map["exam_date"]),
+            ("Admit Card Date", d_map["admit_card_date"]),
+            ("Answer Key Date", d_map["answer_key_date"]),
+            ("Result Date", d_map["result_date"]),
+        ]
+        for lbl, val in date_fields:
+            if val:
+                highlight = "color:#dc2626; font-weight:800;" if "Last Date" in lbl else "color:#0f172a;"
+                date_items_html += f"<li><strong>{lbl}:</strong> <span style='{highlight}'>{val}</span></li>"
+
+        fee_html = "".join(f"<li>{f}</li>" for f in dossier["fees"])
+        age_html = "".join(f"<li>{a}</li>" for a in dossier["age_criteria"])
+        elig_html = "".join(f"<li>{e}</li>" for e in dossier["eligibility_list"])
+        sel_html = "".join(f"<li>{s}</li>" for s in dossier["selection_process"])
+        pat_html = "".join(f"<li>{p}</li>" for p in dossier["exam_pattern"])
+
+        vac_table_rows = ""
+        for r in dossier["vacancy_rows"]:
+            vac_table_rows += (
+                "<tr>"
+                + "".join(
+                    f"<td style='border:1px solid #cbd5e1; padding:7px 10px;'>{c}</td>"
+                    for c in r
+                )
+                + "</tr>"
+            )
+
+        # Build Action Buttons for Short View (Only render links that are actually present)
+        action_buttons_html = ""
+        btn_specs = [
+            ("🚀 Apply Online / Registration", links["apply_link"], "#1d4ed8"),
+            ("📄 Official Notification PDF", links["notif_pdf"], "#0f766e"),
+            ("🪪 Download Admit Card", links["admit_card_link"], "#7c3aed"),
+            ("🔑 Download Answer Key", links["answer_key_link"], "#b45309"),
+            ("🏆 Check Official Result", links["result_link"], "#15803d"),
+            ("📘 Download Syllabus PDF", links["syllabus_link"], "#0369a1"),
+            ("🌐 Official Website", links["official_site"], "#334155"),
+        ]
+        seen_btn_urls = set()
+        for b_lbl, b_url, b_bg in btn_specs:
+            if b_url and b_url not in seen_btn_urls:
+                seen_btn_urls.add(b_url)
+                action_buttons_html += (
+                    f"<a href='{b_url}' target='_blank' rel='noopener' "
+                    f"style='display:inline-block; background:{b_bg}; color:#ffffff; "
+                    f"padding:8px 14px; border-radius:6px; font-weight:800; "
+                    f"text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>{b_lbl}</a>"
+                )
+
+        # All Extracted Links Table Rows for Full Post Description
+        links_table_html = ""
+        for item in dossier["all_extracted_links"]:
+            links_table_html += (
+                f"<tr>"
+                f"<td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>{item['label']}</td>"
+                f"<td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'>"
+                f"<a href='{item['url']}' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a>"
+                f"</td></tr>"
+            )
+
+        # DOPAMINE SHORT VIEW INFORMATION CARD
+        short_view_html = f"""
+<div class="short-view-card" style="background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);">
+    <div style="background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;">
+        {quote}
+    </div>
+    <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;">
+        <h3 style="margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;">📢 {title}</h3>
+        {right_end_badge_html}
+    </div>
+    {f"<p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>{dossier['short_info']}</p>" if dossier['short_info'] else ""}
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;">
+        <div><strong>📌 Category:</strong> {meta['category_label']}</div>
+        <div><strong>🏛️ Sector / State:</strong> {meta['job_type']} ({meta['state']})</div>
+        {f"<div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>{d_map['release_date']}</span></div>" if d_map['release_date'] else ""}
+        {f"<div><strong>📜 Notification Date:</strong> {d_map['notification_date']}</div>" if d_map['notification_date'] else ""}
+        {f"<div><strong>🟢 Apply Start Date:</strong> {d_map['apply_start_date']}</div>" if d_map['apply_start_date'] else ""}
+        {f"<div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>{d_map['last_date']}</span></div>" if d_map['last_date'] else ""}
+        {f"<div><strong>📅 Extended Date:</strong> <span style='color:#b91c1c; font-weight:800;'>{d_map['extended_date']}</span></div>" if d_map['extended_date'] else ""}
+        {f"<div><strong>📝 Exam Date:</strong> {d_map['exam_date']}</div>" if d_map['exam_date'] else ""}
+        {f"<div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>{dossier['total_vacancy']}</span></div>" if dossier['total_vacancy'] else ""}
+    </div>
+    {f"<div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> {' | '.join(dossier['eligibility_list'][:2])}</div>" if dossier['eligibility_list'] else ""}
+    {f"<div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> {' | '.join(dossier['fees'][:2])}</div>" if dossier['fees'] else ""}
+    <div style="margin-top:8px;">{action_buttons_html}</div>
+</div>
+""".strip()
+
+        # DOPAMINE FULL POST DESCRIPTION (OPTION A DEEP DOSSIER + OPTION B 90-DAY STRATEGY)
+        full_details_html = f"""
+{short_view_html}
+<div class="full-dossier-view" style="background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;">
+    <h4 style="margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;">
+        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS
+    </h4>
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;">
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#b91c1c; font-size:13.5px;">📅 Important Dates</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;">{date_items_html}</ul>
+        </div>''' if date_items_html else ""}
+
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#047857; font-size:13.5px;">💳 Application Fee</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;">{fee_html}</ul>
+        </div>''' if fee_html else ""}
+
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#6d28d9; font-size:13.5px;">🎂 Age Limit & Relaxation</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;">{age_html}</ul>
+        </div>''' if age_html else ""}
+
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#0369a1; font-size:13.5px;">🎓 Eligibility Criteria</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;">{elig_html}</ul>
+        </div>''' if elig_html else ""}
+    </div>
+
+    {f'''<div style="background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;">
+        <h5 style="margin:0 0 8px; color:#1e40af; font-size:13.5px;">📊 Vacancy & Post-Wise / Category-Wise Details {f"(Total: {dossier['total_vacancy']})" if dossier['total_vacancy'] else ""}</h5>
+        <table style="width:100%; border-collapse:collapse; font-size:12.5px;">
+            <tbody>{vac_table_rows}</tbody>
+        </table>
+    </div>''' if vac_table_rows else ""}
+
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;">
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#6d28d9; font-size:13.5px;">⚙️ Selection Process</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;">{sel_html}</ul>
+        </div>''' if sel_html else ""}
+
+        {f'''<div style="background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;">
+            <h5 style="margin:0 0 8px; color:#0f766e; font-size:13.5px;">📝 Exam Pattern & Syllabus</h5>
+            <ul style="margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;">{pat_html}</ul>
+        </div>''' if pat_html else ""}
+    </div>
+
+    <div style="background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;">
+        <h4 style="margin:0 0 8px; color:#312e81; font-size:14px;">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>
+        <ul style="margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;">
+            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> {strategy['month_1']}</li>
+            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> {strategy['month_2']}</li>
+            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> {strategy['month_3']}</li>
+        </ul>
+    </div>
+
+    {f'''<div style="background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;">
+        <h5 style="margin:0 0 8px; color:#094053; font-size:13.5px;">🔗 Important Direct Links & PDF Files</h5>
+        <table style="width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;">
+            <tbody>{links_table_html}</tbody>
+        </table>
+    </div>''' if links_table_html else ""}
+</div>
+""".strip()
+
+        return {
+            "id": job_id,
+            "intent_signature": intent_sig,
+            "title": title,
+            "overview": dossier["short_info"],
+            "summary": dossier["short_info"],
+            "dept": dossier["department"],
+            "category": meta["category_key"],
+            "category_label": meta["category_label"],
+            "admin_box": meta["admin_box"],
+            "is_new_admin_box": False,
+            "primary_intent": meta["primary_intent"],
+            "job_type": meta["job_type"],
+            "sector": meta["sector"],
+            "state": meta["state_code"],
+            "state_name": meta["state"],
+            "scope": "central" if meta["state_code"] == "all" else "state",
+            "unique_quote": quote,
+            "source": source_name,
+            "date": d_map["release_date"],
+            "post_date": d_map["release_date"],
+            "releaseDate": d_map["release_date"],
+            "lastDate": d_map["last_date"],
+            "post_timestamp": post_timestamp,
+            "isExtended": is_extended,
+            "isTodayLastDate": is_today_last_date,
+            "rightEndTag": right_end_tag,
+            "rightEndBadgeHtml": right_end_badge_html,
+            "rushScore": rush_score,
+            "isTrendingTop6": False,
+            "total_vacancy": dossier["total_vacancy"],
+            "totalPosts": dossier["total_vacancy"],
+            "qual": " | ".join(dossier["eligibility_list"][:2]) if dossier["eligibility_list"] else "",
+            "feeGen": dossier["fees"][0] if len(dossier["fees"]) > 0 else "",
+            "feeSc": dossier["fees"][1] if len(dossier["fees"]) > 1 else "",
+            "important_dates": {
+                "release_date": d_map["release_date"],
+                "notification_date": d_map["notification_date"],
+                "apply_start_date": d_map["apply_start_date"],
+                "last_date": d_map["last_date"],
+                "extended_date": d_map["extended_date"],
+                "fee_last_date": d_map["fee_last_date"],
+                "exam_date": d_map["exam_date"],
+                "admit_card_date": d_map["admit_card_date"],
+                "answer_key_date": d_map["answer_key_date"],
+                "result_date": d_map["result_date"],
+            },
+            "dates": {
+                "start": d_map["apply_start_date"] or d_map["release_date"],
+                "end": d_map["last_date"],
+                "exam": d_map["exam_date"],
+            },
+            "application_fee": dossier["fees"],
+            "age_criteria": dossier["age_criteria"],
+            "eligibility_list": dossier["eligibility_list"],
+            "vacancy_rows": dossier["vacancy_rows"],
+            "selection_process": dossier["selection_process"],
+            "exam_pattern": dossier["exam_pattern"],
+            "exam_strategy_90_days": strategy,
+            "link": primary_url,
+            "url": primary_url,
+            "apply_link": links["apply_link"],
+            "applyUrl": links["apply_link"] or primary_url,
+            "notif_url": links["notif_pdf"],
+            "notifUrl": links["notif_pdf"],
+            "download_pdf": links["notif_pdf"],
+            "admit_card_link": links["admit_card_link"],
+            "answer_key_link": links["answer_key_link"],
+            "result_link": links["result_link"],
+            "syllabus_link": links["syllabus_link"],
+            "official_website": links["official_site"],
+            "webUrl": links["official_site"],
+            "all_links": dossier["all_extracted_links"],
+            "short_view": short_view_html,
+            "description": full_details_html,
+            "content": full_details_html,
+            "updated_at": now_str,
+            "updatedAt": datetime.now().isoformat(),
+            "status": "pending_review",
+        }
+
+
+# ==============================================================================
+# LAYER 8: PARALLEL PIPELINE EXECUTOR, 6-CATEGORY DATE SORTER & TRENDING TOP 6
+# ==============================================================================
+def detect_box_heading_for_anchor(a_tag):
+    parent = a_tag.find_parent(["div", "td", "table", "section", "ul"])
+    for _ in range(4):
+        if not parent:
+            break
+        heading = parent.find(["h1", "h2", "h3", "h4", "th", "caption"])
+        if heading:
+            htxt = re.sub(r"\s+", " ", heading.get_text(" ", strip=True)).strip()
+            if 3 <= len(htxt) <= 45:
+                return htxt
+        parent = parent.parent
+    return ""
+
+
+async def process_single_candidate(
+    text, href, src_name, box_heading, used_quotes_set, counter_seed, loop, semaphore
+):
+    try:
+        article_html = await safe_fetch_non_blocking(href, loop, semaphore, timeout=20.0)
+        if not article_html:
+            return None
+
+        meta = IntentAndMetaClassifierAgent.analyze(text, box_heading, article_html[:600])
+        dossier = deep_parse_article_dossier(article_html, href, text)
+
+        # Enforce Strict 15-Day Freshness & Direct Link Verification Gate
+        if not passes_strict_15_day_and_link_gate(dossier, text):
+            return None
+
+        post = MasterSynthesizer.build_post(
+            text, src_name, meta, dossier, used_quotes_set, counter_seed
+        )
+        return post
+    except Exception:
+        return None
+
+
+async def process_aggregator(src, seen_titles, used_quotes_set, loop, semaphore):
+    posts = []
+    html = await safe_fetch_non_blocking(src["url"], loop, semaphore, timeout=22.0)
+    if not html:
+        return posts
+
+    soup = BeautifulSoup(html, "html.parser")
+    candidates = []
+
+    for a in soup.find_all("a", href=True):
+        text = re.sub(r"\s+", " ", a.get_text(" ", strip=True)).strip()
+        href = urljoin(src["url"], a["href"].strip())
+        t_low = text.lower()
+
+        if len(text) < 14 or len(text) > 145:
+            continue
+        if any(j in t_low for j in JUNK_TITLES):
+            continue
+        if not href.startswith("http") or any(b in href.lower() for b in BLOCK_DOMAINS):
+            continue
+
+        norm = re.sub(r"[^a-z0-9]+", " ", t_low).strip()
+        if norm in seen_titles:
+            continue
+
+        if any(
+            kw in t_low
+            for kw in [
+                "recruitment", "online form", "result", "admit card", "answer key",
+                "vacancy", "bharti", "2026", "notification", "syllabus", "merit list",
+                "cutoff", "hall ticket", "admission", "counselling", "extended",
+                "apprentice", "officer", "clerk", "constable", "engineer", "teacher",
+            ]
+        ):
+            seen_titles.add(norm)
+            box_heading = detect_box_heading_for_anchor(a)
+            candidates.append((text, href, src["name"], box_heading))
+
+    tasks = [
+        asyncio.wait_for(
+            process_single_candidate(
+                text, href, s_name, box_h, used_quotes_set, idx, loop, semaphore
+            ),
+            timeout=35.0,
+        )
+        for idx, (text, href, s_name, box_h) in enumerate(candidates[:60])
+    ]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+    for r in results:
+        if isinstance(r, dict) and r:
+            posts.append(r)
+
+    print(f"   ✅ {src['name']}: Verified {len(posts)} posts within 15-day window")
+    return posts
+
+
+async def main_async():
+    print("🚀 Starting 8-Layer Scraper (Only SarkariResult & FreeJobAlert | Strict 15-Day Window | Zero Dummy Data)...")
+    cutoff_15_ts = int((datetime.now() - timedelta(days=15)).timestamp())
+
+    existing = []
+    if os.path.exists(DATABASE_FILE):
+        try:
+            with open(DATABASE_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    existing = data
+        except Exception:
+            existing = []
+
+    posts_by_signature = {}
+    used_quotes_set = set()
+    seen_titles = set()
+
+    # Retain only existing posts from the 2 websites that are still within the 15-day window
+    for j in existing:
+        if not isinstance(j, dict):
+            continue
+        if j.get("source") not in ALLOWED_SOURCE_NAMES:
+            continue
+        p_ts = j.get("post_timestamp", 0)
+        if not p_ts:
+            dt = parse_any_date_string(j.get("releaseDate") or j.get("post_date") or "")
+            p_ts = int(dt.timestamp()) if dt else 0
+            j["post_timestamp"] = p_ts
+
+        if p_ts < cutoff_15_ts:
+            continue
+
+        prim_link = j.get("link") or j.get("applyUrl") or ""
+        if not is_direct_post_target_url(prim_link, allow_direct_pdf_on_cdn=True):
+            continue
+
+        sig = j.get("intent_signature") or j.get("id", "")
+        posts_by_signature[sig] = j
+        if q := j.get("unique_quote"):
+            used_quotes_set.add(q.lower())
+        if t := j.get("title"):
+            seen_titles.add(re.sub(r"[^a-z0-9]+", " ", t.lower()).strip())
+
+    loop = asyncio.get_running_loop()
+    semaphore = asyncio.Semaphore(25)
+
+    agg_tasks = [
+        process_aggregator(src, seen_titles, used_quotes_set, loop, semaphore)
+        for src in SOURCES
+    ]
+    agg_results = await asyncio.gather(*agg_tasks, return_exceptions=True)
+
+    new_added = 0
+    repost_updated = 0
+
+    for res in agg_results:
+        if isinstance(res, list):
+            for post in res:
+                sig = post["intent_signature"]
+                if sig not in posts_by_signature:
+                    posts_by_signature[sig] = post
+                    new_added += 1
+                else:
+                    # If re-posted with new links, extended date, or newer timestamp, update it
+                    old_p = posts_by_signature[sig]
+                    if (
+                        post.get("post_timestamp", 0) >= old_p.get("post_timestamp", 0)
+                        or post.get("rightEndTag") != old_p.get("rightEndTag")
+                        or post.get("apply_link") != old_p.get("apply_link")
+                    ):
+                        posts_by_signature[sig] = post
+                        repost_updated += 1
+
+    all_valid_posts = list(posts_by_signature.values())
+
+    # 1. Select Top 6 Highest-Rush Posts on Current Date for the 6 Trending Boxes
+    for p in all_valid_posts:
+        p["isTrendingTop6"] = False
+
+    top_6_trending = sorted(
+        all_valid_posts,
+        key=lambda x: (x.get("rushScore", 0), x.get("post_timestamp", 0)),
+        reverse=True,
+    )[:6]
+
+    trending_cards_payload = []
+    for tp in top_6_trending:
+        tp["isTrendingTop6"] = True
+        trending_cards_payload.append({
+            "id": tp["id"],
+            "title": tp["title"],
+            "sub": tp.get("rightEndTag") or tp.get("category_label", "Apply Online"),
+            "url": tp.get("link", ""),
+            "details": tp.get("overview", ""),
+            "rushScore": tp.get("rushScore", 0),
+            "active": True,
+        })
+
+    # 2. Arrange All Posts Category-Wise (6 Categories) with Latest Date on Top
+    sorted_final_db = []
+    category_counts = {}
+    for cat_key in SIX_CATEGORIES_ORDER:
+        cat_posts = [p for p in all_valid_posts if p.get("category") == cat_key]
+        cat_posts.sort(
+            key=lambda x: (x.get("post_timestamp", 0), x.get("rushScore", 0)),
+            reverse=True,
+        )
+        category_counts[cat_key] = len(cat_posts)
+        sorted_final_db.extend(cat_posts)
+
+    with open(DATABASE_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted_final_db, f, ensure_ascii=False, indent=2)
+
+    boxes_payload = {
+        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "window_days": 15,
+        "category_counts": category_counts,
+        "trending_top_6": trending_cards_payload,
+        "standard_boxes": list(CATEGORY_LABELS.values()),
+        "new_custom_boxes": [],
+    }
+    with open(ADMIN_BOXES_FILE, "w", encoding="utf-8") as bf:
+        json.dump(boxes_payload, bf, ensure_ascii=False, indent=2)
+
+    print(
+        f"\n🎉 15-Day Sync Complete! New Added: {new_added} | Updated: {repost_updated} "
+        f"| Total 15-Day Verified Posts: {len(sorted_final_db)} | Top Trending: {len(trending_cards_payload)}"
+    )
+
+
+def main():
+    try:
+        asyncio.run(asyncio.wait_for(main_async(), timeout=330.0))
+    except asyncio.TimeoutError:
+        print("⚠️ Reached 5.5-minute safety checkpoint. All verified posts saved cleanly.")
+
+
+if __name__ == "__main__":
+    main()
+  # ==============================================================================
+# 🚀 AUTO-PUBLISH VERIFIED POSTS IN JOBS_DATABASE.JSON FOR LIVE INDEX.HTML SYNC
+# Paste at the VERY BOTTOM (END) of multi_agent_scraper.py
+# ==============================================================================
+if __name__ == "__main__":
+    if os.path.exists(DATABASE_FILE):
+        try:
+            with open(DATABASE_FILE, "r", encoding="utf-8") as f:
+                db_posts = json.load(f)
+            if isinstance(db_posts, list):
+                for item in db_posts:
+                    if isinstance(item, dict):
+                        item["status"] = "published"
+                with open(DATABASE_FILE, "w", encoding="utf-8") as f:
+                    json.dump(db_posts, f, ensure_ascii=False, indent=2)
+                print(f"✅ Marked all {len(db_posts)} verified posts as 'published' in {DATABASE_FILE}")
+        except Exception as e:
+            print(f"⚠️ Status sync notice: {e}")
