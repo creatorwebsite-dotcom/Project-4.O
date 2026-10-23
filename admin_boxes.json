@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-10-23 09:02:40",
+  "updated_at": "2026-10-23 09:04:39",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 35,
-    "results": 13,
-    "admit_cards": 8,
-    "answer_keys": 8,
-    "syllabus": 8,
-    "admissions": 8
+    "latest_jobs": 20,
+    "results": 1,
+    "admit_cards": 0,
+    "answer_keys": 0,
+    "syllabus": 0,
+    "admissions": 0
   },
   "trending_top_6": [
-    {
-      "id": "3be99039dc2a",
-      "title": "India Post GDS Result 2026 Out",
-      "sub": "Result",
-      "url": "https://img2.freejobalert.com/news/2026/10/236451-6acdaff9c5fcc12590836.pdf",
-      "details": "India Post GDS Result 2026 has released on 12 October 2026 for 23,757 Gramin Dak Sevak, Branch Postmaster (BPM) and Assistant Branch Postmaster (ABPM)/Dak Sevak vacancies under Schedule-II, July 2026. Candidates can download the circle-wise 1st merit list PDF and search their registration number to check shortlisting status. Visit indiapostgdsonline.gov.in for the official result and document verification instructions.",
-      "rushScore": 103,
-      "active": true
-    },
-    {
-      "id": "010889f1bd36",
-      "title": "RRB NTPC Apply Online 2026 Starts (Graduate and UG), Check Link, Fee and Last Date",
-      "sub": "Latest Jobs",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official update for RRB NTPC Apply Online 2026 Starts (Graduate and UG), Check Link, Fee and Last Date. Check official dates, eligibility criteria, selection process, and direct portal links below.",
-      "rushScore": 100,
-      "active": true
-    },
     {
       "id": "6655a0703862",
       "title": "RRC North Western Railway 2008 Act Apprentice Online Form 2026",
@@ -38,30 +20,48 @@
       "active": true
     },
     {
-      "id": "e495ee9338f5",
-      "title": "IBPS SO Mains admit card 2026 out at ibps.in for 1,035 specialist officer vacancies; direct download link here",
-      "sub": "Admit Card",
-      "url": "https://www.ibps.in",
-      "details": "Official update for IBPS SO Mains admit card 2026 out at ibps.in for 1,035 specialist officer vacancies; direct download link here. Check official dates, eligibility criteria, selection process, and direct portal links below.",
-      "rushScore": 100,
+      "id": "1f0414411298",
+      "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.rrbapply.gov.in/#/auth/landing",
+      "details": "Railway Recruitment Board (RRB) , has released a Notification on the official website for the recruitment of Non-Technical Popular Categories (NTPC) Inter Level Posts. This recruitment is for 1688 positions. The RRB application form has started on 15 October 2026, and candidates can apply until 13 November 2026. The minimum age is 18 Years & the maximum age is 30 – 35 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC 10+2 UG Recruitment 2026 provided below. (Advt No : CEN 07/2026)",
+      "rushScore": 94,
       "active": true
     },
     {
-      "id": "b71074a85011",
-      "title": "IBPS SO Mains admit card 2026 released at ibps.in for 1,035 Specialist Officer posts, exam on November 1",
-      "sub": "Admit Card",
-      "url": "https://www.ibps.in",
-      "details": "Official update for IBPS SO Mains admit card 2026 released at ibps.in for 1,035 Specialist Officer posts, exam on November 1. Check official dates, eligibility criteria, selection process, and direct portal links below.",
-      "rushScore": 100,
+      "id": "4b04fb87d2b4",
+      "title": "RRB 1,688 NTPC UG Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "",
+      "rushScore": 94,
       "active": true
     },
     {
-      "id": "2cdbf2723b8e",
-      "title": "India Post revenue crosses ₹4,000 cr for second straight quarter: Scindia",
-      "sub": "Result",
-      "url": "https://indiapostgdsonline.gov.in",
-      "details": "Official update for India Post revenue crosses ₹4,000 cr for second straight quarter: Scindia. Check official dates, eligibility criteria, selection process, and direct portal links below.",
-      "rushScore": 100,
+      "id": "2edfe3d65731",
+      "title": "BHEL 660 Artisan Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://careers.bhel.in/index.jsp",
+      "details": "Bharat Heavy Electricals Limited (BHEL) has released Notification No. 01/2026 for 660 vacancies across various posts. The recruitment drive includes Fitter, Electrician, Welder, Turner, and other positions. Eligible candidates can apply online at careers.bhel.in.",
+      "rushScore": 86,
+      "active": true
+    },
+    {
+      "id": "1d83393cb674",
+      "title": "Indian Army TES 57 Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://joinindianarmy.nic.in/",
+      "details": "",
+      "rushScore": 82,
+      "active": true
+    },
+    {
+      "id": "e5c54367eb44",
+      "title": "DTU 219 Assistant Professor Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://recruitment.dtu.ac.in/",
+      "details": "Delhi Technological University (DTU) has released the official notification for the recruitment of 219 Assistant Professor posts. The online application process will begin on 23 October 2026, and the last date to apply is 07 December 2026. Candidates can apply through the official website, dtu.ac.in.",
+      "rushScore": 80,
       "active": true
     }
   ],
