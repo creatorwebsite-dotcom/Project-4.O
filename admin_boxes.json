@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23 13:30:31",
+  "updated_at": "2026-10-23 16:59:24",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 35,
+    "latest_jobs": 38,
     "results": 6,
     "admit_cards": 0,
     "answer_keys": 4,
@@ -10,6 +10,15 @@
     "admissions": 0
   },
   "trending_top_6": [
+    {
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form will start on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "24abaf3c6180",
       "title": "SSC GD Constable Revised Result 2026",
@@ -53,15 +62,6 @@
       "url": "https://rrcactapp.in/",
       "details": "Railway Recruitment Cell (RRC-NWR-Jaipur) , has released a notification on official website for the recruitment of RRC NWR Jaipur Apprentice Posts. This recruitment is for 2008 positions. RRC Application Form has started on 23 October 2026 & the candidates can apply until 22 November 2026 . Minimum age is 15 Years & The Maximum Age required Is 24 Years as on 22 November 2026. Candidates must check the complete details for Railway RRC NWR Apprentice Recruitment 2026. which has given below. (Advt. No. 04/2026 (NWR/AA)",
       "rushScore": 100,
-      "active": true
-    },
-    {
-      "id": "1f0414411298",
-      "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.rrbapply.gov.in/#/auth/landing",
-      "details": "Railway Recruitment Board (RRB) , has released a Notification on the official website for the recruitment of Non-Technical Popular Categories (NTPC) Inter Level Posts. This recruitment is for 1688 positions. The RRB application form has started on 15 October 2026, and candidates can apply until 13 November 2026. The minimum age is 18 Years & the maximum age is 30 – 35 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC 10+2 UG Recruitment 2026 provided below. (Advt No : CEN 07/2026)",
-      "rushScore": 94,
       "active": true
     }
   ],
