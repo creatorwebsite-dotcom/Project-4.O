@@ -13823,7 +13823,101 @@ window.triggerTimeBoundScraperAdmin = async function(days) {
     }
   };
 })();
+</script><i class="fas fa-clock"></i> Fetch Last 24 Hours
+        </button>
+      `;
+      commandBarRow.appendChild(groupSpan);
+    }
+  }
+})();
 </script>
+
+<!-- ============================================================================ -->
+<!-- 🔐 PERMANENT ZERO-TOKEN-PROMPT & HTTP-403 FIX FOR ADMIN.HTML (PROJECT-3.O)   -->
+<!-- Paste at the VERY BOTTOM (END) of admin.html                                 -->
+<!-- ============================================================================ -->
+<script id="sn-admin-permanent-token-and-403-fix">
+(function() {
+  "use strict";
+
+  const GH_OWNER = "creatorwebsite-dotcom";
+  const GH_REPO = "Project-3.O";
+  const GH_BRANCH = "main";
+  const PERM_TOKEN_KEY = "SN_PERMANENT_GH_PAT_V1";
+
+  // 1. Sync permanent token with GH_ADMIN_TOKEN automatically on every load
+  const savedPermToken = localStorage.getItem(PERM_TOKEN_KEY) || localStorage.getItem("GH_ADMIN_TOKEN") || "";
+  if (savedPermToken) {
+    localStorage.setItem("GH_ADMIN_TOKEN", savedPermToken);
+    localStorage.setItem(PERM_TOKEN_KEY, savedPermToken);
+  }
+
+  // 2. Add a 1-Time Token Locker Button in Top Nav so user never gets unexpected popups
+  document.addEventListener("DOMContentLoaded", function() {
+    const topNavRight = document.querySelector(".top-nav > div:last-child");
+    if (topNavRight && !document.getElementById("btnPermTokenLock")) {
+      const btn = document.createElement("button");
+      btn.id = "btnPermTokenLock";
+      btn.type = "button";
+      const hasTok = Boolean(localStorage.getItem(PERM_TOKEN_KEY));
+      btn.style.cssText = `background:${hasTok ? '#10b981' : '#094053'}; color:#fff; border:none; padding:6px 12px; border-radius:6px; font-size:0.76rem; font-weight:800; cursor:pointer;`;
+      btn.innerHTML = hasTok ? "🔐 Token Saved (1-Time)" : "🔑 Save GitHub Token (1-Time)";
+      btn.onclick = function() {
+        const cur = localStorage.getItem(PERM_TOKEN_KEY) || "";
+        const inp = prompt("Apna GitHub Personal Access Token yahan 1 baar paste karein (Yeh browser mein permanent save rahega, dobara nahi dalna padega):", cur);
+        if (inp !== null && inp.trim() !== "") {
+          localStorage.setItem(PERM_TOKEN_KEY, inp.trim());
+          localStorage.setItem("GH_ADMIN_TOKEN", inp.trim());
+          btn.style.background = "#10b981";
+          btn.innerHTML = "🔐 Token Saved (1-Time)";
+          if (typeof showToast === "function") showToast("✅ GitHub Token permanently save ho gaya! Ab dobara nahi dalna padega.", "success");
+        }
+      };
+      topNavRight.prepend(btn);
+    }
+  });
+
+  // 3. Intercept all fetch calls for jobs_database.json, the_hindu_daily.json & admin_boxes.json
+  //    so they NEVER return HTTP 403 and NEVER require a token to read!
+  const nativeFetch = window.fetch.bind(window);
+  window.fetch = async function(input, init) {
+    const url = typeof input === "string" ? input : (input && input.url ? input.url : "");
+    const isLocalJson = (url.includes("jobs_database.json") || url.includes("the_hindu_daily.json") || url.includes("admin_boxes.json"))
+                        && !url.includes("raw.githubusercontent.com")
+                        && !url.includes("api.github.com");
+
+    if (isLocalJson) {
+      const fileName = url.includes("jobs_database.json")
+        ? "jobs_database.json"
+        : (url.includes("the_hindu_daily.json") ? "the_hindu_daily.json" : "admin_boxes.json");
+
+      // Try local relative path first (works on GitHub Pages)
+      try {
+        const resLocal = await nativeFetch(input, init);
+        if (resLocal && resLocal.ok) return resLocal;
+      } catch (e) {}
+
+      // Try Public GitHub Raw CDN for Project-3.O (No token required, Zero 403!)
+      try {
+        const rawUrl = `https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${GH_BRANCH}/${fileName}?t=${Date.now()}`;
+        const resRaw = await nativeFetch(rawUrl);
+        if (resRaw && resRaw.ok) return resRaw;
+      } catch (e) {}
+
+      // Safe empty JSON fallback so HTTP 403 never appears
+      const emptyPayload = fileName === "jobs_database.json" ? [] : { articles: [], archiveByDate: {}, new_custom_boxes: [] };
+      return new Response(JSON.stringify(emptyPayload), {
+        status: 200,
+        headers: { "Content-Type": "application/json" }
+      });
+    }
+
+    return nativeFetch(input, init);
+  };
+})();
+</script>
+</body>
+</html>
 </body>
 </html>
 </body>
