@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-23 10:30:43",
+  "updated_at": "2026-10-23 13:30:31",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 31,
+    "latest_jobs": 35,
     "results": 6,
     "admit_cards": 0,
-    "answer_keys": 0,
+    "answer_keys": 4,
     "syllabus": 0,
     "admissions": 0
   },
@@ -17,6 +17,15 @@
       "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
       "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "b034e86b56ae",
+      "title": "Odisha Police 7,268 Constable Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://ousssc.odisha.gov.in/",
+      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
+      "rushScore": 118,
       "active": true
     },
     {
@@ -38,30 +47,21 @@
       "active": true
     },
     {
+      "id": "31f742163f82",
+      "title": "Railway RRC NWR Apprentice Online Form 2026 – Start",
+      "sub": "Latest Jobs",
+      "url": "https://rrcactapp.in/",
+      "details": "Railway Recruitment Cell (RRC-NWR-Jaipur) , has released a notification on official website for the recruitment of RRC NWR Jaipur Apprentice Posts. This recruitment is for 2008 positions. RRC Application Form has started on 23 October 2026 & the candidates can apply until 22 November 2026 . Minimum age is 15 Years & The Maximum Age required Is 24 Years as on 22 November 2026. Candidates must check the complete details for Railway RRC NWR Apprentice Recruitment 2026. which has given below. (Advt. No. 04/2026 (NWR/AA)",
+      "rushScore": 100,
+      "active": true
+    },
+    {
       "id": "1f0414411298",
       "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
       "sub": "Latest Jobs",
       "url": "https://www.rrbapply.gov.in/#/auth/landing",
       "details": "Railway Recruitment Board (RRB) , has released a Notification on the official website for the recruitment of Non-Technical Popular Categories (NTPC) Inter Level Posts. This recruitment is for 1688 positions. The RRB application form has started on 15 October 2026, and candidates can apply until 13 November 2026. The minimum age is 18 Years & the maximum age is 30 – 35 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC 10+2 UG Recruitment 2026 provided below. (Advt No : CEN 07/2026)",
       "rushScore": 94,
-      "active": true
-    },
-    {
-      "id": "4b04fb87d2b4",
-      "title": "RRB 1,688 NTPC UG Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "",
-      "rushScore": 94,
-      "active": true
-    },
-    {
-      "id": "2edfe3d65731",
-      "title": "BHEL 660 Artisan Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://careers.bhel.in/index.jsp",
-      "details": "Bharat Heavy Electricals Limited (BHEL) has released Notification No. 01/2026 for 660 vacancies across various posts. The recruitment drive includes Fitter, Electrician, Welder, Turner, and other positions. Eligible candidates can apply online at careers.bhel.in.",
-      "rushScore": 86,
       "active": true
     }
   ],
