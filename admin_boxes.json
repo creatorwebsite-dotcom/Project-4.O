@@ -1,24 +1,15 @@
 {
-  "updated_at": "2026-10-23 09:16:50",
+  "updated_at": "2026-10-23 09:22:31",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 31,
-    "results": 5,
+    "latest_jobs": 20,
+    "results": 1,
     "admit_cards": 0,
     "answer_keys": 0,
     "syllabus": 0,
     "admissions": 0
   },
   "trending_top_6": [
-    {
-      "id": "3be99039dc2a",
-      "title": "India Post GDS Result 2026 Out",
-      "sub": "Result",
-      "url": "https://img2.freejobalert.com/news/2026/10/236451-6acdaff9c5fcc12590836.pdf",
-      "details": "India Post GDS Result 2026 has released on 12 October 2026 for 23,757 Gramin Dak Sevak, Branch Postmaster (BPM) and Assistant Branch Postmaster (ABPM)/Dak Sevak vacancies under Schedule-II, July 2026. Candidates can download the circle-wise 1st merit list PDF and search their registration number to check shortlisting status. Visit indiapostgdsonline.gov.in for the official result and document verification instructions.",
-      "rushScore": 103,
-      "active": true
-    },
     {
       "id": "6655a0703862",
       "title": "RRC North Western Railway 2008 Act Apprentice Online Form 2026",
@@ -62,6 +53,15 @@
       "url": "https://joinindianarmy.nic.in/",
       "details": "",
       "rushScore": 82,
+      "active": true
+    },
+    {
+      "id": "e5c54367eb44",
+      "title": "DTU 219 Assistant Professor Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://recruitment.dtu.ac.in/",
+      "details": "Delhi Technological University (DTU) has released the official notification for the recruitment of 219 Assistant Professor posts. The online application process will begin on 23 October 2026, and the last date to apply is 07 December 2026. Candidates can apply through the official website, dtu.ac.in.",
+      "rushScore": 80,
       "active": true
     }
   ],
