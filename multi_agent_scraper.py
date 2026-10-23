@@ -1517,37 +1517,4 @@ def run_guaranteed_cloud_sync():
 
 if __name__ == "__main__":
     run_guaranteed_cloud_sync()
-  async def main_with_retry():
-    max_attempts = 6
-    delay_seconds = 120  # 2 minutes
-
-    for attempt in range(1, max_attempts + 1):
-        print(f"\n🔄 [Attempt {attempt}/{max_attempts}] Starting 15-day verified sync...")
-        try:
-            # Yahan aapka asli main_async function call hoga
-            await main_async()
-            
-            # Check karein ki jobs_database.json mein posts save hue ya nahi
-            if os.path.exists(DATABASE_FILE):
-                with open(DATABASE_FILE, "r", encoding="utf-8") as f:
-                    saved_data = json.load(f)
-                if isinstance(saved_data, list) and len(saved_data) > 0:
-                    print(f"🎉 Success! Found {len(saved_data)} posts on attempt {attempt}. Stopping retries.")
-                    break
-            
-            print(f"⚠️ Attempt {attempt} completed, but 0 posts found in database.")
-        except Exception as e:
-            print(f"❌ Error on attempt {attempt}: {e}")
-
-        if attempt < max_adapters if 'max_adapters' in locals() else max_attempts:
-            print(f"⏳ Waiting {delay_seconds} seconds before retry {attempt + 1}...")
-            await asyncio.sleep(delay_seconds)
-
-def main():
-    try:
-        asyncio.run(asyncio.wait_for(main_with_retry(), timeout=1200.0))
-    except asyncio.TimeoutError:
-        print("⚠️ Reached max timeout across retry attempts.")
-
-if __name__ == "__main__":
-    main()
+  
