@@ -1,0 +1,77 @@
+{
+  "updated_at": "2026-10-23 02:23:44",
+  "window_days": 15,
+  "category_counts": {
+    "latest_jobs": 21,
+    "results": 2,
+    "admit_cards": 0,
+    "answer_keys": 0,
+    "syllabus": 0,
+    "admissions": 0
+  },
+  "trending_top_6": [
+    {
+      "id": "6655a0703862",
+      "title": "RRC North Western Railway 2008 Act Apprentice Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://www.rrcjaipur.in",
+      "details": "RRC North Western Railway has released the Recruitment 2026 notification for 2008 Act Apprentice posts. The online application process will be conducted from 23 October 2026 to 22 November 2026. Eligible candidates can apply through the official website, rrcjaipur.in.",
+      "rushScore": 100,
+      "active": true
+    },
+    {
+      "id": "1f0414411298",
+      "title": "RRB NTPC 10+2 UG Online Form 2026 (1688 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.rrbapply.gov.in/#/auth/landing",
+      "details": "Railway Recruitment Board (RRB) , has released a Notification on the official website for the recruitment of Non-Technical Popular Categories (NTPC) Inter Level Posts. This recruitment is for 1688 positions. The RRB application form has started on 15 October 2026, and candidates can apply until 13 November 2026. The minimum age is 18 Years & the maximum age is 30 – 35 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC 10+2 UG Recruitment 2026 provided below. (Advt No : CEN 07/2026)",
+      "rushScore": 94,
+      "active": true
+    },
+    {
+      "id": "4b04fb87d2b4",
+      "title": "RRB 1,688 NTPC UG Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "",
+      "rushScore": 94,
+      "active": true
+    },
+    {
+      "id": "2edfe3d65731",
+      "title": "BHEL 660 Artisan Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://careers.bhel.in/index.jsp",
+      "details": "Bharat Heavy Electricals Limited (BHEL) has released Notification No. 01/2026 for 660 vacancies across various posts. The recruitment drive includes Fitter, Electrician, Welder, Turner, and other positions. Eligible candidates can apply online at careers.bhel.in.",
+      "rushScore": 86,
+      "active": true
+    },
+    {
+      "id": "1d83393cb674",
+      "title": "Indian Army TES 57 Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://joinindianarmy.nic.in/",
+      "details": "",
+      "rushScore": 82,
+      "active": true
+    },
+    {
+      "id": "d7f4ca8c750e",
+      "title": "Cabinet Secretariat 250 DFO (Technical) Offline Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://img2.freejobalert.com/news/2026/10/6456151546-6acda9c86461737344807.pdf",
+      "details": "Cabinet Secretariat has released the Recruitment 2026 notification for 250 Deputy Field Officer posts. The Offline application process will be accepted till 15 November 2026. Eligible candidates can apply through the official website, cabsec.gov.in.",
+      "rushScore": 80,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "new_custom_boxes": []
+}
