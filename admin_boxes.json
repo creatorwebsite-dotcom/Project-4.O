@@ -1,40 +1,22 @@
 {
-  "updated_at": "2026-10-24 18:21:08",
+  "updated_at": "2026-10-25 06:03:55",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 53,
-    "results": 6,
+    "latest_jobs": 23,
+    "results": 2,
     "admit_cards": 0,
-    "answer_keys": 6,
+    "answer_keys": 0,
     "syllabus": 0,
     "admissions": 1
   },
   "trending_top_6": [
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form will start on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 125,
-      "active": true
-    },
     {
       "id": "12061836307c",
       "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
       "sub": "Latest Jobs",
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "2e8d379fabc1",
-      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 125,
+      "rushScore": 123,
       "active": true
     },
     {
@@ -43,25 +25,43 @@
       "sub": "Result",
       "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
       "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
-      "rushScore": 125,
+      "rushScore": 121,
       "active": true
     },
     {
       "id": "b034e86b56ae",
       "title": "Odisha Police 7,268 Constable Online Form 2026",
       "sub": "Latest Jobs",
-      "url": "https://ousssc.odisha.gov.in/",
+      "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
       "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
-      "rushScore": 118,
+      "rushScore": 114,
       "active": true
     },
     {
-      "id": "72cf52211868",
-      "title": "UPESSC 2647 Principal, Headmaster Online Form 2026",
+      "id": "f9e02e087665",
+      "title": "Supreme Court of India Court Master Online Form 2026",
+      "sub": "Today Last Date",
+      "url": "https://cdn3.digialm.com/EForms/configuredHtml/32912/103070/3vdM5J33Gl951V40kH/Index.html",
+      "details": "Supreme Court of India, Recruitment Cell, has published the Recruitment 2026 notification for 20 Court Master (Shorthand) posts. The online application process will be conducted from 25 October 2026 to 15 November 2026. Eligible candidates can apply through the official website, sci.gov.in.",
+      "rushScore": 102,
+      "active": true
+    },
+    {
+      "id": "ac8bd1adc642",
+      "title": "Railway RRB Station Master Online Form 2026",
       "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission, Prayagraj (UPESSC) has released the official notification for the recruitment of 2,647 Principal, Headmaster posts. The online application process will begin on 23 October 2026, and the last date to apply is 22 November 2026. Candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 116,
+      "url": "https://rrb.indianrailways.gov.in/",
+      "details": "Railway Recruitment Board RRB , has released a short notice on its official website for the Recruitment of Railway Station Master Posts. This recruitment is for 1250 positions. RRB Application Form will start on 27 October 2026 & the candidates can apply until 25 November 2026 . Candidates must check the complete details for Railway RRB Station Master Recruitment 2026. Link are given below. ( Advt. No. CEN 08/2026 )",
+      "rushScore": 100,
+      "active": true
+    },
+    {
+      "id": "15007171359e",
+      "title": "NTA JEE Mains Session I Online Form 2027",
+      "sub": "Admission",
+      "url": "https://examinationservices.nic.in/JeeMaink2027/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFVj34FesvYg1WX45sPjGXBr/RK0fiT9U+NCx0+00pns5",
+      "details": "National Testing Agency (NTA) , has released The Notifications on the official website for the JEE MAIN Examination (January 2027) . The exam will be conducted from 20 – 28 January 2027 , and NTA Application Form has started on 24 October 2026 & the candidates can apply until the 22 November 2026 . . Candidates must check the complete details for NTA JEE Mains Session I Online Form 2027. Link are given below.",
+      "rushScore": 98,
       "active": true
     }
   ],
