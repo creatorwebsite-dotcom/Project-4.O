@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 01:48:42",
+  "updated_at": "2026-10-26 06:08:24",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 42,
+    "latest_jobs": 45,
     "results": 5,
     "admit_cards": 1,
-    "answer_keys": 6,
+    "answer_keys": 7,
     "syllabus": 0,
     "admissions": 1
   },
@@ -26,6 +26,15 @@
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
       "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 121,
       "active": true
     },
     {
@@ -53,15 +62,6 @@
       "url": "https://apply.upessc.org/",
       "details": "Uttar Pradesh Education Service Selection Commission, Prayagraj (UPESSC) has released the official notification for the recruitment of 2,647 Principal, Headmaster posts. The online application process will begin on 23 October 2026, and the last date to apply is 22 November 2026. Candidates can apply through the official website, upessc.up.gov.in.",
       "rushScore": 114,
-      "active": true
-    },
-    {
-      "id": "f9e02e087665",
-      "title": "Supreme Court of India Court Master Online Form 2026",
-      "sub": "Today Last Date",
-      "url": "https://cdn3.digialm.com/EForms/configuredHtml/32912/103070/3vdM5J33Gl951V40kH/Index.html",
-      "details": "Supreme Court of India, Recruitment Cell, has published the Recruitment 2026 notification for 20 Court Master (Shorthand) posts. The online application process will be conducted from 25 October 2026 to 15 November 2026. Eligible candidates can apply through the official website, sci.gov.in.",
-      "rushScore": 102,
       "active": true
     }
   ],
