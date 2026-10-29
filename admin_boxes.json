@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28 20:32:09",
+  "updated_at": "2026-10-29 07:01:56",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 61,
-    "results": 5,
+    "latest_jobs": 69,
+    "results": 6,
     "admit_cards": 2,
     "answer_keys": 8,
     "syllabus": 0,
@@ -47,20 +47,20 @@
       "active": true
     },
     {
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 115,
+      "active": true
+    },
+    {
       "id": "b034e86b56ae",
       "title": "Odisha Police 7,268 Constable Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
       "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
-      "rushScore": 114,
-      "active": true
-    },
-    {
-      "id": "72cf52211868",
-      "title": "UPESSC 2647 Principal, Headmaster Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission, Prayagraj (UPESSC) has released the official notification for the recruitment of 2,647 Principal, Headmaster posts. The online application process will begin on 23 October 2026, and the last date to apply is 22 November 2026. Candidates can apply through the official website, upessc.up.gov.in.",
       "rushScore": 114,
       "active": true
     }
