@@ -1555,6 +1555,837 @@
     "status": "published"
   },
   {
+    "id": "c1fb5948129c",
+    "intent_signature": "08cc039240__INTENT_APPLY",
+    "title": "GRSE Various Posts Online Form 2026 (58 Vacancy)",
+    "overview": "",
+    "summary": "",
+    "dept": "GRSE Various Posts",
+    "category": "latest_jobs",
+    "category_label": "Latest Jobs",
+    "admin_box": "Latest Jobs",
+    "is_new_admin_box": false,
+    "primary_intent": "INTENT_APPLY",
+    "job_type": "Govt",
+    "sector": "govt_only",
+    "state": "all",
+    "state_name": "All India / Central",
+    "scope": "central",
+    "unique_quote": "⚡ [GRSE Various Posts (58 Vacancy) Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!",
+    "source": "FreeJobAlertMirror",
+    "date": "30 Oct 2026",
+    "post_date": "30 Oct 2026",
+    "releaseDate": "30 Oct 2026",
+    "lastDate": "28 Nov 2026",
+    "post_timestamp": 1793318400,
+    "isExtended": false,
+    "isTodayLastDate": false,
+    "rightEndTag": "",
+    "rightEndBadgeHtml": "",
+    "rushScore": 80,
+    "isTrendingTop6": false,
+    "total_vacancy": "58 Posts",
+    "totalPosts": "58 Posts",
+    "qual": "Eligibility | Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience",
+    "feeGen": "Employment News",
+    "feeSc": "Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month",
+    "important_dates": {
+      "release_date": "30 Oct 2026",
+      "notification_date": "",
+      "apply_start_date": "30 Oct 2026",
+      "last_date": "28 Nov 2026",
+      "extended_date": "",
+      "fee_last_date": "",
+      "exam_date": "",
+      "admit_card_date": "",
+      "answer_key_date": "",
+      "result_date": ""
+    },
+    "dates": {
+      "start": "30 Oct 2026",
+      "end": "28 Nov 2026",
+      "exam": ""
+    },
+    "application_fee": [
+      "Employment News",
+      "Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month",
+      "Driver Pay Scale Rs. 20,110 - Rs. 70,390",
+      "Other Backward Classes (OBC) 10",
+      "Economically Weaker Section (EWS) 7",
+      "Post Name UR OBC Total",
+      "Painter 10th Pass with NAC/NTC in Painter (General), Painter (Marine) or Industrial Painter",
+      "OBC-NCL 3 Years"
+    ],
+    "age_criteria": [
+      "Journeyman Age Limit Maximum 26 Years as on 1 October 2026",
+      "Driver Age Limit Maximum 32 Years as on 1 October 2026",
+      "Essential Experience Minimum 6 Years of Post-Qualification Experience Driving Light and Heavy Motor Vehicles",
+      "Post Name Maximum Age",
+      "Journeyman 26 Years",
+      "Driver (Vehicle) 32 Years",
+      "Category Age Relaxation",
+      "OBC-NCL 3 Years"
+    ],
+    "eligibility_list": [
+      "Eligibility",
+      "Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience",
+      "Carpenter 10th Pass with NAC/NTC in Carpenter, Wood Work Technician or Shipwright (Wood)",
+      "Crane Operator 10th Pass with NAC/NTC in Electrician; Government-Recognized Crane Operation Certificate Desirable",
+      "Diesel Mechanic 10th Pass with NAC/NTC in Diesel Mechanic, Mechanic Diesel or Mechanic (Marine Diesel)",
+      "Driver Material Handling 10th Pass with NAC/NTC in Diesel Mechanic and Valid Heavy Vehicle Driving Licence; Crane Operation Certificate Desirable",
+      "Electrician 10th Pass with NAC/NTC in Electrician",
+      "Electronic Mechanic 10th Pass with NAC/NTC in Electronic Mechanic"
+    ],
+    "vacancy_rows": [
+      [
+        "Department",
+        "Ministry of Defence, Government of India"
+      ],
+      [
+        "Post Names",
+        "Journeyman and Driver (Vehicle)"
+      ],
+      [
+        "Total Vacancies",
+        "58"
+      ],
+      [
+        "Journeyman Vacancies",
+        "55"
+      ],
+      [
+        "Qualification",
+        "10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience"
+      ],
+      [
+        "Journeyman Age Limit",
+        "Maximum 26 Years as on 1 October 2026"
+      ],
+      [
+        "Journeyman Stipend",
+        "Rs. 24,000 - Rs. 26,000 Per Month"
+      ],
+      [
+        "Driver Pay Scale",
+        "Rs. 20,110 - Rs. 70,390"
+      ],
+      [
+        "Application Start Date",
+        "30 October 2026"
+      ],
+      [
+        "Application Last Date",
+        "28 November 2026"
+      ],
+      [
+        "Selection Process",
+        "Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination"
+      ],
+      [
+        "Job Location",
+        "GRSE, Kolkata, West Bengal"
+      ],
+      [
+        "Online Application Start Date",
+        "30 October 2026, 2:00 PM"
+      ],
+      [
+        "Last Date to Apply Online",
+        "28 November 2026, 11:59 PM"
+      ]
+    ],
+    "selection_process": [
+      "Interview Results",
+      "Selection Process",
+      "Free AI Interview Tool",
+      "Selection Process Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination",
+      "Document Verification Date WILL ANNOUNCE",
+      "Document Verification.",
+      "Medical Examination and applicable verification procedures.",
+      "Pre-Employment Medical Examination and other required checks."
+    ],
+    "exam_pattern": [
+      "Cutoff Marks",
+      "Written Marks",
+      "Syllabus",
+      "Training Duration 2 Years",
+      "Part Subject Marks",
+      "Part I Trade / Subject-Related Questions 80",
+      "Part II General Knowledge, General Aptitude, Reasoning, Mental Ability and Numerical Ability 20",
+      "Total Questions 100"
+    ],
+    "exam_strategy_90_days": {
+      "month_1": "आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।",
+      "month_2": "Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।",
+      "month_3": "अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।"
+    },
+    "link": "https://jobapply.in/GRSE2026Journeyman/Default.aspx",
+    "url": "https://jobapply.in/GRSE2026Journeyman/Default.aspx",
+    "apply_link": "https://jobapply.in/GRSE2026Journeyman/Default.aspx",
+    "applyUrl": "https://jobapply.in/GRSE2026Journeyman/Default.aspx",
+    "notif_url": "https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf",
+    "notifUrl": "https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf",
+    "download_pdf": "https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf",
+    "admit_card_link": "",
+    "answer_key_link": "",
+    "result_link": "",
+    "syllabus_link": "",
+    "official_website": "https://www.grse.in/",
+    "webUrl": "https://www.grse.in/",
+    "all_links": [
+      {
+        "label": "Official Website www.grse.in",
+        "url": "https://www.grse.in/"
+      },
+      {
+        "label": "Open the recruitment application portal .",
+        "url": "https://jobapply.in/grse2026"
+      },
+      {
+        "label": "Apply Online",
+        "url": "https://jobapply.in/GRSE2026Journeyman/Default.aspx"
+      },
+      {
+        "label": "Detailed Recruitment Advertisement View Official Careers Page",
+        "url": "https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf"
+      }
+    ],
+    "short_view": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [GRSE Various Posts (58 Vacancy) Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 GRSE Various Posts Online Form 2026 (58 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>28 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>58 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobapply.in/GRSE2026Journeyman/Default.aspx' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://www.grse.in/' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>",
+    "description": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [GRSE Various Posts (58 Vacancy) Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 GRSE Various Posts Online Form 2026 (58 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>28 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>58 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobapply.in/GRSE2026Journeyman/Default.aspx' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://www.grse.in/' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>28 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month</li><li>Driver Pay Scale Rs. 20,110 - Rs. 70,390</li><li>Other Backward Classes (OBC) 10</li><li>Economically Weaker Section (EWS) 7</li><li>Post Name UR OBC Total</li><li>Painter 10th Pass with NAC/NTC in Painter (General), Painter (Marine) or Industrial Painter</li><li>OBC-NCL 3 Years</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">🎂 Age Limit & Relaxation</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Journeyman Age Limit Maximum 26 Years as on 1 October 2026</li><li>Driver Age Limit Maximum 32 Years as on 1 October 2026</li><li>Essential Experience Minimum 6 Years of Post-Qualification Experience Driving Light and Heavy Motor Vehicles</li><li>Post Name Maximum Age</li><li>Journeyman 26 Years</li><li>Driver (Vehicle) 32 Years</li><li>Category Age Relaxation</li><li>OBC-NCL 3 Years</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</li><li>Carpenter 10th Pass with NAC/NTC in Carpenter, Wood Work Technician or Shipwright (Wood)</li><li>Crane Operator 10th Pass with NAC/NTC in Electrician; Government-Recognized Crane Operation Certificate Desirable</li><li>Diesel Mechanic 10th Pass with NAC/NTC in Diesel Mechanic, Mechanic Diesel or Mechanic (Marine Diesel)</li><li>Driver Material Handling 10th Pass with NAC/NTC in Diesel Mechanic and Valid Heavy Vehicle Driving Licence; Crane Operation Certificate Desirable</li><li>Electrician 10th Pass with NAC/NTC in Electrician</li><li>Electronic Mechanic 10th Pass with NAC/NTC in Electronic Mechanic</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 58 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Department</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Ministry of Defence, Government of India</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Names</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman and Driver (Vehicle)</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>58</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>55</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Age Limit</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Maximum 26 Years as on 1 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Stipend</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 24,000 - Rs. 26,000 Per Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Driver Pay Scale</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 20,110 - Rs. 70,390</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>28 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Selection Process</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>GRSE, Kolkata, West Bengal</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Online Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026, 2:00 PM</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date to Apply Online</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>28 November 2026, 11:59 PM</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Selection Process Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination</li><li>Document Verification Date WILL ANNOUNCE</li><li>Document Verification.</li><li>Medical Examination and applicable verification procedures.</li><li>Pre-Employment Medical Examination and other required checks.</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Training Duration 2 Years</li><li>Part Subject Marks</li><li>Part I Trade / Subject-Related Questions 80</li><li>Part II General Knowledge, General Aptitude, Reasoning, Mental Ability and Numerical Ability 20</li><li>Total Questions 100</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Website www.grse.in</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://www.grse.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Open the recruitment application portal .</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/grse2026' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/GRSE2026Journeyman/Default.aspx' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Detailed Recruitment Advertisement View Official Careers Page</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "content": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [GRSE Various Posts (58 Vacancy) Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 GRSE Various Posts Online Form 2026 (58 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>28 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>58 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobapply.in/GRSE2026Journeyman/Default.aspx' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://www.grse.in/' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>28 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Journeyman Stipend Rs. 24,000 - Rs. 26,000 Per Month</li><li>Driver Pay Scale Rs. 20,110 - Rs. 70,390</li><li>Other Backward Classes (OBC) 10</li><li>Economically Weaker Section (EWS) 7</li><li>Post Name UR OBC Total</li><li>Painter 10th Pass with NAC/NTC in Painter (General), Painter (Marine) or Industrial Painter</li><li>OBC-NCL 3 Years</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">🎂 Age Limit & Relaxation</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Journeyman Age Limit Maximum 26 Years as on 1 October 2026</li><li>Driver Age Limit Maximum 32 Years as on 1 October 2026</li><li>Essential Experience Minimum 6 Years of Post-Qualification Experience Driving Light and Heavy Motor Vehicles</li><li>Post Name Maximum Age</li><li>Journeyman 26 Years</li><li>Driver (Vehicle) 32 Years</li><li>Category Age Relaxation</li><li>OBC-NCL 3 Years</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification 10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</li><li>Carpenter 10th Pass with NAC/NTC in Carpenter, Wood Work Technician or Shipwright (Wood)</li><li>Crane Operator 10th Pass with NAC/NTC in Electrician; Government-Recognized Crane Operation Certificate Desirable</li><li>Diesel Mechanic 10th Pass with NAC/NTC in Diesel Mechanic, Mechanic Diesel or Mechanic (Marine Diesel)</li><li>Driver Material Handling 10th Pass with NAC/NTC in Diesel Mechanic and Valid Heavy Vehicle Driving Licence; Crane Operation Certificate Desirable</li><li>Electrician 10th Pass with NAC/NTC in Electrician</li><li>Electronic Mechanic 10th Pass with NAC/NTC in Electronic Mechanic</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 58 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Department</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Ministry of Defence, Government of India</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Names</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman and Driver (Vehicle)</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>58</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>55</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>10th Pass with Relevant NAC/NTC Trade Certificate or Prescribed Driving Licence and Experience</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Age Limit</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Maximum 26 Years as on 1 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Journeyman Stipend</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 24,000 - Rs. 26,000 Per Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Driver Pay Scale</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 20,110 - Rs. 70,390</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>28 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Selection Process</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>GRSE, Kolkata, West Bengal</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Online Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026, 2:00 PM</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date to Apply Online</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>28 November 2026, 11:59 PM</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Selection Process Written Test, Practical Trade Test, Applicable PET, Document Verification and Medical Examination</li><li>Document Verification Date WILL ANNOUNCE</li><li>Document Verification.</li><li>Medical Examination and applicable verification procedures.</li><li>Pre-Employment Medical Examination and other required checks.</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Training Duration 2 Years</li><li>Part Subject Marks</li><li>Part I Trade / Subject-Related Questions 80</li><li>Part II General Knowledge, General Aptitude, Reasoning, Mental Ability and Numerical Ability 20</li><li>Total Questions 100</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Website www.grse.in</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://www.grse.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Open the recruitment application portal .</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/grse2026' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/GRSE2026Journeyman/Default.aspx' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Detailed Recruitment Advertisement View Official Careers Page</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobapply.in/GRSE2026Journeyman/adv_eng.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "updated_at": "2026-10-30 15:05:30",
+    "updatedAt": "2026-10-30T15:05:30.088244",
+    "status": "published"
+  },
+  {
+    "id": "d58936d8b86b",
+    "intent_signature": "69cff2d398__INTENT_APPLY",
+    "title": "Collectorate Beed Various Posts Offline Form 2026 (24 Vacancy)",
+    "overview": "Collectorate Office Beed (Food, Civil Supplies and Consumer Protection Department) (Collectorate Beed) has released the notification for 24 vacancies across various posts. The recruitment drive includes Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member, School/College Member, and other positions. Eligible candidates can submit their offline applications from 30 October 2026 to 29 November 2026. Further details are available at beed.gov.in.",
+    "summary": "Collectorate Office Beed (Food, Civil Supplies and Consumer Protection Department) (Collectorate Beed) has released the notification for 24 vacancies across various posts. The recruitment drive includes Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member, School/College Member, and other positions. Eligible candidates can submit their offline applications from 30 October 2026 to 29 November 2026. Further details are available at beed.gov.in.",
+    "dept": "Collectorate Beed Various Posts Offline Form",
+    "category": "latest_jobs",
+    "category_label": "Latest Jobs",
+    "admin_box": "Latest Jobs",
+    "is_new_admin_box": false,
+    "primary_intent": "INTENT_APPLY",
+    "job_type": "Govt",
+    "sector": "govt_only",
+    "state": "all",
+    "state_name": "All India / Central",
+    "scope": "central",
+    "unique_quote": "🔥 [Collectorate Beed Various Posts Offlin Registration Challenge]: Form bharna sirf pehla kadam hai—aaj se rozana 8 ghante ki kadi tapasya ka sankalp lein aur apni seat pakki karein!",
+    "source": "FreeJobAlertMirror",
+    "date": "30 Oct 2026",
+    "post_date": "30 Oct 2026",
+    "releaseDate": "30 Oct 2026",
+    "lastDate": "29 Nov 2026",
+    "post_timestamp": 1793318400,
+    "isExtended": false,
+    "isTodayLastDate": false,
+    "rightEndTag": "",
+    "rightEndBadgeHtml": "",
+    "rushScore": 80,
+    "isTrendingTop6": false,
+    "total_vacancy": "24 Posts",
+    "totalPosts": "24 Posts",
+    "qual": "Eligibility | Political, governmental, communal, proprietary or profit-making organisations.",
+    "feeGen": "Employment News",
+    "feeSc": "Fee: No application fee is mentioned in the notification",
+    "important_dates": {
+      "release_date": "30 Oct 2026",
+      "notification_date": "30 Oct 2026",
+      "apply_start_date": "",
+      "last_date": "29 Nov 2026",
+      "extended_date": "",
+      "fee_last_date": "",
+      "exam_date": "",
+      "admit_card_date": "",
+      "answer_key_date": "",
+      "result_date": ""
+    },
+    "dates": {
+      "start": "30 Oct 2026",
+      "end": "29 Nov 2026",
+      "exam": ""
+    },
+    "application_fee": [
+      "Employment News",
+      "Fee: No application fee is mentioned in the notification"
+    ],
+    "age_criteria": [],
+    "eligibility_list": [
+      "Eligibility",
+      "Political, governmental, communal, proprietary or profit-making organisations.",
+      "Reviewing and highlighting local issues relating to adulteration, substandard goods, fraudulent practices, and distribution of essential commodities.",
+      "Selection based on eligibility and norms",
+      "AEES 254 PGT, TGT, PRT & Other Online Form 2026",
+      "TNPDCL 500 Diploma Apprentice Online Form 2026",
+      "SGPGI Nursing Officer Admit Card 2026",
+      "AEES Headmaster Revised Answer Key 2026"
+    ],
+    "vacancy_rows": [
+      [
+        "Post Name",
+        "Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member and 5 more"
+      ],
+      [
+        "No of Posts",
+        "24"
+      ],
+      [
+        "Place of Posting",
+        "Beed"
+      ],
+      [
+        "Qualification",
+        "As per guidelines for respective categories such as Municipal Council, APMC, Consumer Organization, School/College, Medical Professional, Trader, Gas Distributor, Farmer."
+      ],
+      [
+        "Last Date",
+        "29 November 2026"
+      ],
+      [
+        "Agricultural Produce Market Committee Member",
+        "2"
+      ],
+      [
+        "School/College Member",
+        "2"
+      ],
+      [
+        "Trade and Industry Member",
+        "2"
+      ],
+      [
+        "Petrol and Gas Distributor Member",
+        "2"
+      ],
+      [
+        "Total",
+        "24"
+      ],
+      [
+        "Post",
+        "Qualification"
+      ],
+      [
+        "Agricultural Produce Market Committee Member",
+        "As given in the notification"
+      ],
+      [
+        "School/College Member",
+        "As given in the notification"
+      ],
+      [
+        "Trade and Industry Member",
+        "As given in the notification"
+      ]
+    ],
+    "selection_process": [
+      "Interview Results",
+      "Selection Process",
+      "Free AI Interview Tool",
+      "Petrol and Gas Distributor Member 2",
+      "Petrol and Gas Distributor Member As given in the notification",
+      "OPSC OCS Mains Admit Card 2026",
+      "SSC JE Tier 1 Admit Card 2026",
+      "UPSSSC PET Admit Card 2026"
+    ],
+    "exam_pattern": [
+      "Cutoff Marks",
+      "Written Marks",
+      "Syllabus",
+      "AEES Teacher Syllabus 2026",
+      "Kolkata Police Constable Syllabus 2026",
+      "GSSSB Food Safety Officer Syllabus 2026",
+      "BEL Probationary Engineer Syllabus 2026",
+      "UPPSC RO ARO Syllabus 2026"
+    ],
+    "exam_strategy_90_days": {
+      "month_1": "आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।",
+      "month_2": "Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।",
+      "month_3": "अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।"
+    },
+    "link": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "url": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "apply_link": "",
+    "applyUrl": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "notif_url": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "notifUrl": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "download_pdf": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf",
+    "admit_card_link": "",
+    "answer_key_link": "",
+    "result_link": "",
+    "syllabus_link": "",
+    "official_website": "https://beed.gov.in",
+    "webUrl": "https://beed.gov.in",
+    "all_links": [
+      {
+        "label": "Official Notification PDF Download Collectorate Beed notification PDF",
+        "url": "https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf"
+      },
+      {
+        "label": "Application Form Application form for Collectorate Beed Recruitment 2026",
+        "url": "https://beed.gov.in"
+      }
+    ],
+    "short_view": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🔥 [Collectorate Beed Various Posts Offlin Registration Challenge]: Form bharna sirf pehla kadam hai—aaj se rozana 8 ghante ki kadi tapasya ka sankalp lein aur apni seat pakki karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 Collectorate Beed Various Posts Offline Form 2026 (24 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>Collectorate Office Beed (Food, Civil Supplies and Consumer Protection Department) (Collectorate Beed) has released the notification for 24 vacancies across various posts. The recruitment drive includes Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member, School/College Member, and other positions. Eligible candidates can submit their offline applications from 30 October 2026 to 29 November 2026. Further details are available at beed.gov.in.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        \n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>29 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>24 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Political, governmental, communal, proprietary or profit-making organisations.</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Fee: No application fee is mentioned in the notification</div>\n    <div style=\"margin-top:8px;\"><a href='https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://beed.gov.in' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>",
+    "description": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🔥 [Collectorate Beed Various Posts Offlin Registration Challenge]: Form bharna sirf pehla kadam hai—aaj se rozana 8 ghante ki kadi tapasya ka sankalp lein aur apni seat pakki karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 Collectorate Beed Various Posts Offline Form 2026 (24 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>Collectorate Office Beed (Food, Civil Supplies and Consumer Protection Department) (Collectorate Beed) has released the notification for 24 vacancies across various posts. The recruitment drive includes Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member, School/College Member, and other positions. Eligible candidates can submit their offline applications from 30 October 2026 to 29 November 2026. Further details are available at beed.gov.in.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        \n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>29 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>24 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Political, governmental, communal, proprietary or profit-making organisations.</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Fee: No application fee is mentioned in the notification</div>\n    <div style=\"margin-top:8px;\"><a href='https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://beed.gov.in' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Notification Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>29 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Fee: No application fee is mentioned in the notification</li></ul>\n        </div>\n\n        \n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Political, governmental, communal, proprietary or profit-making organisations.</li><li>Reviewing and highlighting local issues relating to adulteration, substandard goods, fraudulent practices, and distribution of essential commodities.</li><li>Selection based on eligibility and norms</li><li>AEES 254 PGT, TGT, PRT & Other Online Form 2026</li><li>TNPDCL 500 Diploma Apprentice Online Form 2026</li><li>SGPGI Nursing Officer Admit Card 2026</li><li>AEES Headmaster Revised Answer Key 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 24 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member and 5 more</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>No of Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>24</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Place of Posting</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Beed</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As per guidelines for respective categories such as Municipal Council, APMC, Consumer Organization, School/College, Medical Professional, Trader, Gas Distributor, Farmer.</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>29 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Agricultural Produce Market Committee Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>School/College Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Trade and Industry Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Petrol and Gas Distributor Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>24</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Agricultural Produce Market Committee Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>School/College Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Trade and Industry Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Petrol and Gas Distributor Member 2</li><li>Petrol and Gas Distributor Member As given in the notification</li><li>OPSC OCS Mains Admit Card 2026</li><li>SSC JE Tier 1 Admit Card 2026</li><li>UPSSSC PET Admit Card 2026</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li><li>UPPSC RO ARO Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Notification PDF Download Collectorate Beed notification PDF</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Application Form Application form for Collectorate Beed Recruitment 2026</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://beed.gov.in' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "content": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🔥 [Collectorate Beed Various Posts Offlin Registration Challenge]: Form bharna sirf pehla kadam hai—aaj se rozana 8 ghante ki kadi tapasya ka sankalp lein aur apni seat pakki karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 Collectorate Beed Various Posts Offline Form 2026 (24 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>Collectorate Office Beed (Food, Civil Supplies and Consumer Protection Department) (Collectorate Beed) has released the notification for 24 vacancies across various posts. The recruitment drive includes Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member, School/College Member, and other positions. Eligible candidates can submit their offline applications from 30 October 2026 to 29 November 2026. Further details are available at beed.gov.in.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        \n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>29 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>24 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Political, governmental, communal, proprietary or profit-making organisations.</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Fee: No application fee is mentioned in the notification</div>\n    <div style=\"margin-top:8px;\"><a href='https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a><a href='https://beed.gov.in' target='_blank' rel='noopener' style='display:inline-block; background:#334155; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🌐 Official Website</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Notification Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>29 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Fee: No application fee is mentioned in the notification</li></ul>\n        </div>\n\n        \n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Political, governmental, communal, proprietary or profit-making organisations.</li><li>Reviewing and highlighting local issues relating to adulteration, substandard goods, fraudulent practices, and distribution of essential commodities.</li><li>Selection based on eligibility and norms</li><li>AEES 254 PGT, TGT, PRT & Other Online Form 2026</li><li>TNPDCL 500 Diploma Apprentice Online Form 2026</li><li>SGPGI Nursing Officer Admit Card 2026</li><li>AEES Headmaster Revised Answer Key 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 24 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Municipal Council Member, Agricultural Produce Market Committee Member, Consumer Organization Member and 5 more</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>No of Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>24</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Place of Posting</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Beed</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As per guidelines for respective categories such as Municipal Council, APMC, Consumer Organization, School/College, Medical Professional, Trader, Gas Distributor, Farmer.</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>29 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Agricultural Produce Market Committee Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>School/College Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Trade and Industry Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Petrol and Gas Distributor Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>24</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Agricultural Produce Market Committee Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>School/College Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Trade and Industry Member</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>As given in the notification</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Petrol and Gas Distributor Member 2</li><li>Petrol and Gas Distributor Member As given in the notification</li><li>OPSC OCS Mains Admit Card 2026</li><li>SSC JE Tier 1 Admit Card 2026</li><li>UPSSSC PET Admit Card 2026</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li><li>UPPSC RO ARO Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Notification PDF Download Collectorate Beed notification PDF</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://cdn.s3waas.gov.in/s353c3bce66e43be4f209556518c2fcb54/uploads/2026/10/17933458092432.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Application Form Application form for Collectorate Beed Recruitment 2026</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://beed.gov.in' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "updated_at": "2026-10-30 15:05:34",
+    "updatedAt": "2026-10-30T15:05:34.857479",
+    "status": "published"
+  },
+  {
+    "id": "7063489eadfa",
+    "intent_signature": "0ee0db6982__INTENT_APPLY",
+    "title": "DMFT Dhanbad Various Posts Online Form 2026 (74 Vacancy)",
+    "overview": "District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad) has published the Recruitment 2026 notification for 74 vacancies across various posts. The online application process will be conducted from 30 October 2026 to 21 November 2026. Eligible candidates can apply through the official website, doctorrg.egovdhn.in. The recruitment drive includes Medical Officer, General Physician, Gynecologist, Paediatrician, and other positions.",
+    "summary": "District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad) has published the Recruitment 2026 notification for 74 vacancies across various posts. The online application process will be conducted from 30 October 2026 to 21 November 2026. Eligible candidates can apply through the official website, doctorrg.egovdhn.in. The recruitment drive includes Medical Officer, General Physician, Gynecologist, Paediatrician, and other positions.",
+    "dept": "DMFT Dhanbad Various Posts",
+    "category": "latest_jobs",
+    "category_label": "Latest Jobs",
+    "admin_box": "Latest Jobs",
+    "is_new_admin_box": false,
+    "primary_intent": "INTENT_APPLY",
+    "job_type": "Govt",
+    "sector": "govt_only",
+    "state": "all",
+    "state_name": "All India / Central",
+    "scope": "central",
+    "unique_quote": "⚡ [DMFT Dhanbad Various Posts (74 Vacancy Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!",
+    "source": "FreeJobAlertMirror",
+    "date": "30 Oct 2026",
+    "post_date": "30 Oct 2026",
+    "releaseDate": "30 Oct 2026",
+    "lastDate": "21 Nov 2026",
+    "post_timestamp": 1793318400,
+    "isExtended": false,
+    "isTodayLastDate": false,
+    "rightEndTag": "",
+    "rightEndBadgeHtml": "",
+    "rushScore": 80,
+    "isTrendingTop6": false,
+    "total_vacancy": "74 Posts",
+    "totalPosts": "74 Posts",
+    "qual": "Eligibility | Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization",
+    "feeGen": "Employment News",
+    "feeSc": "Pay: Rs. 63,000 to Rs. 1,10,000 per month",
+    "important_dates": {
+      "release_date": "30 Oct 2026",
+      "notification_date": "30 Oct 2026",
+      "apply_start_date": "30 Oct 2026",
+      "last_date": "21 Nov 2026",
+      "extended_date": "",
+      "fee_last_date": "",
+      "exam_date": "",
+      "admit_card_date": "",
+      "answer_key_date": "",
+      "result_date": ""
+    },
+    "dates": {
+      "start": "30 Oct 2026",
+      "end": "21 Nov 2026",
+      "exam": ""
+    },
+    "application_fee": [
+      "Employment News",
+      "Pay: Rs. 63,000 to Rs. 1,10,000 per month",
+      "Fee: No application fee is mentioned in the notification",
+      "Post Name Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more",
+      "Pay Rs. 63,000 to Rs. 1,10,000 per month",
+      "General Physician (NRHM + NCD Cell) 13 1,10,000/Month",
+      "Post UR OBC SC ST EWS Total",
+      "General Physician (NRHM + NCD Cell) 5 2 2 2 2 13"
+    ],
+    "age_criteria": [],
+    "eligibility_list": [
+      "Eligibility",
+      "Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization",
+      "Medical Officer (NRHM + NUHM) MBBS",
+      "General Physician (NRHM + NCD Cell) MBBS + MD/DNB/DGM in General Medicine",
+      "Gynecologist (NRHM + NUHM) MBBS + MD/MS/DNB/ DGO in Obstetrics & Gynecology",
+      "Paediatrician (NRHM + NUHM) MBBS + MD/DNB/DCH in Child Health",
+      "Anesthesiologist (NRHM + NUHM) MBBS + MD/DNB/DA in Anesthesiology",
+      "Initially for a period of one year from the date of joining"
+    ],
+    "vacancy_rows": [
+      [
+        "Organisation",
+        "District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad), Jharkhand"
+      ],
+      [
+        "Post Name",
+        "Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more"
+      ],
+      [
+        "No of Posts",
+        "74"
+      ],
+      [
+        "Place of Posting",
+        "Dhanbad"
+      ],
+      [
+        "Qualification",
+        "MBBS / Post Graduate Degree / Diploma in relevant medical specialization"
+      ],
+      [
+        "Start Date",
+        "30 October 2026"
+      ],
+      [
+        "Last Date",
+        "21 November 2026"
+      ],
+      [
+        "Post",
+        "Posts",
+        "Pay"
+      ],
+      [
+        "Gynecologist (NRHM + NUHM)",
+        "2",
+        "1,10,000/Month"
+      ],
+      [
+        "Anesthesiologist (NRHM + NUHM)",
+        "4",
+        "1,10,000/Month"
+      ],
+      [
+        "Total",
+        "74",
+        ""
+      ],
+      [
+        "Post",
+        "UR",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS",
+        "Total"
+      ],
+      [
+        "Gynecologist (NRHM + NUHM)",
+        "0",
+        "2",
+        "0",
+        "0",
+        "0",
+        "2"
+      ],
+      [
+        "Anesthesiologist (NRHM + NUHM)",
+        "2",
+        "2",
+        "0",
+        "0",
+        "0",
+        "4"
+      ]
+    ],
+    "selection_process": [
+      "Interview Results",
+      "Selection Process",
+      "Free AI Interview Tool",
+      "Personnel Interview",
+      "Document Verification",
+      "Marks obtained in the interview will be the criteria for selection.",
+      "The competent authority may increase, decrease, modify, withdraw or cancel any vacancy.",
+      "GCN Siddipet Recruitment 2026 – Apply Offline for 12 Lab Attendant, Dhobi/ Packer and More Posts"
+    ],
+    "exam_pattern": [
+      "Cutoff Marks",
+      "Written Marks",
+      "Syllabus",
+      "Marks obtained in the interview will be the criteria for selection.",
+      "AEES Teacher Syllabus 2026",
+      "Kolkata Police Constable Syllabus 2026",
+      "GSSSB Food Safety Officer Syllabus 2026",
+      "BEL Probationary Engineer Syllabus 2026"
+    ],
+    "exam_strategy_90_days": {
+      "month_1": "आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।",
+      "month_2": "Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।",
+      "month_3": "अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।"
+    },
+    "link": "https://doctorrg.egovdhn.in/",
+    "url": "https://doctorrg.egovdhn.in/",
+    "apply_link": "https://doctorrg.egovdhn.in/",
+    "applyUrl": "https://doctorrg.egovdhn.in/",
+    "notif_url": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf",
+    "notifUrl": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf",
+    "download_pdf": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf",
+    "admit_card_link": "",
+    "answer_key_link": "",
+    "result_link": "",
+    "syllabus_link": "",
+    "official_website": "https://doctorrg.egovdhn.in/",
+    "webUrl": "https://doctorrg.egovdhn.in/",
+    "all_links": [
+      {
+        "label": "Official Notification PDF Download DMFT Dhanbad notification PDF",
+        "url": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf"
+      },
+      {
+        "label": "Apply Online Apply online for DMFT Dhanbad Recruitment 2026",
+        "url": "https://doctorrg.egovdhn.in/"
+      }
+    ],
+    "short_view": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [DMFT Dhanbad Various Posts (74 Vacancy Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 DMFT Dhanbad Various Posts Online Form 2026 (74 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad) has published the Recruitment 2026 notification for 74 vacancies across various posts. The online application process will be conducted from 30 October 2026 to 21 November 2026. Eligible candidates can apply through the official website, doctorrg.egovdhn.in. The recruitment drive includes Medical Officer, General Physician, Gynecologist, Paediatrician, and other positions.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>21 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>74 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Pay: Rs. 63,000 to Rs. 1,10,000 per month</div>\n    <div style=\"margin-top:8px;\"><a href='https://doctorrg.egovdhn.in/' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a></div>\n</div>",
+    "description": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [DMFT Dhanbad Various Posts (74 Vacancy Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 DMFT Dhanbad Various Posts Online Form 2026 (74 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad) has published the Recruitment 2026 notification for 74 vacancies across various posts. The online application process will be conducted from 30 October 2026 to 21 November 2026. Eligible candidates can apply through the official website, doctorrg.egovdhn.in. The recruitment drive includes Medical Officer, General Physician, Gynecologist, Paediatrician, and other positions.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>21 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>74 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Pay: Rs. 63,000 to Rs. 1,10,000 per month</div>\n    <div style=\"margin-top:8px;\"><a href='https://doctorrg.egovdhn.in/' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Notification Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>21 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Pay: Rs. 63,000 to Rs. 1,10,000 per month</li><li>Fee: No application fee is mentioned in the notification</li><li>Post Name Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more</li><li>Pay Rs. 63,000 to Rs. 1,10,000 per month</li><li>General Physician (NRHM + NCD Cell) 13 1,10,000/Month</li><li>Post UR OBC SC ST EWS Total</li><li>General Physician (NRHM + NCD Cell) 5 2 2 2 2 13</li></ul>\n        </div>\n\n        \n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization</li><li>Medical Officer (NRHM + NUHM) MBBS</li><li>General Physician (NRHM + NCD Cell) MBBS + MD/DNB/DGM in General Medicine</li><li>Gynecologist (NRHM + NUHM) MBBS + MD/MS/DNB/ DGO in Obstetrics & Gynecology</li><li>Paediatrician (NRHM + NUHM) MBBS + MD/DNB/DCH in Child Health</li><li>Anesthesiologist (NRHM + NUHM) MBBS + MD/DNB/DA in Anesthesiology</li><li>Initially for a period of one year from the date of joining</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 74 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Organisation</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad), Jharkhand</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>No of Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>74</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Place of Posting</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Dhanbad</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>MBBS / Post Graduate Degree / Diploma in relevant medical specialization</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>21 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Pay</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Gynecologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1,10,000/Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Anesthesiologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>4</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1,10,000/Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>74</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'></td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>UR</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>OBC</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>SC</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>ST</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>EWS</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Gynecologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Anesthesiologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>4</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Personnel Interview</li><li>Document Verification</li><li>Marks obtained in the interview will be the criteria for selection.</li><li>The competent authority may increase, decrease, modify, withdraw or cancel any vacancy.</li><li>GCN Siddipet Recruitment 2026 – Apply Offline for 12 Lab Attendant, Dhobi/ Packer and More Posts</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Marks obtained in the interview will be the criteria for selection.</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Notification PDF Download DMFT Dhanbad notification PDF</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Apply Online Apply online for DMFT Dhanbad Recruitment 2026</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://doctorrg.egovdhn.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "content": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        ⚡ [DMFT Dhanbad Various Posts (74 Vacancy Mission Day-1]: Lakhon candidates form bharenge, par selection unhi ka hoga jo aaj hi syllabus ko apna hathiyar banayenge!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 DMFT Dhanbad Various Posts Online Form 2026 (74 Vacancy)</h3>\n        \n    </div>\n    <p style='margin:0 0 10px; font-size:13px; color:#334155; line-height:1.5;'>District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad) has published the Recruitment 2026 notification for 74 vacancies across various posts. The online application process will be conducted from 30 October 2026 to 21 November 2026. Eligible candidates can apply through the official website, doctorrg.egovdhn.in. The recruitment drive includes Medical Officer, General Physician, Gynecologist, Paediatrician, and other positions.</p>\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (All India / Central)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        <div><strong>📜 Notification Date:</strong> 30 Oct 2026</div>\n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>21 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>74 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Pay: Rs. 63,000 to Rs. 1,10,000 per month</div>\n    <div style=\"margin-top:8px;\"><a href='https://doctorrg.egovdhn.in/' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a><a href='https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf' target='_blank' rel='noopener' style='display:inline-block; background:#0f766e; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>📄 Official Notification PDF</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Notification Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>21 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Pay: Rs. 63,000 to Rs. 1,10,000 per month</li><li>Fee: No application fee is mentioned in the notification</li><li>Post Name Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more</li><li>Pay Rs. 63,000 to Rs. 1,10,000 per month</li><li>General Physician (NRHM + NCD Cell) 13 1,10,000/Month</li><li>Post UR OBC SC ST EWS Total</li><li>General Physician (NRHM + NCD Cell) 5 2 2 2 2 13</li></ul>\n        </div>\n\n        \n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification MBBS / Post Graduate Degree / Diploma in relevant medical specialization</li><li>Medical Officer (NRHM + NUHM) MBBS</li><li>General Physician (NRHM + NCD Cell) MBBS + MD/DNB/DGM in General Medicine</li><li>Gynecologist (NRHM + NUHM) MBBS + MD/MS/DNB/ DGO in Obstetrics & Gynecology</li><li>Paediatrician (NRHM + NUHM) MBBS + MD/DNB/DCH in Child Health</li><li>Anesthesiologist (NRHM + NUHM) MBBS + MD/DNB/DA in Anesthesiology</li><li>Initially for a period of one year from the date of joining</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 74 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Organisation</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>District Mineral Foundation Trust, Dhanbad (DMFT Dhanbad), Jharkhand</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Medical Officer (NRHM + NUHM), General Physician (NRHM + NCD Cell), Gynecologist (NRHM + NUHM) and 2 more</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>No of Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>74</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Place of Posting</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Dhanbad</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>MBBS / Post Graduate Degree / Diploma in relevant medical specialization</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>21 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Posts</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Pay</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Gynecologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1,10,000/Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Anesthesiologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>4</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1,10,000/Month</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>74</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'></td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>UR</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>OBC</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>SC</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>ST</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>EWS</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Gynecologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Anesthesiologist (NRHM + NUHM)</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>2</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>0</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>4</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Personnel Interview</li><li>Document Verification</li><li>Marks obtained in the interview will be the criteria for selection.</li><li>The competent authority may increase, decrease, modify, withdraw or cancel any vacancy.</li><li>GCN Siddipet Recruitment 2026 – Apply Offline for 12 Lab Attendant, Dhobi/ Packer and More Posts</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Marks obtained in the interview will be the criteria for selection.</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Notification PDF Download DMFT Dhanbad notification PDF</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17933632561062.pdf' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Apply Online Apply online for DMFT Dhanbad Recruitment 2026</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://doctorrg.egovdhn.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "updated_at": "2026-10-30 15:05:34",
+    "updatedAt": "2026-10-30T15:05:34.171868",
+    "status": "published"
+  },
+  {
+    "id": "81aa8f2d098f",
+    "intent_signature": "c48b08758b__INTENT_APPLY",
+    "title": "NRLM Karnataka Various Posts Online Form 2026 (32 Vacancy)",
+    "overview": "",
+    "summary": "",
+    "dept": "NRLM Karnataka Various Posts",
+    "category": "latest_jobs",
+    "category_label": "Latest Jobs",
+    "admin_box": "Latest Jobs",
+    "is_new_admin_box": false,
+    "primary_intent": "INTENT_APPLY",
+    "job_type": "Govt",
+    "sector": "govt_only",
+    "state": "karnataka",
+    "state_name": "Karnataka",
+    "scope": "state",
+    "unique_quote": "🎯 [NRLM Karnataka Various Posts (32 Vacan Lakshya Vedh]: Application window khul chuki hai—bina waqt gawaye form submit karein aur pehle mock test se apni raneeti shuru karein!",
+    "source": "FreeJobAlertMirror",
+    "date": "30 Oct 2026",
+    "post_date": "30 Oct 2026",
+    "releaseDate": "30 Oct 2026",
+    "lastDate": "12 Nov 2026",
+    "post_timestamp": 1793318400,
+    "isExtended": false,
+    "isTodayLastDate": false,
+    "rightEndTag": "",
+    "rightEndBadgeHtml": "",
+    "rushScore": 80,
+    "isTrendingTop6": false,
+    "total_vacancy": "32 Posts",
+    "totalPosts": "32 Posts",
+    "qual": "Eligibility | Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications",
+    "feeGen": "Employment News",
+    "feeSc": "Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary",
+    "important_dates": {
+      "release_date": "30 Oct 2026",
+      "notification_date": "",
+      "apply_start_date": "30 Oct 2026",
+      "last_date": "12 Nov 2026",
+      "extended_date": "",
+      "fee_last_date": "",
+      "exam_date": "",
+      "admit_card_date": "",
+      "answer_key_date": "",
+      "result_date": ""
+    },
+    "dates": {
+      "start": "30 Oct 2026",
+      "end": "12 Nov 2026",
+      "exam": ""
+    },
+    "application_fee": [
+      "Employment News",
+      "Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary",
+      "Knowledge of working with computers.",
+      "Block Manager - Farm Livelihoods Rs. 25,000",
+      "Block Technical Coordinator - Enterprise Promotion OSF Rs. 42,000",
+      "District Manager - Farm Livelihood Rs. 30,000",
+      "District Manager - Institutional & Capacity Building Rs. 30,000",
+      "Office Assistant Rs. 20,000"
+    ],
+    "age_criteria": [
+      "Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply",
+      "Office Assistant Any Graduation 3+ Years in Relevant Field",
+      "Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience",
+      "Cluster Supervisor - Skill Any Graduation 3+ Years in Relevant Field",
+      "DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field",
+      "Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field",
+      "Minimum five years of relevant post-qualification experience.",
+      "Preference for candidates with at least one year as Taluk Mission Manager or two years as Cluster Supervisor."
+    ],
+    "eligibility_list": [
+      "Eligibility",
+      "Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications",
+      "Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply",
+      "District Manager - Institutional & Capacity Building, Social Inclusion & Social Development Full-Time Postgraduate Degree in Social Science, Rural Development, MSW, MBA, Agriculture Science or Equivalent Minimum 5 Years in Relevant Field",
+      "Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience",
+      "DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field",
+      "Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field",
+      "Implement and monitor farm livelihood activities at block level."
+    ],
+    "vacancy_rows": [
+      [
+        "Organization",
+        "Karnataka State Rural Livelihood Promotion Society (KSRLPS)"
+      ],
+      [
+        "Post Names",
+        "Block Manager, District Manager, Taluk Program Manager, Cluster Supervisor, Office Assistant, DEO/MIS Coordinator and Block Technical Coordinator"
+      ],
+      [
+        "Total Vacancies",
+        "32"
+      ],
+      [
+        "Qualification",
+        "Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications"
+      ],
+      [
+        "Experience",
+        "Post-Specific Relevant Experience Required"
+      ],
+      [
+        "Age Limit",
+        "18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply"
+      ],
+      [
+        "Monthly Remuneration",
+        "Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary"
+      ],
+      [
+        "Application Start Date",
+        "30 October 2026"
+      ],
+      [
+        "Application Last Date",
+        "12 November 2026"
+      ],
+      [
+        "Job Location",
+        "Mysuru District, Karnataka"
+      ],
+      [
+        "Job Listings Published / Application Start Date",
+        "30 October 2026"
+      ],
+      [
+        "Last Date to Apply Online",
+        "12 November 2026"
+      ],
+      [
+        "S. No.",
+        "Post Name",
+        "Location",
+        "Vacancies"
+      ],
+      [
+        "1",
+        "Block Manager - Farm Livelihoods",
+        "Mysuru District",
+        "7"
+      ]
+    ],
+    "selection_process": [
+      "Interview Results",
+      "Selection Process",
+      "Free AI Interview Tool",
+      "Selection / Interview Date WILL ANNOUNCE",
+      "OPSC OCS Mains Admit Card 2026",
+      "SSC JE Tier 1 Admit Card 2026",
+      "UPSSSC PET Admit Card 2026",
+      "UPSSSC Stenographer Skill Test Result 2026"
+    ],
+    "exam_pattern": [
+      "Cutoff Marks",
+      "Written Marks",
+      "Syllabus",
+      "Educational marksheets.",
+      "AEES Teacher Syllabus 2026",
+      "Kolkata Police Constable Syllabus 2026",
+      "GSSSB Food Safety Officer Syllabus 2026",
+      "BEL Probationary Engineer Syllabus 2026"
+    ],
+    "exam_strategy_90_days": {
+      "month_1": "आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।",
+      "month_2": "Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।",
+      "month_3": "अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।"
+    },
+    "link": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ",
+    "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ",
+    "apply_link": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ",
+    "applyUrl": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ",
+    "notif_url": "",
+    "notifUrl": "",
+    "download_pdf": "",
+    "admit_card_link": "",
+    "answer_key_link": "",
+    "result_link": "",
+    "syllabus_link": "",
+    "official_website": "",
+    "webUrl": "",
+    "all_links": [
+      {
+        "label": "Official Job Portal jobsksrlps.karnataka.gov.in",
+        "url": "https://jobsksrlps.karnataka.gov.in/"
+      },
+      {
+        "label": "Block Manager - Farm Livelihoods (7 Posts) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ"
+      },
+      {
+        "label": "Block Technical Coordinator - Nanjangud (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/qlDIooe4L9CvucD8eo8QvQ"
+      },
+      {
+        "label": "District Manager - Farm Livelihood (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/7njYJe6ydlN9b3iw8ixDqQ"
+      },
+      {
+        "label": "District Manager - Institutional & Capacity Building (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/-2cMBKPwfPgIFAC2PX9-Ww"
+      },
+      {
+        "label": "Office Assistant (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CqTm-fhKRh0HZimYgKujAg"
+      },
+      {
+        "label": "Taluk Program Manager (4 Posts) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/QStj_vvKlmNMSwJncal4mA"
+      },
+      {
+        "label": "Cluster Supervisor - Skill (5 Posts) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/vB91Mn2n_ANIR35XWKeU7Q"
+      },
+      {
+        "label": "DEO/MIS Coordinator (2 Posts) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/d8fVEdnduaxG6Q1YDNHZZw"
+      },
+      {
+        "label": "Block Technical Coordinator - Mysuru Taluk (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/t2Kr7XQQGznT-VKGSuO1IA"
+      },
+      {
+        "label": "Block Technical Coordinator - Heggadadevana Kote (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CZpfmJkGfdDcXaqirf_UUg"
+      },
+      {
+        "label": "Block Technical Coordinator - Piriyapatna (1 Post) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/4Vu2lV_H704us8m43iWX4w"
+      },
+      {
+        "label": "Block Manager - Non-Farm Livelihood (7 Posts) Apply Online",
+        "url": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/Jajbm1yWiTRp3Fspl-E5Eg"
+      }
+    ],
+    "short_view": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🎯 [NRLM Karnataka Various Posts (32 Vacan Lakshya Vedh]: Application window khul chuki hai—bina waqt gawaye form submit karein aur pehle mock test se apni raneeti shuru karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 NRLM Karnataka Various Posts Online Form 2026 (32 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (Karnataka)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>12 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>32 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a></div>\n</div>",
+    "description": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🎯 [NRLM Karnataka Various Posts (32 Vacan Lakshya Vedh]: Application window khul chuki hai—bina waqt gawaye form submit karein aur pehle mock test se apni raneeti shuru karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 NRLM Karnataka Various Posts Online Form 2026 (32 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (Karnataka)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>12 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>32 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>12 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</li><li>Knowledge of working with computers.</li><li>Block Manager - Farm Livelihoods Rs. 25,000</li><li>Block Technical Coordinator - Enterprise Promotion OSF Rs. 42,000</li><li>District Manager - Farm Livelihood Rs. 30,000</li><li>District Manager - Institutional & Capacity Building Rs. 30,000</li><li>Office Assistant Rs. 20,000</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">🎂 Age Limit & Relaxation</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</li><li>Office Assistant Any Graduation 3+ Years in Relevant Field</li><li>Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience</li><li>Cluster Supervisor - Skill Any Graduation 3+ Years in Relevant Field</li><li>DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field</li><li>Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field</li><li>Minimum five years of relevant post-qualification experience.</li><li>Preference for candidates with at least one year as Taluk Mission Manager or two years as Cluster Supervisor.</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</li><li>Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</li><li>District Manager - Institutional & Capacity Building, Social Inclusion & Social Development Full-Time Postgraduate Degree in Social Science, Rural Development, MSW, MBA, Agriculture Science or Equivalent Minimum 5 Years in Relevant Field</li><li>Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience</li><li>DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field</li><li>Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field</li><li>Implement and monitor farm livelihood activities at block level.</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 32 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Organization</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Karnataka State Rural Livelihood Promotion Society (KSRLPS)</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Names</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Block Manager, District Manager, Taluk Program Manager, Cluster Supervisor, Office Assistant, DEO/MIS Coordinator and Block Technical Coordinator</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>32</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Experience</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post-Specific Relevant Experience Required</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Age Limit</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Monthly Remuneration</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>12 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Mysuru District, Karnataka</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Listings Published / Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date to Apply Online</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>12 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>S. No.</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Vacancies</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Block Manager - Farm Livelihoods</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Mysuru District</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>7</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Selection / Interview Date WILL ANNOUNCE</li><li>OPSC OCS Mains Admit Card 2026</li><li>SSC JE Tier 1 Admit Card 2026</li><li>UPSSSC PET Admit Card 2026</li><li>UPSSSC Stenographer Skill Test Result 2026</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Educational marksheets.</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Job Portal jobsksrlps.karnataka.gov.in</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Manager - Farm Livelihoods (7 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Nanjangud (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/qlDIooe4L9CvucD8eo8QvQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>District Manager - Farm Livelihood (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/7njYJe6ydlN9b3iw8ixDqQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>District Manager - Institutional & Capacity Building (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/-2cMBKPwfPgIFAC2PX9-Ww' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Office Assistant (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CqTm-fhKRh0HZimYgKujAg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Taluk Program Manager (4 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/QStj_vvKlmNMSwJncal4mA' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Cluster Supervisor - Skill (5 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/vB91Mn2n_ANIR35XWKeU7Q' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>DEO/MIS Coordinator (2 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/d8fVEdnduaxG6Q1YDNHZZw' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Mysuru Taluk (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/t2Kr7XQQGznT-VKGSuO1IA' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Heggadadevana Kote (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CZpfmJkGfdDcXaqirf_UUg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Piriyapatna (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/4Vu2lV_H704us8m43iWX4w' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Manager - Non-Farm Livelihood (7 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/Jajbm1yWiTRp3Fspl-E5Eg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "content": "<div class=\"short-view-card\" style=\"background:#ffffff; border:2px solid #094053; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(9,64,83,0.08);\">\n    <div style=\"background:linear-gradient(90deg,#fef3c7,#fde68a); border-left:4px solid #d97706; padding:8px 12px; margin-bottom:12px; font-weight:800; color:#92400e; font-size:13px; border-radius:4px;\">\n        🎯 [NRLM Karnataka Various Posts (32 Vacan Lakshya Vedh]: Application window khul chuki hai—bina waqt gawaye form submit karein aur pehle mock test se apni raneeti shuru karein!\n    </div>\n    <div style=\"display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap; margin-bottom:10px;\">\n        <h3 style=\"margin:0; color:#094053; font-size:17px; font-weight:900; line-height:1.35;\">📢 NRLM Karnataka Various Posts Online Form 2026 (32 Vacancy)</h3>\n        \n    </div>\n    \n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(195px, 1fr)); gap:8px; background:#f8fafc; padding:11px; border-radius:8px; border:1px solid #cbd5e1; font-size:12.5px; margin-bottom:12px;\">\n        <div><strong>📌 Category:</strong> Latest Jobs</div>\n        <div><strong>🏛️ Sector / State:</strong> Govt (Karnataka)</div>\n        <div><strong>🗓️ Release Date:</strong> <span style='color:#0369a1; font-weight:800;'>30 Oct 2026</span></div>\n        \n        <div><strong>🟢 Apply Start Date:</strong> 30 Oct 2026</div>\n        <div><strong>🔴 Last Date:</strong> <span style='color:#dc2626; font-weight:800;'>12 Nov 2026</span></div>\n        \n        \n        <div><strong>📊 Total Vacancy:</strong> <span style='color:#15803d; font-weight:900;'>32 Posts</span></div>\n    </div>\n    <div style='font-size:12.5px; color:#1e293b; background:#fffbeb; border:1px solid #fde68a; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>🎓 Eligibility:</strong> Eligibility | Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</div>\n    <div style='font-size:12.5px; color:#1e293b; background:#f0fdf4; border:1px solid #86efac; padding:8px 10px; border-radius:6px; margin-bottom:10px;'><strong>💳 Application Fee:</strong> Employment News | Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</div>\n    <div style=\"margin-top:8px;\"><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ' target='_blank' rel='noopener' style='display:inline-block; background:#1d4ed8; color:#ffffff; padding:8px 14px; border-radius:6px; font-weight:800; text-decoration:none; font-size:12.5px; margin:4px 6px 4px 0;'>🚀 Apply Online / Registration</a></div>\n</div>\n<div class=\"full-dossier-view\" style=\"background:#ffffff; border:2px solid #006975; border-radius:12px; padding:18px; margin-bottom:20px;\">\n    <h4 style=\"margin:0 0 14px; color:#094053; border-bottom:2px solid #094053; padding-bottom:6px; font-size:15px;\">\n        📋 COMPLETE POST DESCRIPTION & OFFICIAL DETAILS\n    </h4>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#b91c1c; font-size:13.5px;\">📅 Important Dates</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li><strong>Post Release / Update Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Apply Online Start Date:</strong> <span style='color:#0f172a;'>30 Oct 2026</span></li><li><strong>Last Date to Apply:</strong> <span style='color:#dc2626; font-weight:800;'>12 Nov 2026</span></li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#047857; font-size:13.5px;\">💳 Application Fee</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Employment News</li><li>Monthly Remuneration Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</li><li>Knowledge of working with computers.</li><li>Block Manager - Farm Livelihoods Rs. 25,000</li><li>Block Technical Coordinator - Enterprise Promotion OSF Rs. 42,000</li><li>District Manager - Farm Livelihood Rs. 30,000</li><li>District Manager - Institutional & Capacity Building Rs. 30,000</li><li>Office Assistant Rs. 20,000</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">🎂 Age Limit & Relaxation</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</li><li>Office Assistant Any Graduation 3+ Years in Relevant Field</li><li>Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience</li><li>Cluster Supervisor - Skill Any Graduation 3+ Years in Relevant Field</li><li>DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field</li><li>Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field</li><li>Minimum five years of relevant post-qualification experience.</li><li>Preference for candidates with at least one year as Taluk Mission Manager or two years as Cluster Supervisor.</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0369a1; font-size:13.5px;\">🎓 Eligibility Criteria</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.65;\"><li>Eligibility</li><li>Qualification Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</li><li>Age Limit 18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</li><li>District Manager - Institutional & Capacity Building, Social Inclusion & Social Development Full-Time Postgraduate Degree in Social Science, Rural Development, MSW, MBA, Agriculture Science or Equivalent Minimum 5 Years in Relevant Field</li><li>Taluk Program Manager Full-Time 2-Year Postgraduate Degree / PG Diploma Minimum 5 Years of Post-Qualification Relevant Experience</li><li>DEO/MIS Coordinator Professional Graduate Qualification / Any Postgraduation Minimum 3 Years in Relevant Field</li><li>Block Manager - Non-Farm Livelihood Postgraduate Degree 3+ Years in Relevant Field</li><li>Implement and monitor farm livelihood activities at block level.</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#ffffff; border:1px solid #cbd5e1; padding:12px; border-radius:8px; margin-bottom:16px; overflow-x:auto;\">\n        <h5 style=\"margin:0 0 8px; color:#1e40af; font-size:13.5px;\">📊 Vacancy & Post-Wise / Category-Wise Details (Total: 32 Posts)</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.5px;\">\n            <tbody><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Organization</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Karnataka State Rural Livelihood Promotion Society (KSRLPS)</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Names</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Block Manager, District Manager, Taluk Program Manager, Cluster Supervisor, Office Assistant, DEO/MIS Coordinator and Block Technical Coordinator</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Total Vacancies</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>32</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Qualification</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Graduate, Postgraduate, B.Sc., M.Sc., MBA, MSW, PG Diploma or Other Relevant Qualifications</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Experience</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post-Specific Relevant Experience Required</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Age Limit</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>18 to 50 Years as Displayed on Job Listings; Post-Specific Conditions Apply</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Monthly Remuneration</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Rs. 18,000 - Rs. 42,000 for Posts with Disclosed Salary</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Application Last Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>12 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Mysuru District, Karnataka</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Job Listings Published / Application Start Date</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>30 October 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Last Date to Apply Online</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>12 November 2026</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>S. No.</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Post Name</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Location</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Vacancies</td></tr><tr><td style='border:1px solid #cbd5e1; padding:7px 10px;'>1</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Block Manager - Farm Livelihoods</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>Mysuru District</td><td style='border:1px solid #cbd5e1; padding:7px 10px;'>7</td></tr></tbody>\n        </table>\n    </div>\n\n    <div style=\"display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin-bottom:16px;\">\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#6d28d9; font-size:13.5px;\">⚙️ Selection Process</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Interview Results</li><li>Selection Process</li><li>Free AI Interview Tool</li><li>Selection / Interview Date WILL ANNOUNCE</li><li>OPSC OCS Mains Admit Card 2026</li><li>SSC JE Tier 1 Admit Card 2026</li><li>UPSSSC PET Admit Card 2026</li><li>UPSSSC Stenographer Skill Test Result 2026</li></ul>\n        </div>\n\n        <div style=\"background:#f8fafc; border:1px solid #cbd5e1; padding:12px; border-radius:8px;\">\n            <h5 style=\"margin:0 0 8px; color:#0f766e; font-size:13.5px;\">📝 Exam Pattern & Syllabus</h5>\n            <ul style=\"margin:0; padding-left:18px; font-size:12.8px; line-height:1.6;\"><li>Cutoff Marks</li><li>Written Marks</li><li>Syllabus</li><li>Educational marksheets.</li><li>AEES Teacher Syllabus 2026</li><li>Kolkata Police Constable Syllabus 2026</li><li>GSSSB Food Safety Officer Syllabus 2026</li><li>BEL Probationary Engineer Syllabus 2026</li></ul>\n        </div>\n    </div>\n\n    <div style=\"background:#eef2ff; border-left:4px solid #4f46e5; padding:14px; border-radius:8px; margin-bottom:16px;\">\n        <h4 style=\"margin:0 0 8px; color:#312e81; font-size:14px;\">🎯 90-DAY MASTER PREPARATION STRATEGY</h4>\n        <ul style=\"margin:0; padding-left:18px; font-size:13px; color:#1e293b; line-height:1.65;\">\n            <li><strong>Month 1 (Days 1–30 | Foundation & Core Syllabus):</strong> आधिकारिक सिलेबस (Official Syllabus) को डिकोड करें, Core Domain Subjects और State/General Studies के फाउंडेशन नोट्स तैयार करें और बुनियादी अवधारणाओं को मज़बूत करें।</li>\n            <li><strong>Month 2 (Days 31–60 | Speed, PYQs & Sectional Mastery):</strong> Previous Year Question Papers (PYQs) के ट्रेंड को समझें, हाई-वेटेज टॉपिक्स पर विशेष पकड़ बनाएं और हर सप्ताह 3 विषयवार टेस्ट (Topic-wise Tests) देकर समय प्रबंधन सुधारें।</li>\n            <li><strong>Month 3 (Days 61–90 | Full-Length Mocks & High-Yield Revision):</strong> अंतिम 30 दिनों में कोई नई किताब न छूएं—केवल अपने शॉर्ट नोट्स का रिविज़न करें, रोज़ाना 1 Full Mock Test दें और परीक्षा हॉल के टेम्परामेंट व एक्यूरेसी पर फोकस करें।</li>\n        </ul>\n    </div>\n\n    <div style=\"background:#f8fafc; border:2px solid #094053; padding:12px; border-radius:8px;\">\n        <h5 style=\"margin:0 0 8px; color:#094053; font-size:13.5px;\">🔗 Important Direct Links & PDF Files</h5>\n        <table style=\"width:100%; border-collapse:collapse; font-size:12.8px; background:#ffffff;\">\n            <tbody><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Official Job Portal jobsksrlps.karnataka.gov.in</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Manager - Farm Livelihoods (7 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/M7_H7wp4xyViCVKVyhKmfQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Nanjangud (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/qlDIooe4L9CvucD8eo8QvQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>District Manager - Farm Livelihood (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/7njYJe6ydlN9b3iw8ixDqQ' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>District Manager - Institutional & Capacity Building (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/-2cMBKPwfPgIFAC2PX9-Ww' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Office Assistant (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CqTm-fhKRh0HZimYgKujAg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Taluk Program Manager (4 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/QStj_vvKlmNMSwJncal4mA' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Cluster Supervisor - Skill (5 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/vB91Mn2n_ANIR35XWKeU7Q' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>DEO/MIS Coordinator (2 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/d8fVEdnduaxG6Q1YDNHZZw' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Mysuru Taluk (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/t2Kr7XQQGznT-VKGSuO1IA' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Heggadadevana Kote (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/CZpfmJkGfdDcXaqirf_UUg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Technical Coordinator - Piriyapatna (1 Post) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/4Vu2lV_H704us8m43iWX4w' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr><tr><td style='padding:8px 10px; border:1px solid #cbd5e1; font-weight:800; color:#094053;'>Block Manager - Non-Farm Livelihood (7 Posts) Apply Online</td><td style='padding:8px 10px; border:1px solid #cbd5e1; text-align:center;'><a href='https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/Jajbm1yWiTRp3Fspl-E5Eg' target='_blank' rel='noopener' style='color:#1d4ed8; font-weight:900; text-decoration:underline;'>Click Here</a></td></tr></tbody>\n        </table>\n    </div>\n</div>",
+    "updated_at": "2026-10-30 15:05:34",
+    "updatedAt": "2026-10-30T15:05:34.996628",
+    "status": "published"
+  },
+  {
     "id": "ec86dbc193cc",
     "intent_signature": "7f067f1a43__INTENT_APPLY",
     "title": "India Post Staff Car Driver Offline Form 2026",
