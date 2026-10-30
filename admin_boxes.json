@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-10-30 18:34:18",
+  "updated_at": "2026-10-30 20:07:05",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 83,
-    "results": 8,
-    "admit_cards": 2,
+    "latest_jobs": 95,
+    "results": 24,
+    "admit_cards": 17,
     "answer_keys": 13,
     "syllabus": 1,
     "admissions": 1
   },
   "trending_top_6": [
+    {
+      "id": "dde6e78d15a8",
+      "title": "Railway RRB ALP CEN 01/2026 Admit Card",
+      "sub": "Admit Card",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "12061836307c",
       "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
@@ -47,21 +56,12 @@
       "active": true
     },
     {
-      "id": "3919c89162dd",
-      "title": "UPESSC TGT Online Form (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 115,
-      "active": true
-    },
-    {
-      "id": "b034e86b56ae",
-      "title": "Odisha Police 7,268 Constable Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
-      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
-      "rushScore": 114,
+      "id": "71a64356ba10",
+      "title": "Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025",
+      "sub": "Result",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Indian Railway Railway Recruitment Board RRB Non Technical Popular Categories NTPC Under Graduate Level Recruitment CEN 07/2025. Those candidates who are Enrolled in This Vacancy Can Exam Answer Key. Read the notification for RRB NTPC 10+2 Level Commercial Cum Ticker Clerk, Train Clerk, Accounts Clerk Cum Typist, Junior Clerk Cum Typist Post 2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 118,
       "active": true
     }
   ],
