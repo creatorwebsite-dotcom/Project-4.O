@@ -1,12 +1,12 @@
 {
-  "updatedAt": "01 Nov 2026, 11:24 PM IST",
+  "updatedAt": "01 Nov 2026, 11:54 PM IST",
   "currentDateIso": "2026-11-01",
   "currentDateDisplay": "01 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
-      "updatedAt": "01 Nov 2026, 11:24 PM IST",
+      "updatedAt": "01 Nov 2026, 11:54 PM IST",
       "articleCount": 30
     },
     {
@@ -23,209 +23,192 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (01 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 01 Nov 2026, 11:24 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 01 Nov 2026, 11:54 PM IST",
   "totalArticles": 30,
   "articles": [
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
-      "link": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
-      "pubDate": "Sun, 01 Nov 2026 23:02:59 +0530",
+      "title": "GVMC polls: smooth polling experience for senior citizens, first-time voters",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/gvmc-polls-smooth-polling-experience-for-senior-citizens-first-time-voters/article71653537.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:47:05 +0530",
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/rkfj5q/article71653326.ece/alternates/LANDSCAPE_1200/BVR_1617.JPG",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/wjh7p7/article71654121.ece/alternates/LANDSCAPE_1200/VSP02_GVMC%20Elections%2024.JPG",
       "fullParagraphs": [
-        "The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
-        "It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning. Thereafter, it is very likely to move northwestwards and cross south Andhra Pradesh coast as a severe cyclonic storm with wind speeds of 100 to 120 kmph between Nellore and Narsapur between Monday midnight and the early hours of Tuesday (11.30 p.m. and 4 a.m.).",
-        "As a result of the storm, during the 24-hour period ending 8.30 a.m. on Monday (November 2), the Regional Meteorological Centre here has forecast heavy to very heavy rain at isolated places accompanied by thunderstorms and lightning likely over Tiruvallur district. At the same time, isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall accompanied by thunderstorms and lightning.",
-        "Isolated places in districts including Vellore, Tiruvannamalai, Villupuram, Kallakurichi, Cuddalore, Erode, Tirupur, Salem, Namakkal, Karur, Tiruchi, Madurai, Tirunelveli, Kanniyakumari districts and rest of the Western Ghat districts and Puducherry are likely to get moderate rainfall. Light rain is likely to occur at isolated places over the rest of the State and Karaikal.",
-        "For the 24-hour period from 8.30 a.m. on Monday, heavy to very heavy rain is likely at isolated places over Chennai and Tiruvallur districts. The rains could be accompanied by thunderstorms and lightning with gusty wind speed reaching 40-50 kmph at one or two places.",
-        "Chennai District Collector S. Malathi Helen announced that Monday will be a holiday for schools alone on account of heavy rains.",
-        "Heavy rain is likely at isolated places with thunderstorm and lightning over Chengalpattu, Kancheepuram, Ranipet, Vellore and Nilgiris districts. Light to Moderate rain has been forecast at a few places with thunderstorms and lightning over rest of north Tamil Nadu and Western Ghat districts and Puducherry and Karaikal area.",
-        "For Tuesday (November 3), heavy rain at isolated places with thunderstorms and lightning is likely to occur over Nilgiris district. Moderate rain is likely to occur over isolated places in north Tamil Nadu and Western Ghat districts, Puducherry and Karaikal area. Light to moderate rain is likely to occur at a few places over the rest of the State."
+        "Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.",
+        "Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.",
+        "Polling stations had drinking water, help desks, medicine counters, toilets, shamianas and ventilation, with ramps, handrails and chairs for senior citizens. Police personnel managed the crowds, and food was arranged for the staff.",
+        "At Yendada in Ward 11, around 300 voters turned up in the first hour after polling began at 7 a.m., said Booth Level Officers (BLOs) S. Srinivas and N. Nageswarao.",
+        "They added that residents of long-settled localities turned out in larger numbers than those living in apartment complexes. A similar pattern was seen later at other stations in the city. At Ward 3 in Bheemunipatnam, N. Narendra, BLO, said voting went on without hiccups, while Auxiliary Nurse Midwife N.V. Padma and ASHA worker G. Konda said they had all essential medicines, including oral rehydration salts (ORS) sachets, paracetamol and a blood pressure monitor.",
+        "First time voter show her inked finger after casting her vote at the at a polling booth in KDPM High School in the East Assembly Constituency in Visakhapatnam on Sunday | Photo Credit: V RAJU",
+        "Elisha Paul K, 21, a first-time voter pursuing an MBA at Andhra University, voted in Ward 31, Maharanipeta. He had expected a rush and lengthy queues, he said, but the process took less than 15 minutes, and the staff explained how a ballot is cast.",
+        "Patnala Papayyamma, 86, who makes it a point to vote in every election despite the hardship of travelling, her family said, voted in Ward 4 at the office of the Superintendent of Central Tax, Bheemunipatnam. Her family helped her onto a scooter allowed near the station.",
+        "First time voter shows her inked finger at a polling booth in Peda Jalaripeta, in the East Assembly Constituency on Sunday. | Photo Credit: V RAJU",
+        "At Chepala Thimmapuram in Ward 5, one of the exceptions, voting took time, with long queues continuing past noon. Jaya Kumar, 66, a senior citizen with ailments, found the ramp occupied by voters in the queue and a wheelchair lying unused beside the wall. The staff on duty told him to walk around the building and use the stairs at the other end.",
+        "District Collector M. Abhishikth Kishore asked officials to ensure voters faced no inconvenience and to report the polling trend every two hours, while GVMC Commissioner Ketan Garg, noticing long queues at several stations, directed that ballot paper distribution be speeded up. Election Observer A. Bhargav Tej and Election Expenditure Observer P.V. Sandeep Reddy toured all 10 zones between them, and Mr. Sandeep Reddy expressed satisfaction over the smooth and peaceful polling."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam. It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Light to moderate rain is likely to occur at a few places over the rest of the State.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sandeep Reddy expressed satisfaction over the smooth and peaceful polling.",
       "vocabList": [
-        "Cyclonic",
-        "Southwest",
-        "Adjoining",
-        "Westcentral",
-        "Northwestwards",
-        "Southeast"
+        "Arrangements",
+        "Visakhapatnam",
+        "Municipal",
+        "Corporation",
+        "Citizens",
+        "Disabilities"
       ],
-      "summary": "The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
-      "keyPoints": "• The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.<br>• It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning. Thereafter, it is very likely to move northwestwards and cross south Andhra Pradesh coast as a severe cyclonic storm with wind speeds of 100 to 120 kmph between Nellore and Narsapur between Monday midnight and the early hours of Tuesday (11.30 p.m. and 4 a.m.).<br>• As a result of the storm, during the 24-hour period ending 8.30 a.m. on Monday (November 2), the Regional Meteorological Centre here has forecast heavy to very heavy rain at isolated places accompanied by thunderstorms and lightning likely over Tiruvallur district. At the same time, isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall accompanied by thunderstorms and lightning."
+      "summary": "Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.",
+      "keyPoints": "• Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.<br>• Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.<br>• Polling stations had drinking water, help desks, medicine counters, toilets, shamianas and ventilation, with ramps, handrails and chairs for senior citizens. Police personnel managed the crowds, and food was arranged for the staff."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP",
-      "link": "https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece",
-      "pubDate": "Sun, 01 Nov 2026 22:58:48 +0530",
+      "title": "Aadhav Arjuna calls for a separate flag for Tamil Nadu",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/aadhav-arjuna-calls-for-a-separate-flag-for-tamil-nadu/article71654104.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:44:46 +0530",
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/69ig4a/article71654066.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-01%20at%2022.53.11.jpeg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/yngiw0/article71654105.ece/alternates/LANDSCAPE_1200/DSC_8867.JPG",
       "fullParagraphs": [
-        "Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.",
-        "A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts. However, after a controversy erupted, both MLCs denied joining the party, claiming they had merely offered to back the BJP.",
-        "Mr. Jha said that under India’s Anti-Defection Law (Tenth Schedule of the Constitution), an independent Member of the Legislative Council (MLC) or Member of the Legislative Assembly (MLA) cannot join any political party after being elected.",
-        "Addressing the press at the state RJD headquarters Mr. Jha, Rajya Sabha MP and national chief spokesperson of the party, demanded that the acting Chairman of the Legislative Council, Ram Bachan Rai, disqualify the newly elected MLCs.",
-        "Presenting videos and photographs of both MLCs allegedly joining the BJP, Mr. Jha said that they have violated the anti-defection law and their memberships should be terminated.",
-        "“We will approach the Acting Chairman and demand the disqualification of these two Legislative Council members,”Mr. Jha said.",
-        "He said if no decision is taken regarding their disqualification, the controversy will snowball out of control.",
-        "Citing Paragraph 2(2) of the Tenth Schedule of the Indian Constitution, Mr. Jha explained that if an individual is elected as an independent candidate without being fielded by any political party and subsequently joins a political party, they shall be deemed disqualified from membership of the House.",
-        "Mr. Jha described the situation not merely as “theft of votes”, but as a “robbery of the public mandate”.",
-        "Targeting Chief Minister Samrat Choudhary, Prime Minister Narendra Modi, and Union Home Minister Amit Shah, the RJD leader said that this serves as a test for all of them. He added if such activities are shielded or encouraged, the entire matter would be exposed before the public.",
-        "He suggested that this sequence of events should also be viewed in the context of the political power balance between the BJP and the Janata Dal (United), alleging that the BJP is attempting to expand its own political influence in Bihar while simultaneously weakening its alliance partner, the JD(U). He pointed out that in the constituencies where the independents won, the JD(U) candidates lost.",
-        "Banshidhar Brajwasi defeated the JD(U) candidate Abhishek Jha from Tirhut Graduate seat by a margin of over 9,000 votes while Rahul Raj defeated JD(U) candidate Anand Pushkar from Saran Teachers seat by a margin of 1,800 votes."
+        "Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.",
+        "Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.",
+        "“It should be hoisted at every house. We are in a position to create a flag with a status equal to that of the national flag to proclaim the greatness of Tamils and the Tamil language,” he said.",
+        "The Minister said a message about the importance of the Tamil language should reach children in the State, as schools were promoting the idea that only English could provide employment opportunities. “We should change this perception. We should also change the attitude of taking pride in speaking English. In China, people speak Chinese, and in France, they speak French. They are not giving up their mother tongue,” he said.",
+        "Reiterating the advocacy of the two-language policy, Mr. Arjuna said English was a language of business and was necessary for commerce and trade. “A child born in Tamil Nadu should learn Tamil. Children of MLAs and Ministers should study in the Tamil medium, and the children of all IAS and IPS officers should also opt for the Tamil medium,” he added."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He sought the urgent intervention of the Bihar Legislative Council chairman in the matter. A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Banshidhar Brajwasi defeated the JD(U) candidate Abhishek Jha from Tirhut Graduate seat by a margin of over 9,000 votes while Rahul Raj defeated JD(U) candidate Anand Pushkar from Saran Teachers seat by a margin of 1,800 votes.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Children of MLAs and Ministers should study in the Tamil medium, and the children of all IAS and IPS officers should also opt for the Tamil medium,” he added.",
       "vocabList": [
-        "Opposition",
-        "Rashtriya",
-        "Independent",
-        "Banshidhar",
-        "Brajwasi",
+        "November",
+        "Language",
+        "Prominence",
+        "Addressing",
+        "Organised",
+        "Scholars"
+      ],
+      "summary": "Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.",
+      "keyPoints": "• Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.<br>• Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.<br>• “It should be hoisted at every house. We are in a position to create a flag with a status equal to that of the national flag to proclaim the greatness of Tamils and the Tamil language,” he said."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-declares-november-2-holiday-for-schools-colleges-over-cyclone-murasu/article71654088.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:40:01 +0530",
+      "dateIso": "2026-11-01",
+      "dateDisplay": "01 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "fullParagraphs": [
+        "Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.",
+        "The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu.",
+        "A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures. The control room will function round-the-clock. Staff have been deployed to provide necessary information to the public and coordinate relief operations.",
+        "People can contact the control room for emergency assistance or information on the number 08647 252999",
+        "In view of the cyclone warnings, the District Collector urged people to remain alert and avoid going outdoors unless absolutely necessary."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu. A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> People can contact the control room for emergency assistance or information on the number 08647 252999 In view of the cyclone warnings, the District Collector urged people to remain alert and avoid going outdoors unless absolutely necessary.",
+      "vocabList": [
+        "District",
+        "Collector",
+        "Announced",
+        "Colleges",
+        "Anganwadi",
         "November"
       ],
-      "summary": "Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.",
-      "keyPoints": "• Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.<br>• A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts. However, after a controversy erupted, both MLCs denied joining the party, claiming they had merely offered to back the BJP.<br>• Mr. Jha said that under India’s Anti-Defection Law (Tenth Schedule of the Constitution), an independent Member of the Legislative Council (MLC) or Member of the Legislative Assembly (MLA) cannot join any political party after being elected."
+      "summary": "Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.",
+      "keyPoints": "• Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.<br>• The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu.<br>• A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures. The control room will function round-the-clock. Staff have been deployed to provide necessary information to the public and coordinate relief operations."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’",
-      "link": "https://www.thehindu.com/news/national/foolish-drama-will-be-final-nail-in-coffin-of-congress-political-future-nadda/article71652408.ece",
-      "pubDate": "Sun, 01 Nov 2026 22:58:18 +0530",
+      "title": "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:37:07 +0530",
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/visual-story/yk2z2u/article71652793.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-01%20at%202.08.16%20PM.jpeg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ctdvew/article71653329.ece/alternates/LANDSCAPE_1200/vjkvg-election%2029.JPG",
       "fullParagraphs": [
-        "Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.",
-        "The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. Nadda claimed.",
-        "“Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr. Nadda told media persons.",
-        "“The day of November 1 is the ugliest and darkest blot on India’s democratic history. On this very day, goons patronised by the Congress massacred our innocent Sikh brothers. Thousands and lakhs of Sikh families became homeless overnight,” he said, in an apparent reference to the 1984 anti-Sikh riots following the assassination of then Prime Minister Indira Gandhi.",
-        "“This is a foolish and designed drama of people who have been defeated and repeatedly rejected by the public. The public understands this very well,” he said.",
-        "The Opposition alliance is holding the ‘Chalo Dilli’ protest in the national capital as part of its campaign against alleged electoral irregularities, and demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
-        "The Congress and Mr. Gandhi “cannot hide the dark history of November 1. You cannot escape answering for the tears of Delhi’s traders”, the former Bharatiya Janata Party (BJP) president said.",
-        "Thousands of people had been killed in the 1984 anti-Sikh riots, but the Gandhi family had not apologised to the Sikh community to this day for “their great sin”, Mr. Nadda said.",
-        "“And look at Congress’s insensitivity and Rahul Gandhi’s petty mindset. On this dark day today, when the country should have remembered those martyrs and victims, Rahul Gandhi is standing at Ramlila Maidan polishing his politics. Rahul Gandhi has rubbed salt into the wounds of the Sikhs,” Mr. Nadda alleged.",
-        "The Congress leader’s “model of politics” involved “lying and spreading rumours” in its first stage, creating anarchy and unrest as the second, harming the economy in the third, and destabilising the elected government of the country at the behest of foreign powers as the fourth stage, Mr. Nadda claimed.",
-        "“It is the festive season. It is Dhanteras, Diwali, Chhath Puja. Throughout the year, our small traders, street vendors, shopkeepers wait for it for some earnings during these festivals. But Rahul Gandhi does not care about the stoves burning in traders’ homes. He only wants to ignite the fire of his politics,” he added.",
-        "“Due to previous protests, Delhi’s traders have already suffered a loss of nearly ₹3,000 crore. And due to today’s political spectacle, according to an estimate, our shopkeepers are likely to suffer a hit of more than ₹10,000 crore. Rahul Gandhi’s stubbornness has completely shut down their business today,” Mr. Nadda said."
+        "Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.",
+        "The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.",
+        "YSR Congress Party (YSRCP) president and former Chief Minister Y.S. Jagan Mohan Reddy and Kadapa MP Y.S. Avinash Reddy staged a protest in Pulivendula over alleged electoral malpractices and the prevention of YSRCP agents from entering several polling stations.",
+        "The SEC extended polling by two-and-a-half hours, until 7.30 p.m., in Ward No. 55 of the Vijayawada Municipal Corporation to rectify an error in the printing of election symbols allotted to two candidates.",
+        "In Pulivendula, Mr. Jagan demanded a repoll across the municipality, alleging that election authorities had turned a blind eye to violations that undermined the electoral process. He left without casting his vote.",
+        "Independent candidate A.B. Venkateswara Rao stages a protest at Polling Station No. 73 in New RR Peta, Vijayawada, on Sunday, demanding a repoll at the booth. | Photo Credit: G.N. Rao",
+        "Reacting to Mr. Jagan’s demand at a press conference in Vijayawada, State Election Commissioner Anil Chandra Punetha said he had sought a report from the District Collector. A decision on repolling would be taken based on formal requests from the Collector or the Superintendent of Police, supported by evidence, he said.",
+        "Meanwhile, mild tension prevailed when Mr. Jagan was on his way to the Returning Officer’s office in Pulivendula, as Sk. Dastagiri, an accused in the murder of former MP Y.S. Vivekananda Reddy, reportedly confronted the YSRCP chief over issues he had faced.",
+        "Sporadic incidents were also reported from some other places in the Rayalaseema and Palnadu regions. The respective District Collectors and District Election Authorities were inquiring into them.",
+        "State Election Commissioner Anil Chandra Punetha visiting a polling station in DAV Public School at Ibrahimpatnam near Vijayawada on Sunday.",
+        "Mr. Punetha told the media that he had spoken to the Collectors of Nandyal, Kadapa, Palnadu, Markapuram, Nellore, Prakasam, Tirupati, Chittoor, Anantapur, Kurnool, Annamayya and Sri Sathya Sai districts in the evening. Polling was by and large peaceful, he said.",
+        "He added that the incidents reported from Palnadu and Anantapur districts and Pulivendula were being investigated. A decision on whether repolling was necessary would be taken after examining field reports, as the Commission’s orders had to withstand judicial scrutiny."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. “Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Gandhi’s stubbornness has completely shut down their business today,” Mr.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula. The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A decision on whether repolling was necessary would be taken after examining field reports, as the Commission’s orders had to withstand judicial scrutiny.",
       "vocabList": [
-        "November",
-        "Opposition",
-        "Resignation",
-        "Election",
-        "Commissioner",
-        "Anniversary"
+        "Elections",
+        "Municipal",
+        "Corporations",
+        "Municipalities",
+        "Panchayats",
+        "Problems"
       ],
-      "summary": "Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.",
-      "keyPoints": "• Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.<br>• The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. Nadda claimed.<br>• “Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr. Nadda told media persons."
+      "summary": "Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.",
+      "keyPoints": "• Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.<br>• The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.<br>• YSR Congress Party (YSRCP) president and former Chief Minister Y.S. Jagan Mohan Reddy and Kadapa MP Y.S. Avinash Reddy staged a protest in Pulivendula over alleged electoral malpractices and the prevention of YSRCP agents from entering several polling stations."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls",
-      "link": "https://www.thehindu.com/news/national/punjab/punjab-polls-two-aap-mlas-quit-party-after-first-candidate-list-announcement/article71652607.ece",
-      "pubDate": "Sun, 01 Nov 2026 22:56:21 +0530",
+      "title": "NLCIL, CISF hold fire safety awareness programme ahead of Deepavali",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/nlcil-cisf-hold-fire-safety-awareness-programme-ahead-of-deepavali/article71652603.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:37:03 +0530",
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/1prbb2/article71652634.ece/alternates/LANDSCAPE_1200/iStock-1287044295%201.jpg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/1joolk/article71653230.ece/alternates/LANDSCAPE_1200/2786_1_11_2026_17_56_17_1_IMG_20261101_WA0018.JPEG",
       "fullParagraphs": [
-        "Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.",
-        "Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls.",
-        "At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled.",
-        "“In Punjab, people are continuously losing their lives to drug menace,” said Mr. Jouramajra, who was a Cabinet Minister and held portfolios including Health, among others.",
-        "Mr. Pathanmajra, meanwhile, is facing rape charges and a police case is registered against him in Punjab. He was granted regular bail by the Punjab and Haryana High Court.",
-        "Meanwhile, the AAP hit out at the Bharatiya Janata Party (BJP) over its attempts to induct leaders who have left or been expelled by other parties. AAP’s Punjab Chief Spokesperson and MLA Kuldeep Singh Dhaliwal said that while the AAP had consistently put Punjab’s interests first and taken action against its own ministers and MLAs over corruption, the BJP was attempting to bring in leaders facing serious allegations.",
-        "“The BJP in Punjab is no longer a political party but has become a scrap shop and has no support base in Punjab. They are collecting rejected leaders and discarded material from other parties, whether they are Congress leaders, or those surviving on the mercy of the Shiromani Akali Dal, or tainted faces expelled from the AAP,” he alleged."
+        "NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.",
+        "CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.",
+        "Shopkeepers received hands-on training in operating fire extinguishers and basic firefighting techniques through live demonstrations. The programme aimed to improve preparedness and prevent fire accidents during the festive season.",
+        "B. Vaidyanathan, chief general manager, Township Administration, NLCIL and CISF officials were present."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls. At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> They are collecting rejected leaders and discarded material from other parties, whether they are Congress leaders, or those surviving on the mercy of the Shiromani Akali Dal, or tainted faces expelled from the AAP,” he alleged.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaidyanathan, chief general manager, Township Administration, NLCIL and CISF officials were present.",
       "vocabList": [
-        "Assembly",
-        "Election",
-        "Legislators",
-        "November",
-        "Resigned",
-        "Membership"
+        "Industrial",
+        "Security",
+        "Conducted",
+        "Prevention",
+        "Awareness",
+        "Programme"
       ],
-      "summary": "Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.",
-      "keyPoints": "• Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.<br>• Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls.<br>• At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled."
+      "summary": "NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.",
+      "keyPoints": "• NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.<br>• CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.<br>• Shopkeepers received hands-on training in operating fire extinguishers and basic firefighting techniques through live demonstrations. The programme aimed to improve preparedness and prevent fire accidents during the festive season."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Four workers die of suffocation in Ujjain hotel waste chamber; CM announces aid",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/several-dead-of-suspected-suffocation-while-cleaning-waste-chamber-in-madhya-pradesh-ujjain-hotel/article71652480.ece",
-      "pubDate": "Sun, 01 Nov 2026 22:47:31 +0530",
+      "title": "BJP leader questions Vijay’s silence over Mekedatu dam issue",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-leader-questions-vijays-silence-over-mekedatu-dam-issue/article71652851.ece",
+      "pubDate": "Sun, 01 Nov 2026 23:34:40 +0530",
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/9y1x1f/article71652483.ece/alternates/LANDSCAPE_1200/PTI11_01_2026_000083B.jpg",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
       "fullParagraphs": [
-        "Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.",
-        "According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed. Two other workers then entered the chamber in an attempt to rescue them, resulting in the death of all four.",
-        "Ujjain Superintendent of Police Pradeep Sharma told The Hindu that all four workers had entered the tank without the required protective gear, adding that three had been hired externally for the cleaning work while one was a hotel staff. He said the bodies have been sent for post-mortem examinations and that an FIR will be registered based on the findings.",
-        "The incident is suspected to have been caused by slippery sludge in the chamber and a gas leak, though investigations are ongoing and the hotel management and staff are being questioned. Mr. Sharma added that the bodies were recovered after police personnel and hotel staff broke open the chamber, during which some people, including police officers, sustained minor injuries.",
-        "“There was an iron grill on the chamber so some people suffered injuries during the rescue efforts. Police also tried to revive them through CPR but we could not succeed,” he said.",
-        "The deceased have been identified as Wahid Khan, 29, Nitin Binarwan, 28, Kamlesh Tamboli, 30, all local residents, and the hotel supervisor Manoj Meena, 25, a resident of Rajasthan’s Jhalawar.",
-        "Ujjain Collector Roshan Kumar Singh told The Hindu that the Ujjain Police and the Ujjain Municipal Corporation are probing the case. Meanwhile, an Ujjain Municipal Corporation health department official said that the hotel had not gotten a mandatory receipt from the civic body for the cleaning.",
-        "Chief Minister Mohan Yadav condoled the deaths and announced financial assistance of ₹4 lakh to each to family of the deceased. “News of the tragic death of four people in an accident while cleaning a chamber at a private hotel in Ujjain is deeply painful. My condolences to the bereaved families. I have directed the state government to provide financial assistance of Rs4 lakh each to the families of the deceased,” he said on X."
+        "BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.",
+        "Referring to a statement by Karnataka Chief Minister D.K. Shivakumar that efforts were being made to acquire land for the construction of the Mekedatu dam, Mr. Nagenthran criticised both the Karnataka government’s actions and the Vijay-led TVK government’s silence on the issue.",
+        "“Karnataka is being ruled by the Congress, which is an ally of the TVK. Despite the Cauvery Water Management Authority’s directive, it [Karnataka] has not released water to Tamil Nadu... it intends to destroy the livelihood of the farmers of Tamil Nadu. Why is Mr. Vijay not opposing the Congress in Karnataka?” he asked."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I have directed the state government to provide financial assistance of Rs4 lakh each to the families of the deceased,” he said on X.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu. Referring to a statement by Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vijay not opposing the Congress in Karnataka?” he asked.",
       "vocabList": [
-        "Entering",
-        "Cleaning",
-        "Officials",
-        "Suspecting",
-        "Suffocation",
-        "Poisonous"
+        "President",
+        "Nagenthran",
+        "Questioned",
+        "Karnataka",
+        "Construct",
+        "Mekedatu"
       ],
-      "summary": "Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.",
-      "keyPoints": "• Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.<br>• According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed. Two other workers then entered the chamber in an attempt to rescue them, resulting in the death of all four.<br>• Ujjain Superintendent of Police Pradeep Sharma told The Hindu that all four workers had entered the tank without the required protective gear, adding that three had been hired externally for the cleaning work while one was a hotel staff. He said the bodies have been sent for post-mortem examinations and that an FIR will be registered based on the findings."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s passport",
-      "link": "https://www.thehindu.com/news/cities/chennai/gem-veeramani-case-greater-chennai-police-seek-cancellation-of-prakash-kanniahs-passport/article71653502.ece",
-      "pubDate": "Sun, 01 Nov 2026 22:44:01 +0530",
-      "dateIso": "2026-11-01",
-      "dateDisplay": "01 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/nn0nlf/article71654021.ece/alternates/LANDSCAPE_1200/DSC_5802.JPG",
-      "fullParagraphs": [
-        "The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.",
-        "According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.",
-        "“We have written to the Regional Passport Officer, Ministry of External Affairs requesting him to revoke Prakash Kanniah’s passport. Once the passport is cancelled he will not be able to travel or check in at hotels abroad. We have initiated the process of bringing him back,” a senior police officer said.",
-        "Investigators were taking steps to get an arrest warrant issued against Prakash Kanniah which was required to issue a Red Corner Notice.",
-        "“Once the passport is revoked and Red Corner Notice issued, the accused would be detained by the immigration authorities and handed over to the nearest Indian mission for further action,” the officer said.",
-        "After allegations of Mr. Prakash Kanniah’s involvement in the cases surfaced , police conducted searches at his office and residential premises. His bank accounts which had a balance of about ₹40 crore were frozen, the sources said.",
-        "The Special Investigation Team (SIT) constituted to probe the POCSO Act cases involving the businessman and others conducted an Identification Parade at the Puzhal central prison for one of the victims to identify the accused persons.",
-        "Veeramani is facing seven cases under the POCSO Act and one case of abetment to suicide of a minor in 2004. The businessman, his associate Shanti and her husband Mahendra Simhan, and five others have already been arrested and lodged in Puzhal Central Prison.",
-        "The police recently issued a Look Out Circular (LOC) against Veeramani’s daughter Archana Veeramani and 4 others, restraining them from travelling abroad.",
-        "(Assistance for overcoming suicidal thoughts is available on the State’s health helpline 104, Tele-MANAS 14416. and Sneha’s suicide prevention helpline 044-24640050)"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> and Sneha’s suicide prevention helpline 044-24640050)",
-      "vocabList": [
-        "Ministry",
-        "External",
-        "Passport",
-        "Connection",
-        "Granites",
-        "Veeramani"
-      ],
-      "summary": "The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.",
-      "keyPoints": "• The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.<br>• According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.<br>• “We have written to the Regional Passport Officer, Ministry of External Affairs requesting him to revoke Prakash Kanniah’s passport. Once the passport is cancelled he will not be able to travel or check in at hotels abroad. We have initiated the process of bringing him back,” a senior police officer said."
+      "summary": "BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.",
+      "keyPoints": "• BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.<br>• Referring to a statement by Karnataka Chief Minister D.K. Shivakumar that efforts were being made to acquire land for the construction of the Mekedatu dam, Mr. Nagenthran criticised both the Karnataka government’s actions and the Vijay-led TVK government’s silence on the issue.<br>• “Karnataka is being ruled by the Congress, which is an ally of the TVK. Despite the Cauvery Water Management Authority’s directive, it [Karnataka] has not released water to Tamil Nadu... it intends to destroy the livelihood of the farmers of Tamil Nadu. Why is Mr. Vijay not opposing the Congress in Karnataka?” he asked."
     },
     {
       "category": "economy",
@@ -963,208 +946,191 @@
     "2026-11-01": {
       "dateIso": "2026-11-01",
       "dateDisplay": "01 Nov 2026",
-      "updatedAt": "01 Nov 2026, 11:24 PM IST",
+      "updatedAt": "01 Nov 2026, 11:54 PM IST",
       "articles": [
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
-          "link": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
-          "pubDate": "Sun, 01 Nov 2026 23:02:59 +0530",
+          "title": "GVMC polls: smooth polling experience for senior citizens, first-time voters",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/gvmc-polls-smooth-polling-experience-for-senior-citizens-first-time-voters/article71653537.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:47:05 +0530",
           "dateIso": "2026-11-01",
           "dateDisplay": "01 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/rkfj5q/article71653326.ece/alternates/LANDSCAPE_1200/BVR_1617.JPG",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/wjh7p7/article71654121.ece/alternates/LANDSCAPE_1200/VSP02_GVMC%20Elections%2024.JPG",
           "fullParagraphs": [
-            "The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
-            "It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning. Thereafter, it is very likely to move northwestwards and cross south Andhra Pradesh coast as a severe cyclonic storm with wind speeds of 100 to 120 kmph between Nellore and Narsapur between Monday midnight and the early hours of Tuesday (11.30 p.m. and 4 a.m.).",
-            "As a result of the storm, during the 24-hour period ending 8.30 a.m. on Monday (November 2), the Regional Meteorological Centre here has forecast heavy to very heavy rain at isolated places accompanied by thunderstorms and lightning likely over Tiruvallur district. At the same time, isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall accompanied by thunderstorms and lightning.",
-            "Isolated places in districts including Vellore, Tiruvannamalai, Villupuram, Kallakurichi, Cuddalore, Erode, Tirupur, Salem, Namakkal, Karur, Tiruchi, Madurai, Tirunelveli, Kanniyakumari districts and rest of the Western Ghat districts and Puducherry are likely to get moderate rainfall. Light rain is likely to occur at isolated places over the rest of the State and Karaikal.",
-            "For the 24-hour period from 8.30 a.m. on Monday, heavy to very heavy rain is likely at isolated places over Chennai and Tiruvallur districts. The rains could be accompanied by thunderstorms and lightning with gusty wind speed reaching 40-50 kmph at one or two places.",
-            "Chennai District Collector S. Malathi Helen announced that Monday will be a holiday for schools alone on account of heavy rains.",
-            "Heavy rain is likely at isolated places with thunderstorm and lightning over Chengalpattu, Kancheepuram, Ranipet, Vellore and Nilgiris districts. Light to Moderate rain has been forecast at a few places with thunderstorms and lightning over rest of north Tamil Nadu and Western Ghat districts and Puducherry and Karaikal area.",
-            "For Tuesday (November 3), heavy rain at isolated places with thunderstorms and lightning is likely to occur over Nilgiris district. Moderate rain is likely to occur over isolated places in north Tamil Nadu and Western Ghat districts, Puducherry and Karaikal area. Light to moderate rain is likely to occur at a few places over the rest of the State."
+            "Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.",
+            "Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.",
+            "Polling stations had drinking water, help desks, medicine counters, toilets, shamianas and ventilation, with ramps, handrails and chairs for senior citizens. Police personnel managed the crowds, and food was arranged for the staff.",
+            "At Yendada in Ward 11, around 300 voters turned up in the first hour after polling began at 7 a.m., said Booth Level Officers (BLOs) S. Srinivas and N. Nageswarao.",
+            "They added that residents of long-settled localities turned out in larger numbers than those living in apartment complexes. A similar pattern was seen later at other stations in the city. At Ward 3 in Bheemunipatnam, N. Narendra, BLO, said voting went on without hiccups, while Auxiliary Nurse Midwife N.V. Padma and ASHA worker G. Konda said they had all essential medicines, including oral rehydration salts (ORS) sachets, paracetamol and a blood pressure monitor.",
+            "First time voter show her inked finger after casting her vote at the at a polling booth in KDPM High School in the East Assembly Constituency in Visakhapatnam on Sunday | Photo Credit: V RAJU",
+            "Elisha Paul K, 21, a first-time voter pursuing an MBA at Andhra University, voted in Ward 31, Maharanipeta. He had expected a rush and lengthy queues, he said, but the process took less than 15 minutes, and the staff explained how a ballot is cast.",
+            "Patnala Papayyamma, 86, who makes it a point to vote in every election despite the hardship of travelling, her family said, voted in Ward 4 at the office of the Superintendent of Central Tax, Bheemunipatnam. Her family helped her onto a scooter allowed near the station.",
+            "First time voter shows her inked finger at a polling booth in Peda Jalaripeta, in the East Assembly Constituency on Sunday. | Photo Credit: V RAJU",
+            "At Chepala Thimmapuram in Ward 5, one of the exceptions, voting took time, with long queues continuing past noon. Jaya Kumar, 66, a senior citizen with ailments, found the ramp occupied by voters in the queue and a wheelchair lying unused beside the wall. The staff on duty told him to walk around the building and use the stairs at the other end.",
+            "District Collector M. Abhishikth Kishore asked officials to ensure voters faced no inconvenience and to report the polling trend every two hours, while GVMC Commissioner Ketan Garg, noticing long queues at several stations, directed that ballot paper distribution be speeded up. Election Observer A. Bhargav Tej and Election Expenditure Observer P.V. Sandeep Reddy toured all 10 zones between them, and Mr. Sandeep Reddy expressed satisfaction over the smooth and peaceful polling."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam. It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Light to moderate rain is likely to occur at a few places over the rest of the State.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sandeep Reddy expressed satisfaction over the smooth and peaceful polling.",
           "vocabList": [
-            "Cyclonic",
-            "Southwest",
-            "Adjoining",
-            "Westcentral",
-            "Northwestwards",
-            "Southeast"
+            "Arrangements",
+            "Visakhapatnam",
+            "Municipal",
+            "Corporation",
+            "Citizens",
+            "Disabilities"
           ],
-          "summary": "The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
-          "keyPoints": "• The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m. on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.<br>• It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning. Thereafter, it is very likely to move northwestwards and cross south Andhra Pradesh coast as a severe cyclonic storm with wind speeds of 100 to 120 kmph between Nellore and Narsapur between Monday midnight and the early hours of Tuesday (11.30 p.m. and 4 a.m.).<br>• As a result of the storm, during the 24-hour period ending 8.30 a.m. on Monday (November 2), the Regional Meteorological Centre here has forecast heavy to very heavy rain at isolated places accompanied by thunderstorms and lightning likely over Tiruvallur district. At the same time, isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall accompanied by thunderstorms and lightning."
+          "summary": "Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.",
+          "keyPoints": "• Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.<br>• Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.<br>• Polling stations had drinking water, help desks, medicine counters, toilets, shamianas and ventilation, with ramps, handrails and chairs for senior citizens. Police personnel managed the crowds, and food was arranged for the staff."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP",
-          "link": "https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece",
-          "pubDate": "Sun, 01 Nov 2026 22:58:48 +0530",
+          "title": "Aadhav Arjuna calls for a separate flag for Tamil Nadu",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/aadhav-arjuna-calls-for-a-separate-flag-for-tamil-nadu/article71654104.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:44:46 +0530",
           "dateIso": "2026-11-01",
           "dateDisplay": "01 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/69ig4a/article71654066.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-01%20at%2022.53.11.jpeg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/yngiw0/article71654105.ece/alternates/LANDSCAPE_1200/DSC_8867.JPG",
           "fullParagraphs": [
-            "Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.",
-            "A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts. However, after a controversy erupted, both MLCs denied joining the party, claiming they had merely offered to back the BJP.",
-            "Mr. Jha said that under India’s Anti-Defection Law (Tenth Schedule of the Constitution), an independent Member of the Legislative Council (MLC) or Member of the Legislative Assembly (MLA) cannot join any political party after being elected.",
-            "Addressing the press at the state RJD headquarters Mr. Jha, Rajya Sabha MP and national chief spokesperson of the party, demanded that the acting Chairman of the Legislative Council, Ram Bachan Rai, disqualify the newly elected MLCs.",
-            "Presenting videos and photographs of both MLCs allegedly joining the BJP, Mr. Jha said that they have violated the anti-defection law and their memberships should be terminated.",
-            "“We will approach the Acting Chairman and demand the disqualification of these two Legislative Council members,”Mr. Jha said.",
-            "He said if no decision is taken regarding their disqualification, the controversy will snowball out of control.",
-            "Citing Paragraph 2(2) of the Tenth Schedule of the Indian Constitution, Mr. Jha explained that if an individual is elected as an independent candidate without being fielded by any political party and subsequently joins a political party, they shall be deemed disqualified from membership of the House.",
-            "Mr. Jha described the situation not merely as “theft of votes”, but as a “robbery of the public mandate”.",
-            "Targeting Chief Minister Samrat Choudhary, Prime Minister Narendra Modi, and Union Home Minister Amit Shah, the RJD leader said that this serves as a test for all of them. He added if such activities are shielded or encouraged, the entire matter would be exposed before the public.",
-            "He suggested that this sequence of events should also be viewed in the context of the political power balance between the BJP and the Janata Dal (United), alleging that the BJP is attempting to expand its own political influence in Bihar while simultaneously weakening its alliance partner, the JD(U). He pointed out that in the constituencies where the independents won, the JD(U) candidates lost.",
-            "Banshidhar Brajwasi defeated the JD(U) candidate Abhishek Jha from Tirhut Graduate seat by a margin of over 9,000 votes while Rahul Raj defeated JD(U) candidate Anand Pushkar from Saran Teachers seat by a margin of 1,800 votes."
+            "Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.",
+            "Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.",
+            "“It should be hoisted at every house. We are in a position to create a flag with a status equal to that of the national flag to proclaim the greatness of Tamils and the Tamil language,” he said.",
+            "The Minister said a message about the importance of the Tamil language should reach children in the State, as schools were promoting the idea that only English could provide employment opportunities. “We should change this perception. We should also change the attitude of taking pride in speaking English. In China, people speak Chinese, and in France, they speak French. They are not giving up their mother tongue,” he said.",
+            "Reiterating the advocacy of the two-language policy, Mr. Arjuna said English was a language of business and was necessary for commerce and trade. “A child born in Tamil Nadu should learn Tamil. Children of MLAs and Ministers should study in the Tamil medium, and the children of all IAS and IPS officers should also opt for the Tamil medium,” he added."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He sought the urgent intervention of the Bihar Legislative Council chairman in the matter. A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Banshidhar Brajwasi defeated the JD(U) candidate Abhishek Jha from Tirhut Graduate seat by a margin of over 9,000 votes while Rahul Raj defeated JD(U) candidate Anand Pushkar from Saran Teachers seat by a margin of 1,800 votes.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Children of MLAs and Ministers should study in the Tamil medium, and the children of all IAS and IPS officers should also opt for the Tamil medium,” he added.",
           "vocabList": [
-            "Opposition",
-            "Rashtriya",
-            "Independent",
-            "Banshidhar",
-            "Brajwasi",
+            "November",
+            "Language",
+            "Prominence",
+            "Addressing",
+            "Organised",
+            "Scholars"
+          ],
+          "summary": "Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.",
+          "keyPoints": "• Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.<br>• Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.<br>• “It should be hoisted at every house. We are in a position to create a flag with a status equal to that of the national flag to proclaim the greatness of Tamils and the Tamil language,” he said."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-declares-november-2-holiday-for-schools-colleges-over-cyclone-murasu/article71654088.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:40:01 +0530",
+          "dateIso": "2026-11-01",
+          "dateDisplay": "01 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "fullParagraphs": [
+            "Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.",
+            "The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu.",
+            "A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures. The control room will function round-the-clock. Staff have been deployed to provide necessary information to the public and coordinate relief operations.",
+            "People can contact the control room for emergency assistance or information on the number 08647 252999",
+            "In view of the cyclone warnings, the District Collector urged people to remain alert and avoid going outdoors unless absolutely necessary."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu. A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> People can contact the control room for emergency assistance or information on the number 08647 252999 In view of the cyclone warnings, the District Collector urged people to remain alert and avoid going outdoors unless absolutely necessary.",
+          "vocabList": [
+            "District",
+            "Collector",
+            "Announced",
+            "Colleges",
+            "Anganwadi",
             "November"
           ],
-          "summary": "Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.",
-          "keyPoints": "• Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”. He sought the urgent intervention of the Bihar Legislative Council chairman in the matter.<br>• A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts. However, after a controversy erupted, both MLCs denied joining the party, claiming they had merely offered to back the BJP.<br>• Mr. Jha said that under India’s Anti-Defection Law (Tenth Schedule of the Constitution), an independent Member of the Legislative Council (MLC) or Member of the Legislative Assembly (MLA) cannot join any political party after being elected."
+          "summary": "Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.",
+          "keyPoints": "• Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.<br>• The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu.<br>• A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures. The control room will function round-the-clock. Staff have been deployed to provide necessary information to the public and coordinate relief operations."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’",
-          "link": "https://www.thehindu.com/news/national/foolish-drama-will-be-final-nail-in-coffin-of-congress-political-future-nadda/article71652408.ece",
-          "pubDate": "Sun, 01 Nov 2026 22:58:18 +0530",
+          "title": "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-civic-polls-largely-peaceful-jagan-demands-repoll-in-pulivendula-after-clashes/article71653094.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:37:07 +0530",
           "dateIso": "2026-11-01",
           "dateDisplay": "01 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/visual-story/yk2z2u/article71652793.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-01%20at%202.08.16%20PM.jpeg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ctdvew/article71653329.ece/alternates/LANDSCAPE_1200/vjkvg-election%2029.JPG",
           "fullParagraphs": [
-            "Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.",
-            "The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. Nadda claimed.",
-            "“Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr. Nadda told media persons.",
-            "“The day of November 1 is the ugliest and darkest blot on India’s democratic history. On this very day, goons patronised by the Congress massacred our innocent Sikh brothers. Thousands and lakhs of Sikh families became homeless overnight,” he said, in an apparent reference to the 1984 anti-Sikh riots following the assassination of then Prime Minister Indira Gandhi.",
-            "“This is a foolish and designed drama of people who have been defeated and repeatedly rejected by the public. The public understands this very well,” he said.",
-            "The Opposition alliance is holding the ‘Chalo Dilli’ protest in the national capital as part of its campaign against alleged electoral irregularities, and demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
-            "The Congress and Mr. Gandhi “cannot hide the dark history of November 1. You cannot escape answering for the tears of Delhi’s traders”, the former Bharatiya Janata Party (BJP) president said.",
-            "Thousands of people had been killed in the 1984 anti-Sikh riots, but the Gandhi family had not apologised to the Sikh community to this day for “their great sin”, Mr. Nadda said.",
-            "“And look at Congress’s insensitivity and Rahul Gandhi’s petty mindset. On this dark day today, when the country should have remembered those martyrs and victims, Rahul Gandhi is standing at Ramlila Maidan polishing his politics. Rahul Gandhi has rubbed salt into the wounds of the Sikhs,” Mr. Nadda alleged.",
-            "The Congress leader’s “model of politics” involved “lying and spreading rumours” in its first stage, creating anarchy and unrest as the second, harming the economy in the third, and destabilising the elected government of the country at the behest of foreign powers as the fourth stage, Mr. Nadda claimed.",
-            "“It is the festive season. It is Dhanteras, Diwali, Chhath Puja. Throughout the year, our small traders, street vendors, shopkeepers wait for it for some earnings during these festivals. But Rahul Gandhi does not care about the stoves burning in traders’ homes. He only wants to ignite the fire of his politics,” he added.",
-            "“Due to previous protests, Delhi’s traders have already suffered a loss of nearly ₹3,000 crore. And due to today’s political spectacle, according to an estimate, our shopkeepers are likely to suffer a hit of more than ₹10,000 crore. Rahul Gandhi’s stubbornness has completely shut down their business today,” Mr. Nadda said."
+            "Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.",
+            "The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.",
+            "YSR Congress Party (YSRCP) president and former Chief Minister Y.S. Jagan Mohan Reddy and Kadapa MP Y.S. Avinash Reddy staged a protest in Pulivendula over alleged electoral malpractices and the prevention of YSRCP agents from entering several polling stations.",
+            "The SEC extended polling by two-and-a-half hours, until 7.30 p.m., in Ward No. 55 of the Vijayawada Municipal Corporation to rectify an error in the printing of election symbols allotted to two candidates.",
+            "In Pulivendula, Mr. Jagan demanded a repoll across the municipality, alleging that election authorities had turned a blind eye to violations that undermined the electoral process. He left without casting his vote.",
+            "Independent candidate A.B. Venkateswara Rao stages a protest at Polling Station No. 73 in New RR Peta, Vijayawada, on Sunday, demanding a repoll at the booth. | Photo Credit: G.N. Rao",
+            "Reacting to Mr. Jagan’s demand at a press conference in Vijayawada, State Election Commissioner Anil Chandra Punetha said he had sought a report from the District Collector. A decision on repolling would be taken based on formal requests from the Collector or the Superintendent of Police, supported by evidence, he said.",
+            "Meanwhile, mild tension prevailed when Mr. Jagan was on his way to the Returning Officer’s office in Pulivendula, as Sk. Dastagiri, an accused in the murder of former MP Y.S. Vivekananda Reddy, reportedly confronted the YSRCP chief over issues he had faced.",
+            "Sporadic incidents were also reported from some other places in the Rayalaseema and Palnadu regions. The respective District Collectors and District Election Authorities were inquiring into them.",
+            "State Election Commissioner Anil Chandra Punetha visiting a polling station in DAV Public School at Ibrahimpatnam near Vijayawada on Sunday.",
+            "Mr. Punetha told the media that he had spoken to the Collectors of Nandyal, Kadapa, Palnadu, Markapuram, Nellore, Prakasam, Tirupati, Chittoor, Anantapur, Kurnool, Annamayya and Sri Sathya Sai districts in the evening. Polling was by and large peaceful, he said.",
+            "He added that the incidents reported from Palnadu and Anantapur districts and Pulivendula were being investigated. A decision on whether repolling was necessary would be taken after examining field reports, as the Commission’s orders had to withstand judicial scrutiny."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. “Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Gandhi’s stubbornness has completely shut down their business today,” Mr.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula. The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A decision on whether repolling was necessary would be taken after examining field reports, as the Commission’s orders had to withstand judicial scrutiny.",
           "vocabList": [
-            "November",
-            "Opposition",
-            "Resignation",
-            "Election",
-            "Commissioner",
-            "Anniversary"
+            "Elections",
+            "Municipal",
+            "Corporations",
+            "Municipalities",
+            "Panchayats",
+            "Problems"
           ],
-          "summary": "Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.",
-          "keyPoints": "• Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.<br>• The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. Nadda claimed.<br>• “Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr. Nadda told media persons."
+          "summary": "Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.",
+          "keyPoints": "• Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula.<br>• The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.<br>• YSR Congress Party (YSRCP) president and former Chief Minister Y.S. Jagan Mohan Reddy and Kadapa MP Y.S. Avinash Reddy staged a protest in Pulivendula over alleged electoral malpractices and the prevention of YSRCP agents from entering several polling stations."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls",
-          "link": "https://www.thehindu.com/news/national/punjab/punjab-polls-two-aap-mlas-quit-party-after-first-candidate-list-announcement/article71652607.ece",
-          "pubDate": "Sun, 01 Nov 2026 22:56:21 +0530",
+          "title": "NLCIL, CISF hold fire safety awareness programme ahead of Deepavali",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/nlcil-cisf-hold-fire-safety-awareness-programme-ahead-of-deepavali/article71652603.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:37:03 +0530",
           "dateIso": "2026-11-01",
           "dateDisplay": "01 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/1prbb2/article71652634.ece/alternates/LANDSCAPE_1200/iStock-1287044295%201.jpg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1joolk/article71653230.ece/alternates/LANDSCAPE_1200/2786_1_11_2026_17_56_17_1_IMG_20261101_WA0018.JPEG",
           "fullParagraphs": [
-            "Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.",
-            "Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls.",
-            "At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled.",
-            "“In Punjab, people are continuously losing their lives to drug menace,” said Mr. Jouramajra, who was a Cabinet Minister and held portfolios including Health, among others.",
-            "Mr. Pathanmajra, meanwhile, is facing rape charges and a police case is registered against him in Punjab. He was granted regular bail by the Punjab and Haryana High Court.",
-            "Meanwhile, the AAP hit out at the Bharatiya Janata Party (BJP) over its attempts to induct leaders who have left or been expelled by other parties. AAP’s Punjab Chief Spokesperson and MLA Kuldeep Singh Dhaliwal said that while the AAP had consistently put Punjab’s interests first and taken action against its own ministers and MLAs over corruption, the BJP was attempting to bring in leaders facing serious allegations.",
-            "“The BJP in Punjab is no longer a political party but has become a scrap shop and has no support base in Punjab. They are collecting rejected leaders and discarded material from other parties, whether they are Congress leaders, or those surviving on the mercy of the Shiromani Akali Dal, or tainted faces expelled from the AAP,” he alleged."
+            "NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.",
+            "CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.",
+            "Shopkeepers received hands-on training in operating fire extinguishers and basic firefighting techniques through live demonstrations. The programme aimed to improve preparedness and prevent fire accidents during the festive season.",
+            "B. Vaidyanathan, chief general manager, Township Administration, NLCIL and CISF officials were present."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls. At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> They are collecting rejected leaders and discarded material from other parties, whether they are Congress leaders, or those surviving on the mercy of the Shiromani Akali Dal, or tainted faces expelled from the AAP,” he alleged.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaidyanathan, chief general manager, Township Administration, NLCIL and CISF officials were present.",
           "vocabList": [
-            "Assembly",
-            "Election",
-            "Legislators",
-            "November",
-            "Resigned",
-            "Membership"
+            "Industrial",
+            "Security",
+            "Conducted",
+            "Prevention",
+            "Awareness",
+            "Programme"
           ],
-          "summary": "Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.",
-          "keyPoints": "• Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.<br>• Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls.<br>• At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled."
+          "summary": "NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.",
+          "keyPoints": "• NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.<br>• CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.<br>• Shopkeepers received hands-on training in operating fire extinguishers and basic firefighting techniques through live demonstrations. The programme aimed to improve preparedness and prevent fire accidents during the festive season."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Four workers die of suffocation in Ujjain hotel waste chamber; CM announces aid",
-          "link": "https://www.thehindu.com/news/national/madhya-pradesh/several-dead-of-suspected-suffocation-while-cleaning-waste-chamber-in-madhya-pradesh-ujjain-hotel/article71652480.ece",
-          "pubDate": "Sun, 01 Nov 2026 22:47:31 +0530",
+          "title": "BJP leader questions Vijay’s silence over Mekedatu dam issue",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-leader-questions-vijays-silence-over-mekedatu-dam-issue/article71652851.ece",
+          "pubDate": "Sun, 01 Nov 2026 23:34:40 +0530",
           "dateIso": "2026-11-01",
           "dateDisplay": "01 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/9y1x1f/article71652483.ece/alternates/LANDSCAPE_1200/PTI11_01_2026_000083B.jpg",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
           "fullParagraphs": [
-            "Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.",
-            "According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed. Two other workers then entered the chamber in an attempt to rescue them, resulting in the death of all four.",
-            "Ujjain Superintendent of Police Pradeep Sharma told The Hindu that all four workers had entered the tank without the required protective gear, adding that three had been hired externally for the cleaning work while one was a hotel staff. He said the bodies have been sent for post-mortem examinations and that an FIR will be registered based on the findings.",
-            "The incident is suspected to have been caused by slippery sludge in the chamber and a gas leak, though investigations are ongoing and the hotel management and staff are being questioned. Mr. Sharma added that the bodies were recovered after police personnel and hotel staff broke open the chamber, during which some people, including police officers, sustained minor injuries.",
-            "“There was an iron grill on the chamber so some people suffered injuries during the rescue efforts. Police also tried to revive them through CPR but we could not succeed,” he said.",
-            "The deceased have been identified as Wahid Khan, 29, Nitin Binarwan, 28, Kamlesh Tamboli, 30, all local residents, and the hotel supervisor Manoj Meena, 25, a resident of Rajasthan’s Jhalawar.",
-            "Ujjain Collector Roshan Kumar Singh told The Hindu that the Ujjain Police and the Ujjain Municipal Corporation are probing the case. Meanwhile, an Ujjain Municipal Corporation health department official said that the hotel had not gotten a mandatory receipt from the civic body for the cleaning.",
-            "Chief Minister Mohan Yadav condoled the deaths and announced financial assistance of ₹4 lakh to each to family of the deceased. “News of the tragic death of four people in an accident while cleaning a chamber at a private hotel in Ujjain is deeply painful. My condolences to the bereaved families. I have directed the state government to provide financial assistance of Rs4 lakh each to the families of the deceased,” he said on X."
+            "BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.",
+            "Referring to a statement by Karnataka Chief Minister D.K. Shivakumar that efforts were being made to acquire land for the construction of the Mekedatu dam, Mr. Nagenthran criticised both the Karnataka government’s actions and the Vijay-led TVK government’s silence on the issue.",
+            "“Karnataka is being ruled by the Congress, which is an ally of the TVK. Despite the Cauvery Water Management Authority’s directive, it [Karnataka] has not released water to Tamil Nadu... it intends to destroy the livelihood of the farmers of Tamil Nadu. Why is Mr. Vijay not opposing the Congress in Karnataka?” he asked."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I have directed the state government to provide financial assistance of Rs4 lakh each to the families of the deceased,” he said on X.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu. Referring to a statement by Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vijay not opposing the Congress in Karnataka?” he asked.",
           "vocabList": [
-            "Entering",
-            "Cleaning",
-            "Officials",
-            "Suspecting",
-            "Suffocation",
-            "Poisonous"
+            "President",
+            "Nagenthran",
+            "Questioned",
+            "Karnataka",
+            "Construct",
+            "Mekedatu"
           ],
-          "summary": "Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.",
-          "keyPoints": "• Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.<br>• According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed. Two other workers then entered the chamber in an attempt to rescue them, resulting in the death of all four.<br>• Ujjain Superintendent of Police Pradeep Sharma told The Hindu that all four workers had entered the tank without the required protective gear, adding that three had been hired externally for the cleaning work while one was a hotel staff. He said the bodies have been sent for post-mortem examinations and that an FIR will be registered based on the findings."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s passport",
-          "link": "https://www.thehindu.com/news/cities/chennai/gem-veeramani-case-greater-chennai-police-seek-cancellation-of-prakash-kanniahs-passport/article71653502.ece",
-          "pubDate": "Sun, 01 Nov 2026 22:44:01 +0530",
-          "dateIso": "2026-11-01",
-          "dateDisplay": "01 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/nn0nlf/article71654021.ece/alternates/LANDSCAPE_1200/DSC_5802.JPG",
-          "fullParagraphs": [
-            "The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.",
-            "According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.",
-            "“We have written to the Regional Passport Officer, Ministry of External Affairs requesting him to revoke Prakash Kanniah’s passport. Once the passport is cancelled he will not be able to travel or check in at hotels abroad. We have initiated the process of bringing him back,” a senior police officer said.",
-            "Investigators were taking steps to get an arrest warrant issued against Prakash Kanniah which was required to issue a Red Corner Notice.",
-            "“Once the passport is revoked and Red Corner Notice issued, the accused would be detained by the immigration authorities and handed over to the nearest Indian mission for further action,” the officer said.",
-            "After allegations of Mr. Prakash Kanniah’s involvement in the cases surfaced , police conducted searches at his office and residential premises. His bank accounts which had a balance of about ₹40 crore were frozen, the sources said.",
-            "The Special Investigation Team (SIT) constituted to probe the POCSO Act cases involving the businessman and others conducted an Identification Parade at the Puzhal central prison for one of the victims to identify the accused persons.",
-            "Veeramani is facing seven cases under the POCSO Act and one case of abetment to suicide of a minor in 2004. The businessman, his associate Shanti and her husband Mahendra Simhan, and five others have already been arrested and lodged in Puzhal Central Prison.",
-            "The police recently issued a Look Out Circular (LOC) against Veeramani’s daughter Archana Veeramani and 4 others, restraining them from travelling abroad.",
-            "(Assistance for overcoming suicidal thoughts is available on the State’s health helpline 104, Tele-MANAS 14416. and Sneha’s suicide prevention helpline 044-24640050)"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> and Sneha’s suicide prevention helpline 044-24640050)",
-          "vocabList": [
-            "Ministry",
-            "External",
-            "Passport",
-            "Connection",
-            "Granites",
-            "Veeramani"
-          ],
-          "summary": "The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.",
-          "keyPoints": "• The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R. Veeramani.<br>• According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.<br>• “We have written to the Regional Passport Officer, Ministry of External Affairs requesting him to revoke Prakash Kanniah’s passport. Once the passport is cancelled he will not be able to travel or check in at hotels abroad. We have initiated the process of bringing him back,” a senior police officer said."
+          "summary": "BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.",
+          "keyPoints": "• BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu.<br>• Referring to a statement by Karnataka Chief Minister D.K. Shivakumar that efforts were being made to acquire land for the construction of the Mekedatu dam, Mr. Nagenthran criticised both the Karnataka government’s actions and the Vijay-led TVK government’s silence on the issue.<br>• “Karnataka is being ruled by the Congress, which is an ally of the TVK. Despite the Cauvery Water Management Authority’s directive, it [Karnataka] has not released water to Tamil Nadu... it intends to destroy the livelihood of the farmers of Tamil Nadu. Why is Mr. Vijay not opposing the Congress in Karnataka?” he asked."
         },
         {
           "category": "economy",
@@ -4003,169 +3969,169 @@
       "id": "gk_01 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and...\"?",
       "optsEn": [
+        "GVMC polls: smooth polling experience for senior citizens, first-time voters",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "GVMC polls: smooth polling experience for senior citizens, first-time voters",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "GVMC polls: smooth polling experience for senior citizens, first-time voters",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The cyclonic storm “Murasu” over Southwest and adjoining Westcentral Bay of Bengal moved west-northwestwards with speed of 25 kmph during past six hours and lay centred at 5.30 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday over the same region, at about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam. It is very likely to move west-northwestwards and intensify further into a severe cyclonic storm around Monday (November 2) morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Light to moderate rain is likely to occur at a few places over the rest of the State."
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Arrangements made by the Greater Visakhapatnam Municipal Corporation (GVMC) enabled senior citizens, persons with disabilities and first-time voters to exercise their franchise in the urban local body elections, which passed off largely smoothly across the city on Sunday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Most senior citizens said that the process was trouble free and that the staff guided them well. One of them, who did not wish to be named, said finding the right station was initially a problem after wards rose from 98 to 120, but the staff quickly helped.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sandeep Reddy expressed satisfaction over the smooth and peaceful polling."
     },
     {
       "id": "gk_01 Nov 2026_2",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Ra...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Ra...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Ra...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP"
+        "Aadhav Arjuna calls for a separate flag for Tamil Nadu"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP"
+        "Aadhav Arjuna calls for a separate flag for Tamil Nadu"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP"
+        "Aadhav Arjuna calls for a separate flag for Tamil Nadu"
       ],
       "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Opposition Rashtriya Janata Dal (RJD) MP Manoj Jha called for the disqualification of two newly elected Independent MLCs (Rahul Raj and Banshidhar Brajwasi) on Sunday (November 1, 2026) for reportedly “joining the BJP”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He sought the urgent intervention of the Bihar Legislative Council chairman in the matter. A day earlier, the Bihar Bharatiya Janata Party (BJP) had issued a press statement saying both had joined the party, along with pictures that showed membership receipts.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Banshidhar Brajwasi defeated the JD(U) candidate Abhishek Jha from Tirhut Graduate seat by a margin of over 9,000 votes while Rahul Raj defeated JD(U) candidate Anand Pushkar from Saran Teachers seat by a margin of 1,800 votes."
+      "explanation": "<strong>1. Core Context & Background:</strong> Public Works Minister Aadhav Arjuna said on Sunday (November 1, 2026) that Tamil Nadu should have its own flag, along the lines of those of other States, with the Tamil language given prominence.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a meeting organised to honour Tamil scholars on the occasion of Tamil Nadu Day, he said a law should be enacted to provide for the flag, and Chief Minister C. Joseph Vijay should hoist it on November 1 and July 18.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Children of MLAs and Ministers should study in the Tamil medium, and the children of all IAS and IPS officers should also opt for the Tamil medium,” he added."
     },
     {
       "id": "gk_01 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation o...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation o...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Union Health Minister J.P. Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation o...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi cen...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi cen...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi cen...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’",
+        "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’",
+        "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’",
+        "Collector declares November 2 holiday for schools, colleges over Cyclone Murasu",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Nadda on Sunday (November 1, 2026) termed the Opposition INDIA bloc rally calling for the resignation of Chief Election Commissioner Gyanesh Kumar a “foolish drama”, and accused the Leader of the Opposition in the Lok Sabha Rahul Gandhi of “rubbing salt into the wounds of Sikhs” by holding the protest in Delhi on the anniversary of the 1984 anti-Sikh riots.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The protest was part of a conspiracy to surrender democracy to anarchy and disorder, and would prove to be the final “nail in the coffin” of the Congress’s “political downfall”, Mr. “Removing the democratically elected government by conspiring to spread riots and anarchy in Delhi, adversely impacting the earnings of shopkeepers and traders in Delhi during the festive season and defaming the country are other objectives of the rally,” Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Gandhi’s stubbornness has completely shut down their business today,” Mr."
+      "explanation": "<strong>1. Core Context & Background:</strong> Palnadu District Collector Kritika Shukla has announced holiday for all government and private schools, colleges and Anganwadi centres on Tuesday (November 2) in view of Cyclone Murasu.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Collector, in a press release here on Sunday, informed that the district administration has made all necessary arrangements to effectively deal with Cyclone Murasu. A special control room has been set up at the Collectorate to ensure that people do not face any inconvenience due to the cyclone and to facilitate immediate relief measures.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> People can contact the control room for emergency assistance or information on the number 08647 252999 In view of the cyclone warnings, the District Collector urged people to remain alert and avoid going outdoors unless absolutely necessary."
     },
     {
       "id": "gk_01 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi ...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi ...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi ...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday with...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday with...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m. on Sunday with...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula a...",
         "15th Finance Commission Special State Grant",
-        "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula a...",
         "15th Finance Commission Special State Grant",
-        "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula a...",
         "15th Finance Commission Special State Grant",
-        "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Ahead of the Assembly election in Punjab, due in 2027, two legislators, one of whom was a former Minister of the ruling Aam Aadmi Party (AAP), on Sunday (November 1, 2026) resigned from the party’s primary membership.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chetan Singh Jouramajra from the Samana Assembly constituency and Harmeet Singh Pathanmajra from Sanour in Patiala district, said, they were quitting as the party has failed to fulfil its promises made during the 2022 Assembly polls. At a press conference, both MLAs said various guarantees extended by the party regarding eradicating drugs, minimum support price on crops, better education and health in Punjab have not been fulfilled.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> They are collecting rejected leaders and discarded material from other parties, whether they are Congress leaders, or those surviving on the mercy of the Shiromani Akali Dal, or tainted faces expelled from the AAP,” he alleged."
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Elections to 13 municipal corporations and 79 municipalities and nagar panchayats in Andhra Pradesh ended at 5 p.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Sunday without major law and order problems, barring incidents of stone-pelting by cadres of the TDP and the YSR Congress Party (YSRCP) and the torching of several vehicles in Pulivendula. The overall polling percentage across the urban local bodies stood at 48.03 at 3 p.m., according to information furnished by the State Election Commission (SEC), compared with 63.30 in the 2021 elections.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A decision on whether repolling was necessary would be taken after examining field reports, as the Commission’s orders had to withstand judicial scrutiny."
     },
     {
       "id": "gk_01 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspect...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspect...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspect...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Four workers die of suffocation in Ujjain hotel waste chamber; CM announces aid"
+        "NLCIL, CISF hold fire safety awareness programme ahead of Deepavali"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Four workers die of suffocation in Ujjain hotel waste chamber; CM announces aid"
+        "NLCIL, CISF hold fire safety awareness programme ahead of Deepavali"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Four workers die of suffocation in Ujjain hotel waste chamber; CM announces aid"
+        "NLCIL, CISF hold fire safety awareness programme ahead of Deepavali"
       ],
       "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Four workers died after entering a waste chamber for cleaning at a private hotel in Ujjain, Madhya Pradesh, with officials suspecting suffocation caused by a poisonous gas leak.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to officials, the incident took place around 10.30 p.m. on Saturday (October 31, 2026) when two workers entered an overground chamber containing residual and leftover food at Shri Ganga Hotel on the Ujjain-Dewas road and collapsed.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I have directed the state government to provide financial assistance of Rs4 lakh each to the families of the deceased,” he said on X."
+      "explanation": "<strong>1. Core Context & Background:</strong> NLC India Limited (NLCIL) and the Fire Wing of the Central Industrial Security Force (CISF) conducted a fire prevention and safety awareness programme for shopkeepers and residents at Main Bazaar in Neyveli Township recently, ahead of Deepavali.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> CISF Fire Wing personnel demonstrated how to handle LPG leaks, tackle fires involving domestic LPG cylinders and electrical equipment, and use fire extinguishers. They also explained the precautions to be followed at firecracker shops.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaidyanathan, chief general manager, Township Administration, NLCIL and CISF officials were present."
     },
     {
       "id": "gk_01 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "01 Nov 2026",
-      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wante...\"?",
-      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wante...\"?",
-      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wante...\"?",
+      "qEn": "[01 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts bei...\"?",
+      "qHi": "[01 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts bei...\"?",
+      "qMr": "[01 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C. Joseph Vijay’s alleged ‘silence’ over the efforts bei...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP leader questions Vijay’s silence over Mekedatu dam issue",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP leader questions Vijay’s silence over Mekedatu dam issue",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP leader questions Vijay’s silence over Mekedatu dam issue",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s ..."
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Greater Chennai Police have written to the Ministry of External Affairs to revoke the passport of Prakash Kanniah who is wanted in connection with the POCSO Act cases against Gem Granites owner R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to police sources, he has been arraigned as an accused in the POCSO Act cases against the octogenarian businessman and his associates. The allegation is he helped the accused evade police action and got actively involved in the money trail.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> and Sneha’s suicide prevention helpline 044-24640050)"
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> BJP State president Nainar Nagenthran on Sunday questioned Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay’s alleged ‘silence’ over the efforts being made by the Karnataka government to construct a dam across the Cauvery at Mekedatu. Referring to a statement by Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vijay not opposing the Congress in Karnataka?” he asked."
     },
     {
       "id": "gk_01 Nov 2026_7",
