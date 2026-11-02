@@ -1,12 +1,12 @@
 {
-  "updatedAt": "03 Nov 2026, 03:10 AM IST",
+  "updatedAt": "03 Nov 2026, 03:48 AM IST",
   "currentDateIso": "2026-11-03",
   "currentDateDisplay": "03 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-03",
       "dateDisplay": "03 Nov 2026",
-      "updatedAt": "03 Nov 2026, 03:10 AM IST",
+      "updatedAt": "03 Nov 2026, 03:48 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,141 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (03 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 03 Nov 2026, 03:10 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 03 Nov 2026, 03:48 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudharys-appeal-to-give-up-free-electricity-triggers-row/article71656585.ece",
+      "pubDate": "Tue, 03 Nov 2026 03:39:27 +0530",
+      "dateIso": "2026-11-03",
+      "dateDisplay": "03 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/7cib13/article71658504.ece/alternates/LANDSCAPE_1200/20261030029L.jpg",
+      "fullParagraphs": [
+        "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
+        "On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.",
+        "The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity.",
+        "“In Bihar, everyone, from the rich to the poor, is being provided with 125 units of free electricity. The State government is spending between ₹8,000 and ₹10,000 per family annually in the form of an electricity subsidy, which makes ₹23,000 crore on electricity subsidy annually,” Mr. Choudhary said while addressing a two-day Pataliputra National Youth Parliament 2.0 in Patna.",
+        "He further said, “I will appeal to those who are well-off, affluent, or taxpayers to voluntarily forgo the benefit of the 125 units of free electricity and contribute to the development of Bihar.”",
+        "The Chief Minister also cited the example of Uttar Pradesh to prove his point and asserted that the population of the State is nearly double of Bihar, despite that the expenditure on electricity subsidies there is around ₹6,000 crores.",
+        "Free electricity is given under Mukhyamantri Vidhyut Upbhokta Sahayata Yojna (MVUSY). Not only this, under Mukhya Mantri Mahila Rozgar Yojana, state government has transferred ₹10,000 each to the bank accounts of 1.81 crore women till February 2026, as per data available. This scheme too was launched before the assembly elections.",
+        "Bihar CM pointed out that by giving up free electricity, the funds saved can be used to strengthen the education system in Bihar. Mr. Choudhary also reminded the people of Bihar how the government is giving other benefits to the people and spending crores.",
+        "He mentioned that on the scheme, like ‘Student Credit Card’, students pursuing higher education, including in fields like medicine and engineering are provided with financial assistance of up to ₹4 lakh making it ₹18,000 crore annually.",
+        "Leader of the Opposition (LoP) in the Bihar Legislative Assembly, Tejashwi Yadav, has been continuously criticising the Samrat Choudhary-led National Democratic Alliance (NDA) government, claiming it is “on the verge of bankruptcy”. The RJD leader had alleged that the state is facing extreme financial loss due to scams, corruption, revenue loss, a widening fiscal deficit and mounting debt.",
+        "Mr. Yadav earlier said the treasury lacks the funds to pay employee salaries, student scholarships, pensions, and dues to farmers.",
+        "A resident of the Boring Canal Road area in Patna, Sumitesh Kumar (42), who enjoys the benefits of free electricity, said, “Only the middle class and salaried people are paying the tax. From our taxes, the government is implementing the schemes. Why should we give up the free benefits? Instead of appealing to the common man, the CM should first ask his cabinet colleagues to give up the facilities which they get as lawmakers and Ministers. Reduce the perks and dearness allowance (DA) they get in their salaries.”"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State. The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reduce the perks and dearness allowance (DA) they get in their salaries.”",
+      "vocabList": [
+        "Electricity",
+        "Consumers",
+        "Choudhary",
+        "Voluntarily",
+        "Benefits",
+        "November"
+      ],
+      "summary": "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
+      "keyPoints": "• Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br>• On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.<br>• The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
+      "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+      "pubDate": "Tue, 03 Nov 2026 03:32:36 +0530",
+      "dateIso": "2026-11-03",
+      "dateDisplay": "03 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
+      "fullParagraphs": [
+        "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+        "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
+        "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
+        "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
+        "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
+        "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
+        "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
+        "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
+        "The landfall process of the Severe Cyclonic Storm ‘Murasu’ commenced at 1 a.m. on Tuesday, November 3, near Ongole, with the observed maximum sustained wind speed of 110 kmph to 120 kmph at the landfall point.",
+        "As of 3 a.m., the inner spiral band in the northern sector has touched the land and the wall cloud region is also entering the land, according to the official bulletin from the India Meteorological Department.",
+        "The landfall process may go on for three hours. The Severe Cyclonic Storm is now located at about 30 km southeast of Ongole, 50 km northeast of Kavali, 70 km south-southwest of Bapatla, 100 km northeast of Nellore and 140 km southwest of Machilipatnam, all in Andhra Pradesh. The system may continue to move north-northwestward after landfall.",
+        "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
+      "vocabList": [
+        "Assistance",
+        "Citizens",
+        "Affected",
+        "Governance",
+        "Dedicated",
+        "Grievance"
+      ],
+      "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+      "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Severe Cyclone Murasu: Landfall commences near Ongole",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+      "pubDate": "Tue, 03 Nov 2026 03:07:25 +0530",
+      "dateIso": "2026-11-03",
+      "dateDisplay": "03 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/eiug6o/article71658349.ece/alternates/LANDSCAPE_1200/20261102613L.jpg",
+      "fullParagraphs": [
+        "The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.",
+        "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph. The same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
+        "The IMD has also warned of a storm surge, which may inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected over Bapatla and also over Krishna and Prakasam districts.",
+        "The IMD has also said there would be heavy spells of rainfall in South Coastal A.P. during the next 12 hours.",
+        "Ongole city has recorded light rain of 18 mm as of 1 a.m., while Kothapatnam of Prakasam district has recorded 74.7 mm as of 1 a.m. The rainfall activity is picking up in the nearby coastal district of Krishna, where many places recorded moderate rains between 11.30 p.m. and 1 a.m. on November 2-3.",
+        "For assistance or to report any problems or emergencies at any time, people in Prakasam or any other affected district can contact Mana Mitra at 9552300009."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For assistance or to report any problems or emergencies at any time, people in Prakasam or any other affected district can contact Mana Mitra at 9552300009.",
+      "vocabList": [
+        "Landfall",
+        "Cyclonic",
+        "Commenced",
+        "November",
+        "Northern",
+        "Entering"
+      ],
+      "summary": "The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.",
+      "keyPoints": "• The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.<br>• The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph. The same wind speed is likely to prevail till morning along and off the coast near the landfall point.<br>• The IMD has also warned of a storm surge, which may inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected over Bapatla and also over Krishna and Prakasam districts."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Cyclonic storm Murasu to make landfall close to Ongole",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+      "pubDate": "Tue, 03 Nov 2026 02:42:07 +0530",
+      "dateIso": "2026-11-03",
+      "dateDisplay": "03 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/cuujeu/article71655234.ece/alternates/LANDSCAPE_1200/MnsnOctNov1pm.jpg",
+      "fullParagraphs": [
+        "As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.",
+        "According to information from the A.P. State Disaster Management Authority (APSDMA), the landfall point is likely to be Ongole and in this connection, two teams each have been stationed in the districts of Krishna, Bapatla, Guntur, Nellore and Prakasam, while one team each has been deployed in Markapuram, Palnadu and Tirupati districts. Additional teams are also available for deployment if required.",
+        "Murasu is the second cyclonic storm to hit A.P. in less than a week. According to the 9 p.m. bulletin from the India Meteorological Department (IMD), the cyclonic storm centred over Southwest and adjoining Westcentral Bay of Bengal at 5.30 p.m. It was located about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
+        "The IMD said the system may intensify further into a Severe Cyclonic Storm over Westcentral Bay of Bengal in the early hours of November 2. The landfall will be close to the Ongole coast, with a wind speed of 100 to 120 kmph, in the early hours of November 3.",
+        "Isolated extremely heavy rainfall is expected at one or two locations in the districts of Krishna, Guntur, Bapatla, Prakasam, Markapuram and Nellore on Monday. NTR and Guntur districts have announced holidays for all government and private schools, junior colleges and degree colleges on Monday (November 2, 2026).",
+        "People can report any cyclone-related problems to officials through the Mana Mitra WhatsApp Governance service at 95523 00009. For emergency assistance and information, they can also contact the Disaster Management Authority’s toll-free numbers 112, 1070 and 18004250101"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> As the cyclonic storm, Cyclone Murasu , moves towards the A.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone. According to information from the A.P.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For emergency assistance and information, they can also contact the Disaster Management Authority’s toll-free numbers 112, 1070 and 18004250101",
+      "vocabList": [
+        "Cyclonic",
+        "Deployed",
+        "Disaster",
+        "Response",
+        "Districts",
+        "Affected"
+      ],
+      "summary": "As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.",
+      "keyPoints": "• As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.<br>• According to information from the A.P. State Disaster Management Authority (APSDMA), the landfall point is likely to be Ongole and in this connection, two teams each have been stationed in the districts of Krishna, Bapatla, Guntur, Nellore and Prakasam, while one team each has been deployed in Markapuram, Palnadu and Tirupati districts. Additional teams are also available for deployment if required.<br>• Murasu is the second cyclonic storm to hit A.P. in less than a week. According to the 9 p.m. bulletin from the India Meteorological Department (IMD), the cyclonic storm centred over Southwest and adjoining Westcentral Bay of Bengal at 5.30 p.m. It was located about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -62,42 +194,6 @@
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-      "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-      "pubDate": "Tue, 03 Nov 2026 02:33:57 +0530",
-      "dateIso": "2026-11-03",
-      "dateDisplay": "03 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
-      "fullParagraphs": [
-        "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-        "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
-        "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
-        "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
-        "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
-        "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
-        "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
-        "“The landfall process commenced at 0100 hours IST on November 3. The forward sector of the wall cloud is entering the coast, while the wall cloud region is very close to the coast,” the IMD’s official press release said.",
-        "Under the influence of the cyclone, heavy rain struck several places in the southern State.",
-        "The cyclone was centred over the west-central Bay of Bengal, close to the South Andhra Pradesh coast, about 40 km southeast of Ongole, 60 km northeast of Kavali and 70 km south of Bapatla, as of 0130 hours.",
-        "Chief Minister N. Chandrababu Naidu is likely to hold a teleconference with the Collectors of all the Cyclone Murasu-impacted districts at around 3.30 A.M.",
-        "Cyclone Murasu’s path passes near Chinaganjam in Bapatla district, located between Ongole in Prakasam district and Chirala in Bapatla district."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Cyclone Murasu’s path passes near Chinaganjam in Bapatla district, located between Ongole in Prakasam district and Chirala in Bapatla district.",
-      "vocabList": [
-        "Assistance",
-        "Citizens",
-        "Affected",
-        "Governance",
-        "Dedicated",
-        "Grievance"
-      ],
-      "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-      "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
       "title": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
       "link": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
       "pubDate": "Tue, 03 Nov 2026 02:20:15 +0530",
@@ -130,108 +226,6 @@
       ],
       "summary": "Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leading those trying to create “anarchy” in the country and acting as a “toolkit” for foreign forces attempting to destabilise India.",
       "keyPoints": "• Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leading those trying to create “anarchy” in the country and acting as a “toolkit” for foreign forces attempting to destabilise India.<br>• A day after the Opposition INDIA bloc, led by Mr. Gandhi’s Congress party, held a gathering at Delhi’s Ramlila Grounds over allegations of ‘vote theft’ and the Special Intensive Revision (SIR), Mr. Nabin held a procession in Kolkata titled ‘Save Democracy, End Anarchy’. The march which was joined by thousands of supporters was a show of strength for the saffron party.<br>• “Rahul Gandhi is acting as a toolkit of those forces which engineered the unrest in Nepal and other neighbouring countries. If you think you will destabilise India, if you think you will work as a toolkit for those who are destabilising Europe, those who are destabilising Bangladesh or Nepal, then know that Indian democracy is very strong ,” Mr. Nabin alleged."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
-      "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
-      "pubDate": "Tue, 03 Nov 2026 01:48:19 +0530",
-      "dateIso": "2026-11-03",
-      "dateDisplay": "03 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/60f6y7/article71657211.ece/alternates/LANDSCAPE_1200/DSC3245.jpg",
-      "fullParagraphs": [
-        "Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.",
-        "Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr. Shah claimed that of the nearly 13 crore names deleted from voter lists during the SIR process, 4.25 crore voters were registered in two different locations, three crore were deceased, and another one crore were duplicate entries. He questioned if such names should continue to remain on the electoral rolls. “Do we need to remove infiltrators from the country’s voter lists or not?” he asked.",
-        "The Home Minister accused Congress leader Rahul Gandhi of defending the alleged three crore ‘unaccounted’ voters. “No matter how hard Rahul Gandhi or Chief Minister A. Revanth Reddy may try, the BJP is committed to driving every infiltrator out of the country,” he said.",
-        "Mr. Shah alleged that the Congress and other Opposition parties were opposing the SIR exercise to protect ‘infiltrators from Bangladesh’, whom he described as their ‘vote bank’ and maintained that only genuine Indian citizens should be included in electoral rolls.",
-        "Ridiculing Sunday’s joint rally of Opposition parties in New Delhi, Mr. Shah described it as a ‘Save Infiltrators’ rally and urged BJP workers to counter what he termed ‘fear-mongering’ by the former on the SIR exercise through a door-to-door campaign.",
-        "The Congress was determined to halt SIR while the BJP would continue to support it, he said. Mr. Shah said the Centre was prepared to convene a special session of Parliament to discuss the issue and challenged Mr. Rahul Gandhi to participate in a debate. He said the Congress leader was not allowing Parliament to function. Taking a swipe at Mr. Gandhi, he remarked that while he might become Prime Minister in a ‘mock Parliament’, he would never attain the position in reality.",
-        "Defending the BJP’s electoral record, the Union Minister noted that Prime Minister Narendra Modi had won the 2014, 2019 and 2024 Lok Sabha elections without any SIR exercise. He also rejected allegations about Electronic Voting Machines (EVMs), asking how the Congress had won elections in Telangana, Kerala and Himachal Pradesh if the machines were flawed.",
-        "Turning his attention to Telangana, Mr. Shah alleged that the Congress government had become an ‘ATM’ for the party through the so-called ‘RR tax’. He accused the State government of failing to implement its six election guarantees and predicted that voters would reject the party in the next election.",
-        "Earlier, Mr. Shah led a foot march from the Babu Jagjivan Ram statue near Nizam College in Fateh Maidan to the meeting venue. Flanked by senior Telangana BJP leaders, including State president N. Ramchander Rao, Union Minister G. Kishan Reddy and Union Minister of State for Home Bandi Sanjay Kumar, he marched amid tight security and chants of ‘Jai Shri Ram’ and ‘Bharat Mata Ki Jai’. He had arrived by a special aircraft from Delhi and was received by the party leaders at Begumpet airport. From there he offered prayers at the Bhagyalakshmi temple at Charminar before the programme.",
-        "Telangana / Special Intensive Revision of electoral rolls / Election Commission of India"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He asserted that all such infiltrators would be expelled from the country. Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana / Special Intensive Revision of electoral rolls / Election Commission of India",
-      "vocabList": [
-        "Election",
-        "Commission",
-        "Intensive",
-        "Revision",
-        "Exercise",
-        "Identified"
-      ],
-      "summary": "Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.",
-      "keyPoints": "• Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.<br>• Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr. Shah claimed that of the nearly 13 crore names deleted from voter lists during the SIR process, 4.25 crore voters were registered in two different locations, three crore were deceased, and another one crore were duplicate entries. He questioned if such names should continue to remain on the electoral rolls. “Do we need to remove infiltrators from the country’s voter lists or not?” he asked.<br>• The Home Minister accused Congress leader Rahul Gandhi of defending the alleged three crore ‘unaccounted’ voters. “No matter how hard Rahul Gandhi or Chief Minister A. Revanth Reddy may try, the BJP is committed to driving every infiltrator out of the country,” he said."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Eight labourers electrocuted after machine touches power line",
-      "link": "https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece",
-      "pubDate": "Tue, 03 Nov 2026 01:44:47 +0530",
-      "dateIso": "2026-11-03",
-      "dateDisplay": "03 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/f21vyi/article71658357.ece/alternates/LANDSCAPE_1200/20261102202L.jpg",
-      "fullParagraphs": [
-        "Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.",
-        "Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area. Work on a narrow road connecting Chhapoli to Kadamkund was underway when a hydraulic jack made contact with the power line.",
-        "A massive electric current spread through the equipment instantly, striking labourers at the site. Five workers died on the spot, while three others succumbed during treatment. All the deceased were residents of Chhapoli village.",
-        "Villagers rushed to the spot and helped in the rescue efforts, as those injured were shifted to the Community Health Centre at Udaipurwati. The incident triggered anger among villagers, who staged a demonstration, alleging negligence by the administration and the power discom.",
-        "The protesters said power lines and poles were touching trees and claimed that no staff member was available at the Grid Sub-Station when they called to have the power supply disconnected.",
-        "Prime Minister Narendra Modi has expressed his grief and announced ex-gratia assistance of ₹2 lakh each from the PM’s National Relief Fund to the next of kin of each deceased person. The injured will receive ₹50,000 each.",
-        "Chief Minister Bhajan Lal Sharma has ordered a high-level inquiry into the accident and instructed officials to provide all possible relief to the affected families, besides seeking a factual report from the District Collector. Minister of State for Urban Development Jhabar Singh Kharra has been deputed to visit the accident site.",
-        "Veteran Congress leader and former CM Ashok Gehlot said a thorough investigation was essential to determine how the mishap had occurred and fix accountability for the deaths."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The gravel mixing machine was being used to build a road with public participation. Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Veteran Congress leader and former CM Ashok Gehlot said a thorough investigation was essential to determine how the mishap had occurred and fix accountability for the deaths.",
-      "vocabList": [
-        "Labourers",
-        "Electrocuted",
-        "Construction",
-        "Overhead",
-        "Chhapoli",
-        "Rajasthan"
-      ],
-      "summary": "Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.",
-      "keyPoints": "• Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.<br>• Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area. Work on a narrow road connecting Chhapoli to Kadamkund was underway when a hydraulic jack made contact with the power line.<br>• A massive electric current spread through the equipment instantly, striking labourers at the site. Five workers died on the spot, while three others succumbed during treatment. All the deceased were residents of Chhapoli village."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
-      "pubDate": "Tue, 03 Nov 2026 01:37:49 +0530",
-      "dateIso": "2026-11-03",
-      "dateDisplay": "03 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/l8md0j/article71655638.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-02%20at%2012.13.50%20PM.jpeg",
-      "fullParagraphs": [
-        "An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.",
-        "An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.",
-        "According to the police, the incident took place around 1.30 a.m. on Indore-Betul highway when Mr. Puri was leading one of the four teams formed based on intelligence inputs that large amounts of illicit liquor was being transported from Harda district’s Timarni to Gujarat.",
-        "During the checking, a parked truck was spotted near Sandalpur in Dewas district and Mr. Puri had asked the driver to step down for a search.",
-        "“The driver, however, with the intent of killing Dilip Puri, ran him over with the truck and fled the scene. Mr. Puri died during treatment. The driver also tried to run over constable Sohan Jaat, who has suffered injuries,” an official police statement said.",
-        "The driver abandoned the truck after some distance and fled the scene. Dewas Superintendent of Police Aditya Mishra said that the truck was seized and more than 1,800 litres of illicit liquor in about 200 cartons were recovered from it. A video of the truck’s inspection showed that the cartons had been kept in a hidden chamber, made by laying down an additional metal surface to project the vehicle as empty.",
-        "Special Director General (DG) of Police Upendra Jain, who has been deputed by Chief Minister Mohan Yadav to oversee the probe, told The Hindu that the driver has been identified as Gajendra Rawat alias Akku, a resident of Alirajpur district, and a search is on for him. He said that the vehicle had been provided by Kairam Singh Changod, also from Alirajpur, and the local police has taken him into custody and is being questioned.",
-        "Mr. Jain said that a case under BNS Sections 103(1), 109(1), 121(2), 3(5) and Section 34(2) Madhya Pradesh Excise Act, 1915, has been lodged.",
-        "The Special DG said that the investigation has been revealed that the illicit liquor was being taken from Harda to Gujarat.",
-        "Mr. Jain said that the police have identified several people involved in the illicit liquor network. They are Patendra Jaiswal, a resident of Badwani district who owns a government licensed liquor shop in Harda, and his business partners — Manish Jaiswal of Indore, Mohin Jaiswal who lives in Gujarat, and Rahul Jaiswal of Harda’s Timarni and his associate Vijay Rao, a resident of Indore.",
-        "The officer said that Mr. Rahul Jaiswal has been identified as a key accused, ran the network to supply illicit liquor to Gujarat. He and Mr. Rao have been taken into custody and are being questioned about their entire network.",
-        "Mr. Rahul Jaiswal has been identified as a Congress functionary, and is the party’s in-charge for the Khategaon Assembly seat."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The officer has been identified as Khategaon police station in-charge Dilip Puri. An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Jaiswal has been identified as a Congress functionary, and is the party’s in-charge for the Khategaon Assembly seat.",
-      "vocabList": [
-        "Inspector",
-        "District",
-        "Intercepted",
-        "Suspicion",
-        "Smuggling",
-        "Identified"
-      ],
-      "summary": "An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.",
-      "keyPoints": "• An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.<br>• An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.<br>• According to the police, the incident took place around 1.30 a.m. on Indore-Betul highway when Mr. Puri was leading one of the four teams formed based on intelligence inputs that large amounts of illicit liquor was being transported from Harda district’s Timarni to Gujarat."
     },
     {
       "category": "economy",
@@ -980,8 +974,140 @@
     "2026-11-03": {
       "dateIso": "2026-11-03",
       "dateDisplay": "03 Nov 2026",
-      "updatedAt": "03 Nov 2026, 03:10 AM IST",
+      "updatedAt": "03 Nov 2026, 03:48 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+          "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudharys-appeal-to-give-up-free-electricity-triggers-row/article71656585.ece",
+          "pubDate": "Tue, 03 Nov 2026 03:39:27 +0530",
+          "dateIso": "2026-11-03",
+          "dateDisplay": "03 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/7cib13/article71658504.ece/alternates/LANDSCAPE_1200/20261030029L.jpg",
+          "fullParagraphs": [
+            "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
+            "On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.",
+            "The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity.",
+            "“In Bihar, everyone, from the rich to the poor, is being provided with 125 units of free electricity. The State government is spending between ₹8,000 and ₹10,000 per family annually in the form of an electricity subsidy, which makes ₹23,000 crore on electricity subsidy annually,” Mr. Choudhary said while addressing a two-day Pataliputra National Youth Parliament 2.0 in Patna.",
+            "He further said, “I will appeal to those who are well-off, affluent, or taxpayers to voluntarily forgo the benefit of the 125 units of free electricity and contribute to the development of Bihar.”",
+            "The Chief Minister also cited the example of Uttar Pradesh to prove his point and asserted that the population of the State is nearly double of Bihar, despite that the expenditure on electricity subsidies there is around ₹6,000 crores.",
+            "Free electricity is given under Mukhyamantri Vidhyut Upbhokta Sahayata Yojna (MVUSY). Not only this, under Mukhya Mantri Mahila Rozgar Yojana, state government has transferred ₹10,000 each to the bank accounts of 1.81 crore women till February 2026, as per data available. This scheme too was launched before the assembly elections.",
+            "Bihar CM pointed out that by giving up free electricity, the funds saved can be used to strengthen the education system in Bihar. Mr. Choudhary also reminded the people of Bihar how the government is giving other benefits to the people and spending crores.",
+            "He mentioned that on the scheme, like ‘Student Credit Card’, students pursuing higher education, including in fields like medicine and engineering are provided with financial assistance of up to ₹4 lakh making it ₹18,000 crore annually.",
+            "Leader of the Opposition (LoP) in the Bihar Legislative Assembly, Tejashwi Yadav, has been continuously criticising the Samrat Choudhary-led National Democratic Alliance (NDA) government, claiming it is “on the verge of bankruptcy”. The RJD leader had alleged that the state is facing extreme financial loss due to scams, corruption, revenue loss, a widening fiscal deficit and mounting debt.",
+            "Mr. Yadav earlier said the treasury lacks the funds to pay employee salaries, student scholarships, pensions, and dues to farmers.",
+            "A resident of the Boring Canal Road area in Patna, Sumitesh Kumar (42), who enjoys the benefits of free electricity, said, “Only the middle class and salaried people are paying the tax. From our taxes, the government is implementing the schemes. Why should we give up the free benefits? Instead of appealing to the common man, the CM should first ask his cabinet colleagues to give up the facilities which they get as lawmakers and Ministers. Reduce the perks and dearness allowance (DA) they get in their salaries.”"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State. The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reduce the perks and dearness allowance (DA) they get in their salaries.”",
+          "vocabList": [
+            "Electricity",
+            "Consumers",
+            "Choudhary",
+            "Voluntarily",
+            "Benefits",
+            "November"
+          ],
+          "summary": "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
+          "keyPoints": "• Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br>• On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.<br>• The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
+          "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+          "pubDate": "Tue, 03 Nov 2026 03:32:36 +0530",
+          "dateIso": "2026-11-03",
+          "dateDisplay": "03 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
+          "fullParagraphs": [
+            "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+            "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
+            "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
+            "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
+            "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
+            "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
+            "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
+            "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
+            "The landfall process of the Severe Cyclonic Storm ‘Murasu’ commenced at 1 a.m. on Tuesday, November 3, near Ongole, with the observed maximum sustained wind speed of 110 kmph to 120 kmph at the landfall point.",
+            "As of 3 a.m., the inner spiral band in the northern sector has touched the land and the wall cloud region is also entering the land, according to the official bulletin from the India Meteorological Department.",
+            "The landfall process may go on for three hours. The Severe Cyclonic Storm is now located at about 30 km southeast of Ongole, 50 km northeast of Kavali, 70 km south-southwest of Bapatla, 100 km northeast of Nellore and 140 km southwest of Machilipatnam, all in Andhra Pradesh. The system may continue to move north-northwestward after landfall.",
+            "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
+          "vocabList": [
+            "Assistance",
+            "Citizens",
+            "Affected",
+            "Governance",
+            "Dedicated",
+            "Grievance"
+          ],
+          "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+          "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Severe Cyclone Murasu: Landfall commences near Ongole",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+          "pubDate": "Tue, 03 Nov 2026 03:07:25 +0530",
+          "dateIso": "2026-11-03",
+          "dateDisplay": "03 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/eiug6o/article71658349.ece/alternates/LANDSCAPE_1200/20261102613L.jpg",
+          "fullParagraphs": [
+            "The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.",
+            "The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph. The same wind speed is likely to prevail till morning along and off the coast near the landfall point.",
+            "The IMD has also warned of a storm surge, which may inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected over Bapatla and also over Krishna and Prakasam districts.",
+            "The IMD has also said there would be heavy spells of rainfall in South Coastal A.P. during the next 12 hours.",
+            "Ongole city has recorded light rain of 18 mm as of 1 a.m., while Kothapatnam of Prakasam district has recorded 74.7 mm as of 1 a.m. The rainfall activity is picking up in the nearby coastal district of Krishna, where many places recorded moderate rains between 11.30 p.m. and 1 a.m. on November 2-3.",
+            "For assistance or to report any problems or emergencies at any time, people in Prakasam or any other affected district can contact Mana Mitra at 9552300009."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For assistance or to report any problems or emergencies at any time, people in Prakasam or any other affected district can contact Mana Mitra at 9552300009.",
+          "vocabList": [
+            "Landfall",
+            "Cyclonic",
+            "Commenced",
+            "November",
+            "Northern",
+            "Entering"
+          ],
+          "summary": "The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.",
+          "keyPoints": "• The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m. release.<br>• The landfall is happening close to Ongole, with gale-force winds of 100-110 kmph, gusting to 120 kmph. The same wind speed is likely to prevail till morning along and off the coast near the landfall point.<br>• The IMD has also warned of a storm surge, which may inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected over Bapatla and also over Krishna and Prakasam districts."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Cyclonic storm Murasu to make landfall close to Ongole",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+          "pubDate": "Tue, 03 Nov 2026 02:42:07 +0530",
+          "dateIso": "2026-11-03",
+          "dateDisplay": "03 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/cuujeu/article71655234.ece/alternates/LANDSCAPE_1200/MnsnOctNov1pm.jpg",
+          "fullParagraphs": [
+            "As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.",
+            "According to information from the A.P. State Disaster Management Authority (APSDMA), the landfall point is likely to be Ongole and in this connection, two teams each have been stationed in the districts of Krishna, Bapatla, Guntur, Nellore and Prakasam, while one team each has been deployed in Markapuram, Palnadu and Tirupati districts. Additional teams are also available for deployment if required.",
+            "Murasu is the second cyclonic storm to hit A.P. in less than a week. According to the 9 p.m. bulletin from the India Meteorological Department (IMD), the cyclonic storm centred over Southwest and adjoining Westcentral Bay of Bengal at 5.30 p.m. It was located about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam.",
+            "The IMD said the system may intensify further into a Severe Cyclonic Storm over Westcentral Bay of Bengal in the early hours of November 2. The landfall will be close to the Ongole coast, with a wind speed of 100 to 120 kmph, in the early hours of November 3.",
+            "Isolated extremely heavy rainfall is expected at one or two locations in the districts of Krishna, Guntur, Bapatla, Prakasam, Markapuram and Nellore on Monday. NTR and Guntur districts have announced holidays for all government and private schools, junior colleges and degree colleges on Monday (November 2, 2026).",
+            "People can report any cyclone-related problems to officials through the Mana Mitra WhatsApp Governance service at 95523 00009. For emergency assistance and information, they can also contact the Disaster Management Authority’s toll-free numbers 112, 1070 and 18004250101"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> As the cyclonic storm, Cyclone Murasu , moves towards the A.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone. According to information from the A.P.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For emergency assistance and information, they can also contact the Disaster Management Authority’s toll-free numbers 112, 1070 and 18004250101",
+          "vocabList": [
+            "Cyclonic",
+            "Deployed",
+            "Disaster",
+            "Response",
+            "Districts",
+            "Affected"
+          ],
+          "summary": "As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.",
+          "keyPoints": "• As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone.<br>• According to information from the A.P. State Disaster Management Authority (APSDMA), the landfall point is likely to be Ongole and in this connection, two teams each have been stationed in the districts of Krishna, Bapatla, Guntur, Nellore and Prakasam, while one team each has been deployed in Markapuram, Palnadu and Tirupati districts. Additional teams are also available for deployment if required.<br>• Murasu is the second cyclonic storm to hit A.P. in less than a week. According to the 9 p.m. bulletin from the India Meteorological Department (IMD), the cyclonic storm centred over Southwest and adjoining Westcentral Bay of Bengal at 5.30 p.m. It was located about 420 km east-southeast of Chennai, 490 km east-southeast of Nellore, 500 km southeast of Machilipatnam, 510 east-southeast of Kavali, 530 km southeast of Ongole and 560 km south-southeast of Vishakhapatnam."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1018,42 +1144,6 @@
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-          "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-          "pubDate": "Tue, 03 Nov 2026 02:33:57 +0530",
-          "dateIso": "2026-11-03",
-          "dateDisplay": "03 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
-          "fullParagraphs": [
-            "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-            "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
-            "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
-            "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
-            "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
-            "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
-            "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
-            "“The landfall process commenced at 0100 hours IST on November 3. The forward sector of the wall cloud is entering the coast, while the wall cloud region is very close to the coast,” the IMD’s official press release said.",
-            "Under the influence of the cyclone, heavy rain struck several places in the southern State.",
-            "The cyclone was centred over the west-central Bay of Bengal, close to the South Andhra Pradesh coast, about 40 km southeast of Ongole, 60 km northeast of Kavali and 70 km south of Bapatla, as of 0130 hours.",
-            "Chief Minister N. Chandrababu Naidu is likely to hold a teleconference with the Collectors of all the Cyclone Murasu-impacted districts at around 3.30 A.M.",
-            "Cyclone Murasu’s path passes near Chinaganjam in Bapatla district, located between Ongole in Prakasam district and Chirala in Bapatla district."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Cyclone Murasu’s path passes near Chinaganjam in Bapatla district, located between Ongole in Prakasam district and Chirala in Bapatla district.",
-          "vocabList": [
-            "Assistance",
-            "Citizens",
-            "Affected",
-            "Governance",
-            "Dedicated",
-            "Grievance"
-          ],
-          "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-          "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
           "title": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
           "link": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
           "pubDate": "Tue, 03 Nov 2026 02:20:15 +0530",
@@ -1086,108 +1176,6 @@
           ],
           "summary": "Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leading those trying to create “anarchy” in the country and acting as a “toolkit” for foreign forces attempting to destabilise India.",
           "keyPoints": "• Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leading those trying to create “anarchy” in the country and acting as a “toolkit” for foreign forces attempting to destabilise India.<br>• A day after the Opposition INDIA bloc, led by Mr. Gandhi’s Congress party, held a gathering at Delhi’s Ramlila Grounds over allegations of ‘vote theft’ and the Special Intensive Revision (SIR), Mr. Nabin held a procession in Kolkata titled ‘Save Democracy, End Anarchy’. The march which was joined by thousands of supporters was a show of strength for the saffron party.<br>• “Rahul Gandhi is acting as a toolkit of those forces which engineered the unrest in Nepal and other neighbouring countries. If you think you will destabilise India, if you think you will work as a toolkit for those who are destabilising Europe, those who are destabilising Bangladesh or Nepal, then know that Indian democracy is very strong ,” Mr. Nabin alleged."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
-          "link": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
-          "pubDate": "Tue, 03 Nov 2026 01:48:19 +0530",
-          "dateIso": "2026-11-03",
-          "dateDisplay": "03 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/60f6y7/article71657211.ece/alternates/LANDSCAPE_1200/DSC3245.jpg",
-          "fullParagraphs": [
-            "Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.",
-            "Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr. Shah claimed that of the nearly 13 crore names deleted from voter lists during the SIR process, 4.25 crore voters were registered in two different locations, three crore were deceased, and another one crore were duplicate entries. He questioned if such names should continue to remain on the electoral rolls. “Do we need to remove infiltrators from the country’s voter lists or not?” he asked.",
-            "The Home Minister accused Congress leader Rahul Gandhi of defending the alleged three crore ‘unaccounted’ voters. “No matter how hard Rahul Gandhi or Chief Minister A. Revanth Reddy may try, the BJP is committed to driving every infiltrator out of the country,” he said.",
-            "Mr. Shah alleged that the Congress and other Opposition parties were opposing the SIR exercise to protect ‘infiltrators from Bangladesh’, whom he described as their ‘vote bank’ and maintained that only genuine Indian citizens should be included in electoral rolls.",
-            "Ridiculing Sunday’s joint rally of Opposition parties in New Delhi, Mr. Shah described it as a ‘Save Infiltrators’ rally and urged BJP workers to counter what he termed ‘fear-mongering’ by the former on the SIR exercise through a door-to-door campaign.",
-            "The Congress was determined to halt SIR while the BJP would continue to support it, he said. Mr. Shah said the Centre was prepared to convene a special session of Parliament to discuss the issue and challenged Mr. Rahul Gandhi to participate in a debate. He said the Congress leader was not allowing Parliament to function. Taking a swipe at Mr. Gandhi, he remarked that while he might become Prime Minister in a ‘mock Parliament’, he would never attain the position in reality.",
-            "Defending the BJP’s electoral record, the Union Minister noted that Prime Minister Narendra Modi had won the 2014, 2019 and 2024 Lok Sabha elections without any SIR exercise. He also rejected allegations about Electronic Voting Machines (EVMs), asking how the Congress had won elections in Telangana, Kerala and Himachal Pradesh if the machines were flawed.",
-            "Turning his attention to Telangana, Mr. Shah alleged that the Congress government had become an ‘ATM’ for the party through the so-called ‘RR tax’. He accused the State government of failing to implement its six election guarantees and predicted that voters would reject the party in the next election.",
-            "Earlier, Mr. Shah led a foot march from the Babu Jagjivan Ram statue near Nizam College in Fateh Maidan to the meeting venue. Flanked by senior Telangana BJP leaders, including State president N. Ramchander Rao, Union Minister G. Kishan Reddy and Union Minister of State for Home Bandi Sanjay Kumar, he marched amid tight security and chants of ‘Jai Shri Ram’ and ‘Bharat Mata Ki Jai’. He had arrived by a special aircraft from Delhi and was received by the party leaders at Begumpet airport. From there he offered prayers at the Bhagyalakshmi temple at Charminar before the programme.",
-            "Telangana / Special Intensive Revision of electoral rolls / Election Commission of India"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He asserted that all such infiltrators would be expelled from the country. Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana / Special Intensive Revision of electoral rolls / Election Commission of India",
-          "vocabList": [
-            "Election",
-            "Commission",
-            "Intensive",
-            "Revision",
-            "Exercise",
-            "Identified"
-          ],
-          "summary": "Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.",
-          "keyPoints": "• Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls. He asserted that all such infiltrators would be expelled from the country.<br>• Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr. Shah claimed that of the nearly 13 crore names deleted from voter lists during the SIR process, 4.25 crore voters were registered in two different locations, three crore were deceased, and another one crore were duplicate entries. He questioned if such names should continue to remain on the electoral rolls. “Do we need to remove infiltrators from the country’s voter lists or not?” he asked.<br>• The Home Minister accused Congress leader Rahul Gandhi of defending the alleged three crore ‘unaccounted’ voters. “No matter how hard Rahul Gandhi or Chief Minister A. Revanth Reddy may try, the BJP is committed to driving every infiltrator out of the country,” he said."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Eight labourers electrocuted after machine touches power line",
-          "link": "https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece",
-          "pubDate": "Tue, 03 Nov 2026 01:44:47 +0530",
-          "dateIso": "2026-11-03",
-          "dateDisplay": "03 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/f21vyi/article71658357.ece/alternates/LANDSCAPE_1200/20261102202L.jpg",
-          "fullParagraphs": [
-            "Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.",
-            "Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area. Work on a narrow road connecting Chhapoli to Kadamkund was underway when a hydraulic jack made contact with the power line.",
-            "A massive electric current spread through the equipment instantly, striking labourers at the site. Five workers died on the spot, while three others succumbed during treatment. All the deceased were residents of Chhapoli village.",
-            "Villagers rushed to the spot and helped in the rescue efforts, as those injured were shifted to the Community Health Centre at Udaipurwati. The incident triggered anger among villagers, who staged a demonstration, alleging negligence by the administration and the power discom.",
-            "The protesters said power lines and poles were touching trees and claimed that no staff member was available at the Grid Sub-Station when they called to have the power supply disconnected.",
-            "Prime Minister Narendra Modi has expressed his grief and announced ex-gratia assistance of ₹2 lakh each from the PM’s National Relief Fund to the next of kin of each deceased person. The injured will receive ₹50,000 each.",
-            "Chief Minister Bhajan Lal Sharma has ordered a high-level inquiry into the accident and instructed officials to provide all possible relief to the affected families, besides seeking a factual report from the District Collector. Minister of State for Urban Development Jhabar Singh Kharra has been deputed to visit the accident site.",
-            "Veteran Congress leader and former CM Ashok Gehlot said a thorough investigation was essential to determine how the mishap had occurred and fix accountability for the deaths."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The gravel mixing machine was being used to build a road with public participation. Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Veteran Congress leader and former CM Ashok Gehlot said a thorough investigation was essential to determine how the mishap had occurred and fix accountability for the deaths.",
-          "vocabList": [
-            "Labourers",
-            "Electrocuted",
-            "Construction",
-            "Overhead",
-            "Chhapoli",
-            "Rajasthan"
-          ],
-          "summary": "Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.",
-          "keyPoints": "• Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026). The gravel mixing machine was being used to build a road with public participation.<br>• Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area. Work on a narrow road connecting Chhapoli to Kadamkund was underway when a hydraulic jack made contact with the power line.<br>• A massive electric current spread through the equipment instantly, striking labourers at the site. Five workers died on the spot, while three others succumbed during treatment. All the deceased were residents of Chhapoli village."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered",
-          "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
-          "pubDate": "Tue, 03 Nov 2026 01:37:49 +0530",
-          "dateIso": "2026-11-03",
-          "dateDisplay": "03 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/l8md0j/article71655638.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-02%20at%2012.13.50%20PM.jpeg",
-          "fullParagraphs": [
-            "An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.",
-            "An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.",
-            "According to the police, the incident took place around 1.30 a.m. on Indore-Betul highway when Mr. Puri was leading one of the four teams formed based on intelligence inputs that large amounts of illicit liquor was being transported from Harda district’s Timarni to Gujarat.",
-            "During the checking, a parked truck was spotted near Sandalpur in Dewas district and Mr. Puri had asked the driver to step down for a search.",
-            "“The driver, however, with the intent of killing Dilip Puri, ran him over with the truck and fled the scene. Mr. Puri died during treatment. The driver also tried to run over constable Sohan Jaat, who has suffered injuries,” an official police statement said.",
-            "The driver abandoned the truck after some distance and fled the scene. Dewas Superintendent of Police Aditya Mishra said that the truck was seized and more than 1,800 litres of illicit liquor in about 200 cartons were recovered from it. A video of the truck’s inspection showed that the cartons had been kept in a hidden chamber, made by laying down an additional metal surface to project the vehicle as empty.",
-            "Special Director General (DG) of Police Upendra Jain, who has been deputed by Chief Minister Mohan Yadav to oversee the probe, told The Hindu that the driver has been identified as Gajendra Rawat alias Akku, a resident of Alirajpur district, and a search is on for him. He said that the vehicle had been provided by Kairam Singh Changod, also from Alirajpur, and the local police has taken him into custody and is being questioned.",
-            "Mr. Jain said that a case under BNS Sections 103(1), 109(1), 121(2), 3(5) and Section 34(2) Madhya Pradesh Excise Act, 1915, has been lodged.",
-            "The Special DG said that the investigation has been revealed that the illicit liquor was being taken from Harda to Gujarat.",
-            "Mr. Jain said that the police have identified several people involved in the illicit liquor network. They are Patendra Jaiswal, a resident of Badwani district who owns a government licensed liquor shop in Harda, and his business partners — Manish Jaiswal of Indore, Mohin Jaiswal who lives in Gujarat, and Rahul Jaiswal of Harda’s Timarni and his associate Vijay Rao, a resident of Indore.",
-            "The officer said that Mr. Rahul Jaiswal has been identified as a key accused, ran the network to supply illicit liquor to Gujarat. He and Mr. Rao have been taken into custody and are being questioned about their entire network.",
-            "Mr. Rahul Jaiswal has been identified as a Congress functionary, and is the party’s in-charge for the Khategaon Assembly seat."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The officer has been identified as Khategaon police station in-charge Dilip Puri. An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Jaiswal has been identified as a Congress functionary, and is the party’s in-charge for the Khategaon Assembly seat.",
-          "vocabList": [
-            "Inspector",
-            "District",
-            "Intercepted",
-            "Suspicion",
-            "Smuggling",
-            "Identified"
-          ],
-          "summary": "An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.",
-          "keyPoints": "• An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday. The officer has been identified as Khategaon police station in-charge Dilip Puri.<br>• An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.<br>• According to the police, the incident took place around 1.30 a.m. on Indore-Betul highway when Mr. Puri was leading one of the four teams formed based on intelligence inputs that large amounts of illicit liquor was being transported from Harda district’s Timarni to Gujarat."
         },
         {
           "category": "economy",
@@ -3859,6 +3847,118 @@
       "id": "gk_03 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "03 Nov 2026",
+      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State. The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reduce the perks and dearness allowance (DA) they get in their salaries.”"
+    },
+    {
+      "id": "gk_03 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "03 Nov 2026",
+      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
+      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
+      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
+      "optsEn": [
+        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
+    },
+    {
+      "id": "gk_03 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "03 Nov 2026",
+      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner s...\"?",
+      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner s...\"?",
+      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m. on Tuesday (November 3, 2026), with the inner s...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Severe Cyclone Murasu: Landfall commences near Ongole"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Severe Cyclone Murasu: Landfall commences near Ongole"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Severe Cyclone Murasu: Landfall commences near Ongole"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> The landfall process of the Severe Cyclonic Storm ‘Murasu’ has commenced at 1 a.m.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Tuesday (November 3, 2026), with the inner spiral band in the northern sector entering South Coastal Andhra Pradesh. The wall cloud region is very close to the coast, the IMD said in its 2.10 a.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For assistance or to report any problems or emergencies at any time, people in Prakasam or any other affected district can contact Mana Mitra at 9552300009."
+    },
+    {
+      "id": "gk_03 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "03 Nov 2026",
+      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force ...\"?",
+      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force ...\"?",
+      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"As the cyclonic storm, Cyclone Murasu , moves towards the A.P. coast, the State has deployed six National Disaster Response Force ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Cyclonic storm Murasu to make landfall close to Ongole",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Cyclonic storm Murasu to make landfall close to Ongole",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Cyclonic storm Murasu to make landfall close to Ongole",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> As the cyclonic storm, Cyclone Murasu , moves towards the A.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> coast, the State has deployed six National Disaster Response Force (NDRF) teams and seven State Disaster Response Force (SDRF) teams in districts likely to be affected by the cyclone. According to information from the A.P.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> For emergency assistance and information, they can also contact the Disaster Management Authority’s toll-free numbers 112, 1070 and 18004250101"
+    },
+    {
+      "id": "gk_03 Nov 2026_5",
+      "cat": "🏛️ National & Polity",
+      "date": "03 Nov 2026",
       "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Maharashtra government on Monday (November 1, 2026) announced measures to address drought and flood-related agricultural distr...\"?",
       "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Maharashtra government on Monday (November 1, 2026) announced measures to address drought and flood-related agricultural distr...\"?",
       "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Maharashtra government on Monday (November 1, 2026) announced measures to address drought and flood-related agricultural distr...\"?",
@@ -3884,144 +3984,32 @@
       "explanation": "<strong>1. Core Context & Background:</strong> The Maharashtra government on Monday (November 1, 2026) announced measures to address drought and flood-related agricultural distress across the State, constituting a high-level committee headed by the Chief Minister to oversee soil and water conservation projects in drought-affected areas and approving ₹291.91 crore in financial assistance for farmers affected by heavy rainfall and flooding between June and August 2026.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Soil and Water Conservation Minister Sanjay Rathod said the committee would monitor conservation projects undertaken through non-governmental organisations, including Paani Foundation and Chandra Foundation, as part of the state’s drought mitigation efforts. The government has also decided to revive Paani Foundation’s Water Cup competition to encourage community participation in water conservation.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government has also directed district collectors to ensure that banks do not divert disaster relief payments towards loan repayments or other recoveries."
     },
     {
-      "id": "gk_03 Nov 2026_2",
-      "cat": "🏛️ National & Polity",
-      "date": "03 Nov 2026",
-      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
-      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
-      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Cyclone Murasu’s path passes near Chinaganjam in Bapatla district, located between Ongole in Prakasam district and Chirala in Bapatla district."
-    },
-    {
-      "id": "gk_03 Nov 2026_3",
+      "id": "gk_03 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "03 Nov 2026",
       "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leadi...\"?",
       "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leadi...\"?",
       "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leadi...\"?",
       "optsEn": [
-        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin"
       ],
       "optsHi": [
-        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin"
       ],
       "optsMr": [
-        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin"
       ],
-      "ans": 0,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> Bharatiya Janata Party (BJP) president Nitin Nabin on Monday (November 2, 2026) accused Leader of Opposition Rahul Gandhi of leading those trying to create “anarchy” in the country and acting as a “toolkit” for foreign forces attempting to destabilise India.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A day after the Opposition INDIA bloc, led by Mr. Gandhi’s Congress party, held a gathering at Delhi’s Ramlila Grounds over allegations of ‘vote theft’ and the Special Intensive Revision (SIR), Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The first BJP Chief Minister of West Bengal warned Opposition parties that they would face a decisive political response in the forthcoming Kolkata and Howrah municipal corporation elections."
-    },
-    {
-      "id": "gk_03 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "03 Nov 2026",
-      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exe...\"?",
-      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exe...\"?",
-      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exe...\"?",
-      "optsEn": [
-        "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Union Home Minister Amit Shah on Monday alleged that the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise had identified around three crore ‘unaccounted voters’, whom he described as ‘illegal infiltrators from Bangladesh’, among the 13 crore names removed from electoral rolls.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He asserted that all such infiltrators would be expelled from the country. Addressing a public meeting at MJ Market in Hyderabad’s Old City after a ‘Save democracy-Remove anarchy’ foot march , Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Telangana / Special Intensive Revision of electoral rolls / Election Commission of India"
-    },
-    {
-      "id": "gk_03 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "03 Nov 2026",
-      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 K...\"?",
-      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 K...\"?",
-      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 K...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Eight labourers electrocuted after machine touches power line",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Eight labourers electrocuted after machine touches power line",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Eight labourers electrocuted after machine touches power line",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Eight labourers were electrocuted and five others injured when a road construction machine came into contact with an overhead 11 KV high-tension power line at Chhapoli village in Rajasthan’s Jhunjhunu district on Monday (November 2, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The gravel mixing machine was being used to build a road with public participation. Chhapoli village is near the Sikar-Neem Ka Thana State Highway and falls under the Udaipurwati police station area.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Veteran Congress leader and former CM Ashok Gehlot said a thorough investigation was essential to determine how the mishap had occurred and fix accountability for the deaths."
-    },
-    {
-      "id": "gk_03 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "03 Nov 2026",
-      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion o...\"?",
-      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion o...\"?",
-      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion o...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> An inspector of Madhya Pradesh Police was on Monday mowed down in Dewas district by a truck that he had intercepted on suspicion of smuggling illegal liquor, police said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The officer has been identified as Khategaon police station in-charge Dilip Puri. An investigation launched following the incident has uncovered an illicit trade network spanning in multiple districts of Madhya Pradesh that supplies liquor to Gujarat.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Rahul Jaiswal has been identified as a Congress functionary, and is the party’s in-charge for the Khategaon Assembly seat."
     },
     {
       "id": "gk_03 Nov 2026_7",
