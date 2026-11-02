@@ -1,12 +1,12 @@
 {
-  "updatedAt": "03 Nov 2026, 03:48 AM IST",
+  "updatedAt": "03 Nov 2026, 04:42 AM IST",
   "currentDateIso": "2026-11-03",
   "currentDateDisplay": "03 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-03",
       "dateDisplay": "03 Nov 2026",
-      "updatedAt": "03 Nov 2026, 03:48 AM IST",
+      "updatedAt": "03 Nov 2026, 04:42 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,45 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (03 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 03 Nov 2026, 03:48 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 03 Nov 2026, 04:42 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Cyclone Murasu Live updates: Landfall continues in A.P.; CM Naidu likely to hold teleconference with District Collectors",
+      "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+      "pubDate": "Tue, 03 Nov 2026 04:01:38 +0530",
+      "dateIso": "2026-11-03",
+      "dateDisplay": "03 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
+      "fullParagraphs": [
+        "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+        "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
+        "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
+        "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
+        "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
+        "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
+        "Karnataka CM D.K. Shivakumar said a team from the State is on their way to Andhra Pradesh to support relief and restoration efforts in the cyclone-affected areas.",
+        "“Karnataka stands with the people of Andhra Pradesh, and we will extend every possible support during this difficult time,” he added.",
+        "A vehicle was stranded at Chintala village between Ongole and Kothapatnam in Prakasam district, as a tree fell due to heavy winds coupled with rain during Cyclone Murasu.",
+        "The district administration deployed a special team for their rescue and to remove the tree.",
+        "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
+        "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
+      "vocabList": [
+        "Assistance",
+        "Citizens",
+        "Affected",
+        "Governance",
+        "Dedicated",
+        "Grievance"
+      ],
+      "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+      "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -61,42 +97,6 @@
       ],
       "summary": "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
       "keyPoints": "• Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br>• On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.<br>• The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
-      "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-      "pubDate": "Tue, 03 Nov 2026 03:32:36 +0530",
-      "dateIso": "2026-11-03",
-      "dateDisplay": "03 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
-      "fullParagraphs": [
-        "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-        "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
-        "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
-        "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
-        "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
-        "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
-        "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
-        "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
-        "The landfall process of the Severe Cyclonic Storm ‘Murasu’ commenced at 1 a.m. on Tuesday, November 3, near Ongole, with the observed maximum sustained wind speed of 110 kmph to 120 kmph at the landfall point.",
-        "As of 3 a.m., the inner spiral band in the northern sector has touched the land and the wall cloud region is also entering the land, according to the official bulletin from the India Meteorological Department.",
-        "The landfall process may go on for three hours. The Severe Cyclonic Storm is now located at about 30 km southeast of Ongole, 50 km northeast of Kavali, 70 km south-southwest of Bapatla, 100 km northeast of Nellore and 140 km southwest of Machilipatnam, all in Andhra Pradesh. The system may continue to move north-northwestward after landfall.",
-        "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
-      "vocabList": [
-        "Assistance",
-        "Citizens",
-        "Affected",
-        "Governance",
-        "Dedicated",
-        "Grievance"
-      ],
-      "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-      "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
     },
     {
       "category": "national",
@@ -974,8 +974,44 @@
     "2026-11-03": {
       "dateIso": "2026-11-03",
       "dateDisplay": "03 Nov 2026",
-      "updatedAt": "03 Nov 2026, 03:48 AM IST",
+      "updatedAt": "03 Nov 2026, 04:42 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Cyclone Murasu Live updates: Landfall continues in A.P.; CM Naidu likely to hold teleconference with District Collectors",
+          "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+          "pubDate": "Tue, 03 Nov 2026 04:01:38 +0530",
+          "dateIso": "2026-11-03",
+          "dateDisplay": "03 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
+          "fullParagraphs": [
+            "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+            "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
+            "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
+            "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
+            "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
+            "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
+            "Karnataka CM D.K. Shivakumar said a team from the State is on their way to Andhra Pradesh to support relief and restoration efforts in the cyclone-affected areas.",
+            "“Karnataka stands with the people of Andhra Pradesh, and we will extend every possible support during this difficult time,” he added.",
+            "A vehicle was stranded at Chintala village between Ongole and Kothapatnam in Prakasam district, as a tree fell due to heavy winds coupled with rain during Cyclone Murasu.",
+            "The district administration deployed a special team for their rescue and to remove the tree.",
+            "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
+            "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
+          "vocabList": [
+            "Assistance",
+            "Citizens",
+            "Affected",
+            "Governance",
+            "Dedicated",
+            "Grievance"
+          ],
+          "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
+          "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1011,42 +1047,6 @@
           ],
           "summary": "Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.",
           "keyPoints": "• Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br>• On Sunday (November 2, 2026), Mr. Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State.<br>• The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end. Ahead of the assembly election in Bihar, the then Chief Minister Nitish Kumar on July 17, 2025 had announced to give 125 free units of electricity."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coastal Andhra Pradesh",
-          "link": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-          "pubDate": "Tue, 03 Nov 2026 03:32:36 +0530",
-          "dateIso": "2026-11-03",
-          "dateDisplay": "03 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/1aa06f/article71658371.ece/alternates/LANDSCAPE_1200/99102a51-56b3-47d6-91a5-29841984ea5c.jpg",
-          "fullParagraphs": [
-            "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-            "Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.",
-            "The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.",
-            "According to officials, citizens can report cyclone-related grievances by following a simple step-by-step process: Send a “Hi” to WhatsApp number 9552300009. Select the “Services” option from the menu. Choose “Murasu Cyclone Issues”. Click on “Report Issue” and confirm. - ANI",
-            "P.L.N. Murthy, Head of the Cyclone Warning Centre, Visakhapatnam, said the cyclone is expected to make landfall between Nellore and Narsapur, south of Ongole, between 11.30 p.m. on November 2 and 4 a.m. on November 3, 2026. The wind speed during landfall is likely to be 100-110 kmph, with gusts reaching 120 kmph. A storm surge of about 1.5-2 metres above the astronomical tide is very likely to inundate low-lying areas of South Coastal Andhra Pradesh. The maximum peak surge is expected in Bapatla and parts of Krishna and Prakasam districts.",
-            "He also warned that the storm surge could inundate low-lying areas even before landfall, as it is expected to begin three to four hours ahead of the cyclone’s landfall.",
-            "B. Venkata Ramana, District Revenue Officer of Prakasam, requested that people remain at home until the Cyclone Murasu impact concludes.",
-            "He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well.",
-            "The landfall process of the Severe Cyclonic Storm ‘Murasu’ commenced at 1 a.m. on Tuesday, November 3, near Ongole, with the observed maximum sustained wind speed of 110 kmph to 120 kmph at the landfall point.",
-            "As of 3 a.m., the inner spiral band in the northern sector has touched the land and the wall cloud region is also entering the land, according to the official bulletin from the India Meteorological Department.",
-            "The landfall process may go on for three hours. The Severe Cyclonic Storm is now located at about 30 km southeast of Ongole, 50 km northeast of Kavali, 70 km south-southwest of Bapatla, 100 km northeast of Nellore and 140 km southwest of Machilipatnam, all in Andhra Pradesh. The system may continue to move north-northwestward after landfall.",
-            "Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph.",
-          "vocabList": [
-            "Assistance",
-            "Citizens",
-            "Affected",
-            "Governance",
-            "Dedicated",
-            "Grievance"
-          ],
-          "summary": "In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.",
-          "keyPoints": "• In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br>• Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009.<br>• The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations."
         },
         {
           "category": "national",
@@ -3847,57 +3847,57 @@
       "id": "gk_03 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "03 Nov 2026",
-      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
-      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
-      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State. The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reduce the perks and dearness allowance (DA) they get in their salaries.”"
-    },
-    {
-      "id": "gk_03 Nov 2026_2",
-      "cat": "🏛️ National & Polity",
-      "date": "03 Nov 2026",
       "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
       "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
       "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governa...\"?",
       "optsEn": [
-        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Cyclone Murasu Live updates: Landfall continues in A.P.; CM Naidu likely to hold t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Cyclone Murasu Live updates: Landfall continues in A.P.; CM Naidu likely to hold t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Cyclone Murasu Live updates: Landfall to go on for next 2-3 hours over south coast...",
+        "Cyclone Murasu Live updates: Landfall continues in A.P.; CM Naidu likely to hold t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Landfall due to Cyclone Murasu was accompanied by gale winds reaching speeds of up to 110 kmph and gusting up to 120 kmph."
+      "explanation": "<strong>1. Core Context & Background:</strong> In an effort to provide swift assistance to citizens affected by Cyclone Murasu, the Andhra Pradesh government’s Real Time Governance Society (RTGS) has rolled out a dedicated grievance reporting mechanism through its ‘Mana Mitra’ WhatsApp Governance platform, an official release said on Monday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Residents in cyclone-hit regions can report emergencies and civic disruptions—such as power outages, uprooted trees, collapsed walls, waterlogging, and other distress situations—by sending a message to the dedicated WhatsApp number 9552300009. The facility is designed to establish direct communication between citizens and administration, enabling prompt on-ground intervention and effective coordination during disaster management operations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He told The Hindu at the district Command Control Centre in Ongole that very heavy winds and rains are progressing in the district and will continue in the morning as well."
+    },
+    {
+      "id": "gk_03 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "03 Nov 2026",
+      "qEn": "[03 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "qHi": "[03 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "qMr": "[03 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Mini...\"?",
+      "optsEn": [
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Threats looming large over 125 units of free electricity given by Bihar government to the consumers after the appeal by Chief Minister Samrat Choudhary to voluntarily give up the free benefits.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Choudhary appealed to the financially well-off and taxpayers in the State to give up free electricity for the development of the State. The Chief Minister’s remarks has initiated that in days to come, the free electricity benefits may come to an end.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reduce the perks and dearness allowance (DA) they get in their salaries.”"
     },
     {
       "id": "gk_03 Nov 2026_3",
