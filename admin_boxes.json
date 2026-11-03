@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03 11:50:47",
+  "updated_at": "2026-11-03 13:00:32",
   "window_days": 15,
   "category_counts": {
     "latest_jobs": 125,
     "results": 28,
     "admit_cards": 20,
-    "answer_keys": 20,
-    "syllabus": 3,
+    "answer_keys": 21,
+    "syllabus": 4,
     "admissions": 1
   },
   "trending_top_6": [
