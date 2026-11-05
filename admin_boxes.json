@@ -1,1 +1,86 @@
-[]
+{
+  "project_repo": "Project-4.O-pie-pie",
+  "updated_at": "2026-11-06 01:23:51 AM IST",
+  "window_days": 15,
+  "pruned_posts_last_run": 0,
+  "unseen_auto_published_count": 157,
+  "category_counts": {
+    "latest_jobs": 38,
+    "results": 42,
+    "admit_cards": 43,
+    "answer_keys": 14,
+    "syllabus": 10,
+    "admissions": 10
+  },
+  "trending_top_6": [
+    {
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "e3c33fcd0c4f",
+      "title": "WBSSC Group C and D Result 2026 Out",
+      "sub": "Result",
+      "url": "https://img2.freejobalert.com/news/2026/11/526418-6aec0fa8d0cce52238702.pdf",
+      "details": "WBSSC has published separate preliminary interview lists for Clerk and Group D recruitment. The lists contain regional and category-wise candidate information, including merit details and applicable cut-off marks.",
+      "rushScore": 116,
+      "active": true
+    },
+    {
+      "id": "79e7b4e22681",
+      "title": "RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts",
+      "sub": "Admit Card",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 115,
+      "active": true
+    },
+    {
+      "id": "93d2c132fe8d",
+      "title": "TNPSC 6,574 Group IV Services Online Form 2026",
+      "sub": "Date Extended",
+      "url": "https://tnpsc.gov.in/Document/english/Addendum%20%2011B.pdf",
+      "details": "The Tamil Nadu Public Service Commission (TNPSC) has released the TNPSC Group 4 Notification 2026 for the Combined Civil Services Examination-IV (Group IV Services). The detailed notification was issued on 06 October 2026 under Advertisement No. 747 and Notification No. 11/2026 for 6,574 vacancies across 46 post entries .",
+      "rushScore": 113,
+      "active": true
+    },
+    {
+      "id": "c3e7b14b18d5",
+      "title": "RRB Station Master Recruitment 2026 Out, Apply Online Starts For 1265 Posts",
+      "sub": "Syllabus",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Station Master Recruitment 2026 Out, Apply Online Starts For 1265 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 110,
+      "active": true
+    },
+    {
+      "id": "4e1e27f5daef",
+      "title": "UPSSSC JE Online Form (1156 Posts)",
+      "sub": "Latest Jobs",
+      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/ViewPdf-2.pdf",
+      "details": "Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 108,
+      "active": true
+    }
+  ],
+  "standard_boxes": [
+    "Latest Jobs",
+    "Result",
+    "Admit Card",
+    "Answer Key",
+    "Syllabus",
+    "Admission"
+  ],
+  "social_links": {
+    "whatsapp": "",
+    "telegram": "",
+    "instagram": "",
+    "facebook": ""
+  },
+  "new_custom_boxes": []
+}
