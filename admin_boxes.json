@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-05 04:31:10 PM IST",
+  "updated_at": "2026-11-05 04:32:35 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 17,
-  "unseen_auto_published_count": 315,
+  "pruned_posts_last_run": 9,
+  "unseen_auto_published_count": 362,
   "category_counts": {
-    "latest_jobs": 121,
-    "results": 59,
-    "admit_cards": 60,
-    "answer_keys": 36,
-    "syllabus": 19,
-    "admissions": 20
+    "latest_jobs": 127,
+    "results": 69,
+    "admit_cards": 65,
+    "answer_keys": 45,
+    "syllabus": 25,
+    "admissions": 31
   },
   "trending_top_6": [
     {
@@ -41,6 +41,15 @@
       "active": true
     },
     {
+      "id": "ea4aec96eddf",
+      "title": "RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here",
+      "sub": "Latest Jobs",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "98caf671d10b",
       "title": "RRB NTPC Graduate Level Online Form 2026 (3548 Posts)",
       "sub": "Closing Soon",
@@ -56,15 +65,6 @@
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 117,
-      "active": true
-    },
-    {
-      "id": "81a96ee570e3",
-      "title": "SSC CPO SI 2025 PET Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
-      "details": "Name Of Post : SSC Sub Inspector SI in Delhi Police, Central Armed Police Forces Recruitment 2025 Paper I Marks, Final Answer Key for 3073 Post Post Date / Update : 29 October 2026 Short Information Staff Selection Commission SSC has released the notification for Sub Inspector SI in Delhi Police, Central Armed Police Forces Examination 2025. Those Candidate Are Enrolled with SSC CPO SI Vacancy Can Check the Answer Key. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
-      "rushScore": 116,
       "active": true
     }
   ],
