@@ -1,18 +1,36 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-05 04:29:40 PM IST",
+  "updated_at": "2026-11-05 04:31:10 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 28,
-  "unseen_auto_published_count": 337,
+  "pruned_posts_last_run": 17,
+  "unseen_auto_published_count": 315,
   "category_counts": {
-    "latest_jobs": 160,
-    "results": 57,
-    "admit_cards": 57,
-    "answer_keys": 39,
-    "syllabus": 13,
-    "admissions": 11
+    "latest_jobs": 121,
+    "results": 59,
+    "admit_cards": 60,
+    "answer_keys": 36,
+    "syllabus": 19,
+    "admissions": 20
   },
   "trending_top_6": [
+    {
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "dde6e78d15a8",
       "title": "Railway RRB ALP CEN 01/2026 Admit Card",
@@ -20,33 +38,6 @@
       "url": "https://www.rrbapply.gov.in/#/auth/home",
       "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "12061836307c",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "2e8d379fabc1",
-      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 121,
       "active": true
     },
     {
@@ -59,12 +50,21 @@
       "active": true
     },
     {
-      "id": "71a64356ba10",
-      "title": "Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025",
+      "id": "79e7b4e22681",
+      "title": "RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts",
+      "sub": "Admit Card",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 117,
+      "active": true
+    },
+    {
+      "id": "81a96ee570e3",
+      "title": "SSC CPO SI 2025 PET Result 2026",
       "sub": "Result",
-      "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "Indian Railway Railway Recruitment Board RRB Non Technical Popular Categories NTPC Under Graduate Level Recruitment CEN 07/2025. Those candidates who are Enrolled in This Vacancy Can Exam Answer Key. Read the notification for RRB NTPC 10+2 Level Commercial Cum Ticker Clerk, Train Clerk, Accounts Clerk Cum Typist, Junior Clerk Cum Typist Post 2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 118,
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
+      "details": "Name Of Post : SSC Sub Inspector SI in Delhi Police, Central Armed Police Forces Recruitment 2025 Paper I Marks, Final Answer Key for 3073 Post Post Date / Update : 29 October 2026 Short Information Staff Selection Commission SSC has released the notification for Sub Inspector SI in Delhi Police, Central Armed Police Forces Examination 2025. Those Candidate Are Enrolled with SSC CPO SI Vacancy Can Check the Answer Key. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 116,
       "active": true
     }
   ],
