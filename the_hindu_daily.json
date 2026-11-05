@@ -1,12 +1,12 @@
 {
-  "updatedAt": "05 Nov 2026, 04:22 PM IST",
+  "updatedAt": "05 Nov 2026, 04:29 PM IST",
   "currentDateIso": "2026-11-05",
   "currentDateDisplay": "05 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-05",
       "dateDisplay": "05 Nov 2026",
-      "updatedAt": "05 Nov 2026, 04:22 PM IST",
+      "updatedAt": "05 Nov 2026, 04:29 PM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,38 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (05 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 05 Nov 2026, 04:22 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 05 Nov 2026, 04:29 PM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Madras High Court injuncts unauthorised camcording, uploading, downloading, streaming of Suriya-starrer Scene",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-injuncts-unauthorised-camcording-uploading-downloading-streaming-of-suriya-starrer-tamil-movie-scene/article71666825.ece",
+      "pubDate": "Thu, 05 Nov 2026 16:19:38 +0530",
+      "dateIso": "2026-11-05",
+      "dateDisplay": "05 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/dc2swx/article71669556.ece/alternates/LANDSCAPE_1200/Suriya%20Scene.png",
+      "fullParagraphs": [
+        "The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).",
+        "Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships. The balance of convenience is also in favour of the applicant/plaintiff for grant of an interim injunction.”",
+        "Passing identical orders in another application filed by the production firm, the judge directed a host of Internet Service Providers spread across the country to block access to the websites that had been listed out by the plaintiff. The plaintiff had said, such blocking would reduce the chances of piracy and illegal re-distribution of the movie either in whole or in parts and also prevent unauthorised mirroring websites as well.",
+        "After recording its submissions and considering the fact that the production firm had spent considerable amount of money on producing the film directed by Jithu Madhavan and also starring Nazriya Naseem and Naslen in important roles, the judge said, he had issued such an interim injunction recently even in a similar case filed by Sun TV Network Limited which had produced Rajinikanth-starrer Jailer 2 .",
+        "The plaintiff’s counsel told the court that the John Doe respondents were in the habit of unauthorisedly copying portions of the film through illegal recordings and reproducing the audio visual clips, audio-visual songs and even the full cinematographic film in the grey market and also on the internet platforms for fanciful amounts of money."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The plaintiff’s counsel told the court that the John Doe respondents were in the habit of unauthorisedly copying portions of the film through illegal recordings and reproducing the audio visual clips, audio-visual songs and even the full cinematographic film in the grey market and also on the internet platforms for fanciful amounts of money.",
+      "vocabList": [
+        "Wednesday",
+        "November",
+        "Injunction",
+        "Individuals",
+        "Entities",
+        "Unauthorised"
+      ],
+      "summary": "The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).",
+      "keyPoints": "• The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).<br>• Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships. The balance of convenience is also in favour of the applicant/plaintiff for grant of an interim injunction.”<br>• Passing identical orders in another application filed by the production firm, the judge directed a host of Internet Service Providers spread across the country to block access to the websites that had been listed out by the plaintiff. The plaintiff had said, such blocking would reduce the chances of piracy and illegal re-distribution of the movie either in whole or in parts and also prevent unauthorised mirroring websites as well."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -183,34 +212,6 @@
       ],
       "summary": "The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, Keralam, on Thursday (November 5, 2026) dismissed the appeals seeking suspension of the bail granted to the 17-year-old involved in the Cheranalloor crash case that claimed a life, while coming down heavily on the police and prosecution.",
       "keyPoints": "• The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, Keralam, on Thursday (November 5, 2026) dismissed the appeals seeking suspension of the bail granted to the 17-year-old involved in the Cheranalloor crash case that claimed a life, while coming down heavily on the police and prosecution.<br>• Judge Kavitha Gangadharan questioned the very basis for the registration of the FIR against the teenager in conflict with law, pointing out that such registration is warranted only in offences carrying a punishment of seven years’ imprisonment or more. The multiple alterations made to the FIR also came in for criticism. The police were accused of showing scant regard for the Juvenile Justice (Care and Protection of Children) Act, with the court questioning the absence of the social background report mandated in cases involving juveniles. The court even read out the relevant provisions of the Act to the investigation officer, an Assistant Commissioner with the Crime Branch.<br>• The court observed that the police are not expected to act beyond the law even under pressure. The judge also asked the prosecution to show reason for not imposing fine while dismissing the appeals."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
-      "link": "https://www.thehindu.com/news/national/telangana/ktr-questions-bjps-inaction-on-alleged-rr-tax-collection/article71669383.ece",
-      "pubDate": "Thu, 05 Nov 2026 16:04:32 +0530",
-      "dateIso": "2026-11-05",
-      "dateDisplay": "05 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/cawn07/article71669464.ece/alternates/LANDSCAPE_1200/K%20T%20Rama%20Rao%20%2002.jpg",
-      "fullParagraphs": [
-        "Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.",
-        "In a post on social media platforms, KTR questioned the Bharatiiya Janata Party (BJP) leadership at the Centre over its failure to act on allegations and claimed it reflected the Congress and BJP of having an understanding that protects each other.",
-        "He alleged that ₹200 was being collected per square foot in the name of ‘RR tax’ and said the practice was widely known in the real estate sector. Let the statements not be limited to rhetoric but take concrete action against the alleged collections, he said.",
-        "Taking a dig at the Prime Minister Narendra Modi, KTR said, “Bada bhai Modi will never take action against his ABVP chhota bhai Revanth.” An understanding between the BJP and Congress was behind the Centre’s inaction, he claimed."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Bharat Rashtra Samithi (BRS) working president K.T.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Taking a dig at the Prime Minister Narendra Modi, KTR said, “Bada bhai Modi will never take action against his ABVP chhota bhai Revanth.” An understanding between the BJP and Congress was behind the Centre’s inaction, he claimed.",
-      "vocabList": [
-        "President",
-        "Allegations",
-        "Telangana",
-        "Regularly",
-        "Platforms",
-        "Questioned"
-      ],
-      "summary": "Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.",
-      "keyPoints": "• Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.<br>• In a post on social media platforms, KTR questioned the Bharatiiya Janata Party (BJP) leadership at the Centre over its failure to act on allegations and claimed it reflected the Congress and BJP of having an understanding that protects each other.<br>• He alleged that ₹200 was being collected per square foot in the name of ‘RR tax’ and said the practice was widely known in the real estate sector. Let the statements not be limited to rhetoric but take concrete action against the alleged collections, he said."
     },
     {
       "category": "economy",
@@ -410,7 +411,7 @@
       "categoryLabel": "🌐 International Relations",
       "title": "What the BJP should learn from Trump’s redistricting failure",
       "link": "https://www.thehindu.com/news/international/what-the-bjp-should-learn-from-trumps-redistricting-failure/article71669471.ece",
-      "pubDate": "Thu, 05 Nov 2026 16:06:10 +0530",
+      "pubDate": "Thu, 05 Nov 2026 16:20:58 +0530",
       "dateIso": "2026-11-05",
       "dateDisplay": "05 Nov 2026",
       "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
@@ -430,6 +431,42 @@
       ],
       "summary": "The Bharatiya Janata Party (BJP) has lessons to draw from the Republican Party in the United States in its attempts to undertake a hurried, hushed and partisan redrawing of the country’s electoral map. The BJP has been planning for an out-of-cycle Census and a delimitation exercise by delaying the 2021 Census until 2026. The Republican Party redrew Congressional district boundaries across eight States under the direction of President Donald J. Trump in the hope of flipping seats currently held by Democrats. But they lost most of them and, in addition, lost seats they had hoped to retain, as their heartlands such as Texas and Florida slipped away.",
       "keyPoints": "• The Bharatiya Janata Party (BJP) has lessons to draw from the Republican Party in the United States in its attempts to undertake a hurried, hushed and partisan redrawing of the country’s electoral map. The BJP has been planning for an out-of-cycle Census and a delimitation exercise by delaying the 2021 Census until 2026. The Republican Party redrew Congressional district boundaries across eight States under the direction of President Donald J. Trump in the hope of flipping seats currently held by Democrats. But they lost most of them and, in addition, lost seats they had hoped to retain, as their heartlands such as Texas and Florida slipped away.<br>• Gerrymandering, the practice of redrawing electoral boundaries by packing or cracking particular social groups, assumes that voting preferences remain unchanged between election cycles. But when the traditional supporters of a party turn against it, constituency maps matter little. The Bankipur by-election in Bihar in August had proved the same point. The constituency is perfectly tailored for a BJP victory, going by its demographic composition. But when the upper-caste supporters of the party changed their minds, the BJP was decimated."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "U.S. midterm elections 2026 LIVE: Democrats vow to rein in Trump as he shows off White House ballroom",
+      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+      "pubDate": "Thu, 05 Nov 2026 16:19:07 +0530",
+      "dateIso": "2026-11-05",
+      "dateDisplay": "05 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
+      "fullParagraphs": [
+        "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
+        "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
+        "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
+        "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
+        "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
+        "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
+        "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
+        "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
+        "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
+        "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party.",
+        "Vice President J.D. Vance, in a lengthy social media post , blamed the war for the defeat and one of the four suggestions made to gain back the ground was to “change our relationship to Israel”.",
+        "U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The cheering audience waved red flags to demand revenge for Khamenei’s death. “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support.",
+      "vocabList": [
+        "Following",
+        "Drubbing",
+        "President",
+        "Republican",
+        "Elections",
+        "Iranians"
+      ],
+      "summary": "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
+      "keyPoints": "• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br>• The cheering audience waved red flags to demand revenge for Khamenei’s death.<br>• “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers."
     },
     {
       "category": "ir",
@@ -492,42 +529,6 @@
       ],
       "summary": "The U.S. mid-term elections have delivered a damning mandate against Trumpism. After Richard Nixon and Watergate, Donald Trump is the first to accomplish a Republican rout of this scale and scope. The Democratic Party flipped seven Senate seats, 22 House seats, and four Governor seats, and has won a majority in both House and Senate.",
       "keyPoints": "• The U.S. mid-term elections have delivered a damning mandate against Trumpism. After Richard Nixon and Watergate, Donald Trump is the first to accomplish a Republican rout of this scale and scope. The Democratic Party flipped seven Senate seats, 22 House seats, and four Governor seats, and has won a majority in both House and Senate.<br>• Trump’s wars — the Iran war and the tariff war — resulting in steep costs of fuel and food are the most obvious catalyst for this “Blunami (tsunami for Democrats)”. Rural voters opposed data centres (promoted by Trump), fearing it would guzzle water as well as jobs. That’s an AI-era issue to watch as data centres make their way into India."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "U.S. midterm elections 2026 LIVE: Democrats vow to rein in Trump as he shows off White House ballroom",
-      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-      "pubDate": "Thu, 05 Nov 2026 15:23:53 +0530",
-      "dateIso": "2026-11-05",
-      "dateDisplay": "05 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
-      "fullParagraphs": [
-        "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-        "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
-        "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
-        "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
-        "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
-        "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
-        "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
-        "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
-        "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
-        "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party.",
-        "Vice President J.D. Vance, in a lengthy social media post , blamed the war for the defeat and one of the four suggestions made to gain back the ground was to “change our relationship to Israel”.",
-        "U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The cheering audience waved red flags to demand revenge for Khamenei’s death. “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support.",
-      "vocabList": [
-        "Following",
-        "Drubbing",
-        "President",
-        "Republican",
-        "Elections",
-        "Iranians"
-      ],
-      "summary": "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-      "keyPoints": "• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br>• The cheering audience waved red flags to demand revenge for Khamenei’s death.<br>• “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers."
     },
     {
       "category": "ir",
@@ -922,8 +923,37 @@
     "2026-11-05": {
       "dateIso": "2026-11-05",
       "dateDisplay": "05 Nov 2026",
-      "updatedAt": "05 Nov 2026, 04:22 PM IST",
+      "updatedAt": "05 Nov 2026, 04:29 PM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Madras High Court injuncts unauthorised camcording, uploading, downloading, streaming of Suriya-starrer Scene",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-injuncts-unauthorised-camcording-uploading-downloading-streaming-of-suriya-starrer-tamil-movie-scene/article71666825.ece",
+          "pubDate": "Thu, 05 Nov 2026 16:19:38 +0530",
+          "dateIso": "2026-11-05",
+          "dateDisplay": "05 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/dc2swx/article71669556.ece/alternates/LANDSCAPE_1200/Suriya%20Scene.png",
+          "fullParagraphs": [
+            "The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).",
+            "Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships. The balance of convenience is also in favour of the applicant/plaintiff for grant of an interim injunction.”",
+            "Passing identical orders in another application filed by the production firm, the judge directed a host of Internet Service Providers spread across the country to block access to the websites that had been listed out by the plaintiff. The plaintiff had said, such blocking would reduce the chances of piracy and illegal re-distribution of the movie either in whole or in parts and also prevent unauthorised mirroring websites as well.",
+            "After recording its submissions and considering the fact that the production firm had spent considerable amount of money on producing the film directed by Jithu Madhavan and also starring Nazriya Naseem and Naslen in important roles, the judge said, he had issued such an interim injunction recently even in a similar case filed by Sun TV Network Limited which had produced Rajinikanth-starrer Jailer 2 .",
+            "The plaintiff’s counsel told the court that the John Doe respondents were in the habit of unauthorisedly copying portions of the film through illegal recordings and reproducing the audio visual clips, audio-visual songs and even the full cinematographic film in the grey market and also on the internet platforms for fanciful amounts of money."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The plaintiff’s counsel told the court that the John Doe respondents were in the habit of unauthorisedly copying portions of the film through illegal recordings and reproducing the audio visual clips, audio-visual songs and even the full cinematographic film in the grey market and also on the internet platforms for fanciful amounts of money.",
+          "vocabList": [
+            "Wednesday",
+            "November",
+            "Injunction",
+            "Individuals",
+            "Entities",
+            "Unauthorised"
+          ],
+          "summary": "The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).",
+          "keyPoints": "• The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).<br>• Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships. The balance of convenience is also in favour of the applicant/plaintiff for grant of an interim injunction.”<br>• Passing identical orders in another application filed by the production firm, the judge directed a host of Internet Service Providers spread across the country to block access to the websites that had been listed out by the plaintiff. The plaintiff had said, such blocking would reduce the chances of piracy and illegal re-distribution of the movie either in whole or in parts and also prevent unauthorised mirroring websites as well."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1081,34 +1111,6 @@
           ],
           "summary": "The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, Keralam, on Thursday (November 5, 2026) dismissed the appeals seeking suspension of the bail granted to the 17-year-old involved in the Cheranalloor crash case that claimed a life, while coming down heavily on the police and prosecution.",
           "keyPoints": "• The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, Keralam, on Thursday (November 5, 2026) dismissed the appeals seeking suspension of the bail granted to the 17-year-old involved in the Cheranalloor crash case that claimed a life, while coming down heavily on the police and prosecution.<br>• Judge Kavitha Gangadharan questioned the very basis for the registration of the FIR against the teenager in conflict with law, pointing out that such registration is warranted only in offences carrying a punishment of seven years’ imprisonment or more. The multiple alterations made to the FIR also came in for criticism. The police were accused of showing scant regard for the Juvenile Justice (Care and Protection of Children) Act, with the court questioning the absence of the social background report mandated in cases involving juveniles. The court even read out the relevant provisions of the Act to the investigation officer, an Assistant Commissioner with the Crime Branch.<br>• The court observed that the police are not expected to act beyond the law even under pressure. The judge also asked the prosecution to show reason for not imposing fine while dismissing the appeals."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
-          "link": "https://www.thehindu.com/news/national/telangana/ktr-questions-bjps-inaction-on-alleged-rr-tax-collection/article71669383.ece",
-          "pubDate": "Thu, 05 Nov 2026 16:04:32 +0530",
-          "dateIso": "2026-11-05",
-          "dateDisplay": "05 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/cawn07/article71669464.ece/alternates/LANDSCAPE_1200/K%20T%20Rama%20Rao%20%2002.jpg",
-          "fullParagraphs": [
-            "Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.",
-            "In a post on social media platforms, KTR questioned the Bharatiiya Janata Party (BJP) leadership at the Centre over its failure to act on allegations and claimed it reflected the Congress and BJP of having an understanding that protects each other.",
-            "He alleged that ₹200 was being collected per square foot in the name of ‘RR tax’ and said the practice was widely known in the real estate sector. Let the statements not be limited to rhetoric but take concrete action against the alleged collections, he said.",
-            "Taking a dig at the Prime Minister Narendra Modi, KTR said, “Bada bhai Modi will never take action against his ABVP chhota bhai Revanth.” An understanding between the BJP and Congress was behind the Centre’s inaction, he claimed."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Bharat Rashtra Samithi (BRS) working president K.T.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Taking a dig at the Prime Minister Narendra Modi, KTR said, “Bada bhai Modi will never take action against his ABVP chhota bhai Revanth.” An understanding between the BJP and Congress was behind the Centre’s inaction, he claimed.",
-          "vocabList": [
-            "President",
-            "Allegations",
-            "Telangana",
-            "Regularly",
-            "Platforms",
-            "Questioned"
-          ],
-          "summary": "Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.",
-          "keyPoints": "• Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.<br>• In a post on social media platforms, KTR questioned the Bharatiiya Janata Party (BJP) leadership at the Centre over its failure to act on allegations and claimed it reflected the Congress and BJP of having an understanding that protects each other.<br>• He alleged that ₹200 was being collected per square foot in the name of ‘RR tax’ and said the practice was widely known in the real estate sector. Let the statements not be limited to rhetoric but take concrete action against the alleged collections, he said."
         },
         {
           "category": "economy",
@@ -1308,7 +1310,7 @@
           "categoryLabel": "🌐 International Relations",
           "title": "What the BJP should learn from Trump’s redistricting failure",
           "link": "https://www.thehindu.com/news/international/what-the-bjp-should-learn-from-trumps-redistricting-failure/article71669471.ece",
-          "pubDate": "Thu, 05 Nov 2026 16:06:10 +0530",
+          "pubDate": "Thu, 05 Nov 2026 16:20:58 +0530",
           "dateIso": "2026-11-05",
           "dateDisplay": "05 Nov 2026",
           "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
@@ -1328,6 +1330,42 @@
           ],
           "summary": "The Bharatiya Janata Party (BJP) has lessons to draw from the Republican Party in the United States in its attempts to undertake a hurried, hushed and partisan redrawing of the country’s electoral map. The BJP has been planning for an out-of-cycle Census and a delimitation exercise by delaying the 2021 Census until 2026. The Republican Party redrew Congressional district boundaries across eight States under the direction of President Donald J. Trump in the hope of flipping seats currently held by Democrats. But they lost most of them and, in addition, lost seats they had hoped to retain, as their heartlands such as Texas and Florida slipped away.",
           "keyPoints": "• The Bharatiya Janata Party (BJP) has lessons to draw from the Republican Party in the United States in its attempts to undertake a hurried, hushed and partisan redrawing of the country’s electoral map. The BJP has been planning for an out-of-cycle Census and a delimitation exercise by delaying the 2021 Census until 2026. The Republican Party redrew Congressional district boundaries across eight States under the direction of President Donald J. Trump in the hope of flipping seats currently held by Democrats. But they lost most of them and, in addition, lost seats they had hoped to retain, as their heartlands such as Texas and Florida slipped away.<br>• Gerrymandering, the practice of redrawing electoral boundaries by packing or cracking particular social groups, assumes that voting preferences remain unchanged between election cycles. But when the traditional supporters of a party turn against it, constituency maps matter little. The Bankipur by-election in Bihar in August had proved the same point. The constituency is perfectly tailored for a BJP victory, going by its demographic composition. But when the upper-caste supporters of the party changed their minds, the BJP was decimated."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "U.S. midterm elections 2026 LIVE: Democrats vow to rein in Trump as he shows off White House ballroom",
+          "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+          "pubDate": "Thu, 05 Nov 2026 16:19:07 +0530",
+          "dateIso": "2026-11-05",
+          "dateDisplay": "05 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
+          "fullParagraphs": [
+            "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
+            "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
+            "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
+            "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
+            "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
+            "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
+            "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
+            "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
+            "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
+            "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party.",
+            "Vice President J.D. Vance, in a lengthy social media post , blamed the war for the defeat and one of the four suggestions made to gain back the ground was to “change our relationship to Israel”.",
+            "U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The cheering audience waved red flags to demand revenge for Khamenei’s death. “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support.",
+          "vocabList": [
+            "Following",
+            "Drubbing",
+            "President",
+            "Republican",
+            "Elections",
+            "Iranians"
+          ],
+          "summary": "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
+          "keyPoints": "• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br>• The cheering audience waved red flags to demand revenge for Khamenei’s death.<br>• “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers."
         },
         {
           "category": "ir",
@@ -1390,42 +1428,6 @@
           ],
           "summary": "The U.S. mid-term elections have delivered a damning mandate against Trumpism. After Richard Nixon and Watergate, Donald Trump is the first to accomplish a Republican rout of this scale and scope. The Democratic Party flipped seven Senate seats, 22 House seats, and four Governor seats, and has won a majority in both House and Senate.",
           "keyPoints": "• The U.S. mid-term elections have delivered a damning mandate against Trumpism. After Richard Nixon and Watergate, Donald Trump is the first to accomplish a Republican rout of this scale and scope. The Democratic Party flipped seven Senate seats, 22 House seats, and four Governor seats, and has won a majority in both House and Senate.<br>• Trump’s wars — the Iran war and the tariff war — resulting in steep costs of fuel and food are the most obvious catalyst for this “Blunami (tsunami for Democrats)”. Rural voters opposed data centres (promoted by Trump), fearing it would guzzle water as well as jobs. That’s an AI-era issue to watch as data centres make their way into India."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "U.S. midterm elections 2026 LIVE: Democrats vow to rein in Trump as he shows off White House ballroom",
-          "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-          "pubDate": "Thu, 05 Nov 2026 15:23:53 +0530",
-          "dateIso": "2026-11-05",
-          "dateDisplay": "05 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
-          "fullParagraphs": [
-            "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-            "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
-            "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
-            "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
-            "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
-            "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
-            "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
-            "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
-            "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
-            "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party.",
-            "Vice President J.D. Vance, in a lengthy social media post , blamed the war for the defeat and one of the four suggestions made to gain back the ground was to “change our relationship to Israel”.",
-            "U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The cheering audience waved red flags to demand revenge for Khamenei’s death. “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> U.S.-Israel ties face renewed strain as midterms shift political dynamics, domestic debates, and bipartisan scrutiny of support.",
-          "vocabList": [
-            "Following",
-            "Drubbing",
-            "President",
-            "Republican",
-            "Elections",
-            "Iranians"
-          ],
-          "summary": "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-          "keyPoints": "• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br>• The cheering audience waved red flags to demand revenge for Khamenei’s death.<br>• “We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers."
         },
         {
           "category": "ir",
@@ -3927,88 +3929,116 @@
       "id": "gk_05 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "05 Nov 2026",
-      "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
-      "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
-      "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
+      "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals an...\"?",
+      "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals an...\"?",
+      "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals an...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Madras High Court injuncts unauthorised camcording, uploading, downloading, stream...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Madras High Court injuncts unauthorised camcording, uploading, downloading, stream...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Madras High Court injuncts unauthorised camcording, uploading, downloading, stream...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5, 2026) after two days of havoc and leaving at least four perons dead, three in Bapatla district and one in Guntur district.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Thursday, only the district of SPSR Nellore recorded widespread moderate showers of around 55 mm. Other places in the districts of Tirupati, Anakapalli, Prakasam, recorded light showers till noon.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Nandyal, Anantapur, YSR Kadapa and Annamayya have deficits between 40% and 50%, while Chittoor has a deficit of 32.4% and Tirupati 21.4%."
+      "explanation": "<strong>1. Core Context & Background:</strong> The Madras High Court on Wednesday (November 4, 2026) issued a John Doe order (an injunction issued against unknown individuals and entities) against unauthorised copying, recording, camcording, reproducing, uploading downloading, streaming or hosting of actor Suriya-starrer Tamil movie Scene set to hit the cinema theatres worldwide on Friday (November 6, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Taking note that the plaintiff firm was the producer as well as distributor of Scene , the judge said: “Prima facie, I am satisfied that the applicant has made out a case for grant of interim injunction as prayed for. If the applicant is not protected by way of interim orders, the applicant would suffer irreparable loss and hardships.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The plaintiff’s counsel told the court that the John Doe respondents were in the habit of unauthorisedly copying portions of the film through illegal recordings and reproducing the audio visual clips, audio-visual songs and even the full cinematographic film in the grey market and also on the internet platforms for fanciful amounts of money."
     },
     {
       "id": "gk_05 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "05 Nov 2026",
+      "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
+      "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
+      "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Rains slow down across Andhra Pradesh after two days of havoc",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> The rainfall activity, triggered by the Severe Cyclonic Storm ‘Murasu’, has slowed down in Andhra Pradesh on Thursday, (November 5, 2026) after two days of havoc and leaving at least four perons dead, three in Bapatla district and one in Guntur district.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> on Thursday, only the district of SPSR Nellore recorded widespread moderate showers of around 55 mm. Other places in the districts of Tirupati, Anakapalli, Prakasam, recorded light showers till noon.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Nandyal, Anantapur, YSR Kadapa and Annamayya have deficits between 40% and 50%, while Chittoor has a deficit of 32.4% and Tirupati 21.4%."
+    },
+    {
+      "id": "gk_05 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "05 Nov 2026",
       "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, result...\"?",
       "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, result...\"?",
       "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, result...\"?",
       "optsEn": [
+        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Climate change increased the damage caused by the tropical Cyclone Arnab, which struck eastern India on October 28, by 33%, resulting in tens of millions of dollars in additional direct economic losses compared to a pre-industrial climate baseline, according to a new study.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> ALSO WATCH Cyclone Arnab batters east coast: 5 dead in Andhra Pradesh, 17 Odisha districts affected It added that the storm brought intense rain, peak 1-minute sustained winds of up to 202 kilometres per hour, and severe damage to infrastructure across Andhra Pradesh. The study was carried out by researchers at the Imperial College London’s Grantham Institute and published on Thursday (November 5, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The costs of climate change are not hypothetical future projections — they are hitting coastal communities in eastern India today.” Odisha / Andhra Pradesh / climate change / weather / weather science / cyclones"
     },
     {
-      "id": "gk_05 Nov 2026_3",
+      "id": "gk_05 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "05 Nov 2026",
       "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Amid ZPTC and MPTC elections, clashes broke out between YSRCP and TDP activists in several areas of Kadapa district on Thursday mo...\"?",
       "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Amid ZPTC and MPTC elections, clashes broke out between YSRCP and TDP activists in several areas of Kadapa district on Thursday mo...\"?",
       "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Amid ZPTC and MPTC elections, clashes broke out between YSRCP and TDP activists in several areas of Kadapa district on Thursday mo...\"?",
       "optsEn": [
-        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> Amid ZPTC and MPTC elections, clashes broke out between YSRCP and TDP activists in several areas of Kadapa district on Thursday morning.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two groups of people have attacked each other with petrol bombs in Yerripalli village in Pulivendla mandal of the district. According to sources, a quarrel started among the agents of YSRCP and TDP while sitting near a polling station in Yerripalli.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Except few areas, the voting was peaceful with 48.92% turnout by 1 pm"
     },
     {
-      "id": "gk_05 Nov 2026_4",
+      "id": "gk_05 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "05 Nov 2026",
       "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Reacting to Union Home Minister Amit Shah’s comment that Leader of Opposition in Lok Sabha Rahul Gandhi can never become the Prime...\"?",
@@ -4017,26 +4047,26 @@
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na...",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na..."
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na...",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na..."
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na...",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Rahul Gandhi was born in family of Prime Ministers, he is not after PM post but na..."
       ],
-      "ans": 2,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> Reacting to Union Home Minister Amit Shah’s comment that Leader of Opposition in Lok Sabha Rahul Gandhi can never become the Prime Minister, Telangana Pradesh Congress Committee (TPCC) working president T.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Gandhi was born in the family of Prime Ministers and he was not after the post but the nation’s interests. Addressing a press conference at Gandhi Bhavan in Hyderabad on Wednesday (November 4, 2026), Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Jagga Reddy said the BJP had come to power and the Prime Minister had secured three terms by invoking Lord Ram’s name, but was not following the ideals and path shown by the Lord."
     },
     {
-      "id": "gk_05 Nov 2026_5",
+      "id": "gk_05 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "05 Nov 2026",
       "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, K...\"?",
@@ -4044,52 +4074,24 @@
       "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, K...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "15th Finance Commission Special State Grant",
+        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "15th Finance Commission Special State Grant",
+        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "15th Finance Commission Special State Grant",
+        "Cheranalloor luxury car crash: court upholds teen’s bail, raps police and prosecution",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> The Additional District and Sessions Court designated to try cases involving atrocities against women and children in Ernakulam, Keralam, on Thursday (November 5, 2026) dismissed the appeals seeking suspension of the bail granted to the 17-year-old involved in the Cheranalloor crash case that claimed a life, while coming down heavily on the police and prosecution.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Judge Kavitha Gangadharan questioned the very basis for the registration of the FIR against the teenager in conflict with law, pointing out that such registration is warranted only in offences carrying a punishment of seven years’ imprisonment or more. The multiple alterations made to the FIR also came in for criticism.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, we will continue our fight,” she said outside the court."
-    },
-    {
-      "id": "gk_05 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "05 Nov 2026",
-      "qEn": "[05 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegatio...\"?",
-      "qHi": "[05 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegatio...\"?",
-      "qMr": "[05 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asked whether Union Home Minister Amit Shah will only level allegatio...\"?",
-      "optsEn": [
-        "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Bharat Rashtra Samithi (BRS) working president K.T.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Rama Rao asked whether Union Home Minister Amit Shah will only level allegations of ‘RR Tax’ or has any plan to take against Telangana Chief Minister A. Revanth Reddy since the allegations are regularly made.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Taking a dig at the Prime Minister Narendra Modi, KTR said, “Bada bhai Modi will never take action against his ABVP chhota bhai Revanth.” An understanding between the BJP and Congress was behind the Centre’s inaction, he claimed."
     },
     {
       "id": "gk_05 Nov 2026_7",
