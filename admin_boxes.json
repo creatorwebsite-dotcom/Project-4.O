@@ -1,18 +1,27 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-06 01:23:51 AM IST",
+  "updated_at": "2026-11-06 01:42:23 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 0,
-  "unseen_auto_published_count": 157,
+  "pruned_posts_last_run": 7,
+  "unseen_auto_published_count": 234,
   "category_counts": {
-    "latest_jobs": 38,
-    "results": 42,
-    "admit_cards": 43,
-    "answer_keys": 14,
-    "syllabus": 10,
-    "admissions": 10
+    "latest_jobs": 68,
+    "results": 51,
+    "admit_cards": 53,
+    "answer_keys": 24,
+    "syllabus": 18,
+    "admissions": 20
   },
   "trending_top_6": [
+    {
+      "id": "98caf671d10b",
+      "title": "RRB NTPC Graduate Level Online Form 2026 (3548 Posts)",
+      "sub": "Today Last Date",
+      "url": "https://rrb.indianrailways.gov.in/-/image/1791375679144CEN_06_2026_NTPC_G.pdf/examsDocuments",
+      "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fess Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 138,
+      "active": true
+    },
     {
       "id": "3919c89162dd",
       "title": "UPESSC TGT Online Form (17,735 Posts)",
@@ -20,6 +29,24 @@
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "1ade9f27b6fe",
+      "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://rrccr.com/",
+      "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
+      "rushScore": 116,
       "active": true
     },
     {
@@ -38,33 +65,6 @@
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 115,
-      "active": true
-    },
-    {
-      "id": "93d2c132fe8d",
-      "title": "TNPSC 6,574 Group IV Services Online Form 2026",
-      "sub": "Date Extended",
-      "url": "https://tnpsc.gov.in/Document/english/Addendum%20%2011B.pdf",
-      "details": "The Tamil Nadu Public Service Commission (TNPSC) has released the TNPSC Group 4 Notification 2026 for the Combined Civil Services Examination-IV (Group IV Services). The detailed notification was issued on 06 October 2026 under Advertisement No. 747 and Notification No. 11/2026 for 6,574 vacancies across 46 post entries .",
-      "rushScore": 113,
-      "active": true
-    },
-    {
-      "id": "c3e7b14b18d5",
-      "title": "RRB Station Master Recruitment 2026 Out, Apply Online Starts For 1265 Posts",
-      "sub": "Syllabus",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Station Master Recruitment 2026 Out, Apply Online Starts For 1265 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 110,
-      "active": true
-    },
-    {
-      "id": "4e1e27f5daef",
-      "title": "UPSSSC JE Online Form (1156 Posts)",
-      "sub": "Latest Jobs",
-      "url": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/ViewPdf-2.pdf",
-      "details": "Application Fee General, OBC, EWS : ₹ 25/- SC, ST : ₹ 25/- PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 108,
       "active": true
     }
   ],
