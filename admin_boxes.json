@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-06 03:12:12 PM IST",
+  "updated_at": "2026-11-06 10:58:13 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 6,
-  "unseen_auto_published_count": 402,
+  "pruned_posts_last_run": 5,
+  "unseen_auto_published_count": 443,
   "category_counts": {
-    "latest_jobs": 109,
-    "results": 91,
-    "admit_cards": 64,
-    "answer_keys": 41,
-    "syllabus": 36,
-    "admissions": 61
+    "latest_jobs": 117,
+    "results": 101,
+    "admit_cards": 67,
+    "answer_keys": 46,
+    "syllabus": 41,
+    "admissions": 71
   },
   "trending_top_6": [
     {
@@ -28,7 +28,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
+      "rushScore": 125,
       "active": true
     },
     {
@@ -37,7 +37,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
+      "rushScore": 125,
       "active": true
     },
     {
@@ -50,20 +50,20 @@
       "active": true
     },
     {
+      "id": "ccb4bd55cda0",
+      "title": "Odisha Police Recruitment 2026: OUSSSC Announces 7,268 Vacancies; Apply Till November 12",
+      "sub": "Latest Jobs",
+      "url": "https://ssc.gov.in",
+      "details": "Official notification for Odisha Police Recruitment 2026: OUSSSC Announces 7,268 Vacancies; Apply Till November 12. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "458969a3ba1e",
       "title": "RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl",
       "sub": "Latest Jobs",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "bb77b3e30617",
-      "title": "Odisha Police Constable Recruitment 2026: 7,268 vacancies announced, check eligibility and application da",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Odisha Police Constable Recruitment 2026: 7,268 vacancies announced, check eligibility and application da. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 118,
       "active": true
     }
