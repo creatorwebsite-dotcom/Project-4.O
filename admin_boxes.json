@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-06 06:34:02 AM IST",
+  "updated_at": "2026-11-06 02:49:50 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 9,
-  "unseen_auto_published_count": 326,
+  "pruned_posts_last_run": 5,
+  "unseen_auto_published_count": 371,
   "category_counts": {
-    "latest_jobs": 94,
-    "results": 70,
-    "admit_cards": 56,
-    "answer_keys": 35,
-    "syllabus": 30,
-    "admissions": 41
+    "latest_jobs": 98,
+    "results": 82,
+    "admit_cards": 63,
+    "answer_keys": 41,
+    "syllabus": 36,
+    "admissions": 51
   },
   "trending_top_6": [
     {
@@ -41,30 +41,30 @@
       "active": true
     },
     {
-      "id": "1a262a993538",
-      "title": "Kolkata Police Recruitment 2026 Notification Out For 5893 Posts, Check Online Apply Date",
+      "id": "06fc752490f5",
+      "title": "UPSSSC Regional Youth Welfare Officer Online Form 2026 – Last Date Today",
+      "sub": "Today Last Date",
+      "url": "https://upsssc.gov.in/ViewPdf.aspx?ZAav3PHO8SadE1elv4czrrIC+FQDR9n9BYbJOCnh3Rs=",
+      "details": "Application Fee For General, OBC, EWS : ₹ 25/- For SC / ST : ₹ 25/- For PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 122,
+      "active": true
+    },
+    {
+      "id": "458969a3ba1e",
+      "title": "RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl",
+      "sub": "Latest Jobs",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "bb77b3e30617",
+      "title": "Odisha Police Constable Recruitment 2026: 7,268 vacancies announced, check eligibility and application da",
       "sub": "Latest Jobs",
       "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Kolkata Police Recruitment 2026 Notification Out For 5893 Posts, Check Online Apply Date. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "details": "Official notification for Odisha Police Constable Recruitment 2026: 7,268 vacancies announced, check eligibility and application da. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "578bab48264b",
-      "title": "RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here",
-      "sub": "Syllabus",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "1ade9f27b6fe",
-      "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://rrccr.com/",
-      "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
-      "rushScore": 116,
       "active": true
     }
   ],
