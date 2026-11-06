@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-06 01:42:23 AM IST",
+  "updated_at": "2026-11-06 06:27:25 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 7,
-  "unseen_auto_published_count": 234,
+  "pruned_posts_last_run": 9,
+  "unseen_auto_published_count": 292,
   "category_counts": {
-    "latest_jobs": 68,
-    "results": 51,
-    "admit_cards": 53,
-    "answer_keys": 24,
-    "syllabus": 18,
-    "admissions": 20
+    "latest_jobs": 87,
+    "results": 61,
+    "admit_cards": 56,
+    "answer_keys": 33,
+    "syllabus": 24,
+    "admissions": 31
   },
   "trending_top_6": [
     {
@@ -41,30 +41,30 @@
       "active": true
     },
     {
+      "id": "1a262a993538",
+      "title": "Kolkata Police Recruitment 2026 Notification Out For 5893 Posts, Check Online Apply Date",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Kolkata Police Recruitment 2026 Notification Out For 5893 Posts, Check Online Apply Date. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "578bab48264b",
+      "title": "RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here",
+      "sub": "Syllabus",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB JE Vacancy 2026 Increased, Check Revised Zone-Wise 4,487 Vacancy Details Here. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 118,
+      "active": true
+    },
+    {
       "id": "1ade9f27b6fe",
       "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
       "sub": "Latest Jobs",
       "url": "https://rrccr.com/",
       "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
       "rushScore": 116,
-      "active": true
-    },
-    {
-      "id": "e3c33fcd0c4f",
-      "title": "WBSSC Group C and D Result 2026 Out",
-      "sub": "Result",
-      "url": "https://img2.freejobalert.com/news/2026/11/526418-6aec0fa8d0cce52238702.pdf",
-      "details": "WBSSC has published separate preliminary interview lists for Clerk and Group D recruitment. The lists contain regional and category-wise candidate information, including merit details and applicable cut-off marks.",
-      "rushScore": 116,
-      "active": true
-    },
-    {
-      "id": "79e7b4e22681",
-      "title": "RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts",
-      "sub": "Admit Card",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB ALP Admit Card 2026 Released for CBT 1; Exam on November 3, 4 and 5 for 11,127 Posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 115,
       "active": true
     }
   ],
