@@ -1,18 +1,27 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-07 04:54:54 AM IST",
+  "updated_at": "2026-11-07 11:22:36 AM IST",
   "window_days": 15,
   "pruned_posts_last_run": 4,
-  "unseen_auto_published_count": 516,
+  "unseen_auto_published_count": 533,
   "category_counts": {
-    "latest_jobs": 133,
-    "results": 121,
-    "admit_cards": 70,
-    "answer_keys": 45,
-    "syllabus": 46,
-    "admissions": 101
+    "latest_jobs": 136,
+    "results": 126,
+    "admit_cards": 73,
+    "answer_keys": 46,
+    "syllabus": 47,
+    "admissions": 105
   },
   "trending_top_6": [
+    {
+      "id": "45bd52449ad2",
+      "title": "UPESSC PRT Assistant Teacher Re-Open Form 2026 (12405 Posts)",
+      "sub": "Date Extended",
+      "url": "https://www.upessc.up.gov.in/Notice/2f5b-2b53-4364-eeff-c38d.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 140,
+      "active": true
+    },
     {
       "id": "98caf671d10b",
       "title": "RRB NTPC Graduate Level Online Form 2026 (3548 Posts)",
@@ -28,7 +37,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
+      "rushScore": 125,
       "active": true
     },
     {
@@ -37,7 +46,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
+      "rushScore": 125,
       "active": true
     },
     {
@@ -55,15 +64,6 @@
       "sub": "Latest Jobs",
       "url": "https://ssc.gov.in",
       "details": "Official notification for Odisha Police Recruitment 2026: OUSSSC Announces 7,268 Vacancies; Apply Till November 12. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "458969a3ba1e",
-      "title": "RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl",
-      "sub": "Latest Jobs",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB NTPC Graduate recruitment 2026: Registration ends today for over 3,000 vacancies; direct link to appl. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 118,
       "active": true
     }
