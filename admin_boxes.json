@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-07 06:56:11 PM IST",
+  "updated_at": "2026-11-08 12:14:50 AM IST",
   "window_days": 15,
   "pruned_posts_last_run": 3,
-  "unseen_auto_published_count": 588,
+  "unseen_auto_published_count": 602,
   "category_counts": {
-    "latest_jobs": 153,
-    "results": 138,
-    "admit_cards": 79,
+    "latest_jobs": 156,
+    "results": 143,
+    "admit_cards": 83,
     "answer_keys": 47,
     "syllabus": 48,
-    "admissions": 123
+    "admissions": 125
   },
   "trending_top_6": [
     {
@@ -32,6 +32,15 @@
       "active": true
     },
     {
+      "id": "93d2c132fe8d",
+      "title": "TNPSC 6,574 Group IV Services Online Form 2026",
+      "sub": "Today Last Date",
+      "url": "https://tnpsc.gov.in/Document/english/Addendum%20%2011B.pdf",
+      "details": "The Tamil Nadu Public Service Commission (TNPSC) has released the TNPSC Group 4 Notification 2026 for the Combined Civil Services Examination-IV (Group IV Services). The detailed notification was issued on 06 October 2026 under Advertisement No. 747 and Notification No. 11/2026 for 6,574 vacancies across 46 post entries .",
+      "rushScore": 135,
+      "active": true
+    },
+    {
       "id": "c0971824a59b",
       "title": "MPSC Group C Recruitment 2026 Notification Out for 16,797 Posts, Apply Online at @mpsconline.gov.in",
       "sub": "Syllabus",
@@ -46,7 +55,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 125,
+      "rushScore": 123,
       "active": true
     },
     {
@@ -55,16 +64,7 @@
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "06fc752490f5",
-      "title": "UPSSSC Regional Youth Welfare Officer Online Form 2026 – Last Date Today",
-      "sub": "Today Last Date",
-      "url": "https://upsssc.gov.in/ViewPdf.aspx?ZAav3PHO8SadE1elv4czrrIC+FQDR9n9BYbJOCnh3Rs=",
-      "details": "Application Fee For General, OBC, EWS : ₹ 25/- For SC / ST : ₹ 25/- For PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 122,
+      "rushScore": 123,
       "active": true
     }
   ],
