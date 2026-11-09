@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-09 03:37:53 PM IST",
+  "updated_at": "2026-11-10 12:13:20 AM IST",
   "window_days": 15,
   "pruned_posts_last_run": 4,
-  "unseen_auto_published_count": 699,
+  "unseen_auto_published_count": 718,
   "category_counts": {
-    "latest_jobs": 203,
-    "results": 159,
-    "admit_cards": 94,
-    "answer_keys": 46,
+    "latest_jobs": 204,
+    "results": 162,
+    "admit_cards": 98,
+    "answer_keys": 48,
     "syllabus": 47,
-    "admissions": 150
+    "admissions": 159
   },
   "trending_top_6": [
     {
@@ -50,21 +50,21 @@
       "active": true
     },
     {
+      "id": "06fc752490f5",
+      "title": "UPSSSC Regional Youth Welfare Officer Online Form 2026 – Last Date Today",
+      "sub": "Today Last Date",
+      "url": "https://upsssc.gov.in/ViewPdf.aspx?ZAav3PHO8SadE1elv4czrrIC+FQDR9n9BYbJOCnh3Rs=",
+      "details": "Application Fee For General, OBC, EWS : ₹ 25/- For SC / ST : ₹ 25/- For PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 122,
+      "active": true
+    },
+    {
       "id": "3919c89162dd",
       "title": "UPESSC TGT Online Form (17,735 Posts)",
       "sub": "Latest Jobs",
       "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 123,
+      "rushScore": 121,
       "active": true
     }
   ],
