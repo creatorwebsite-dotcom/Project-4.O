@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-11 03:14:20 PM IST",
+  "updated_at": "2026-11-11 11:21:55 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 5,
-  "unseen_auto_published_count": 816,
+  "pruned_posts_last_run": 4,
+  "unseen_auto_published_count": 868,
   "category_counts": {
-    "latest_jobs": 248,
-    "results": 162,
-    "admit_cards": 112,
-    "answer_keys": 52,
+    "latest_jobs": 272,
+    "results": 170,
+    "admit_cards": 121,
+    "answer_keys": 56,
     "syllabus": 45,
-    "admissions": 197
+    "admissions": 204
   },
   "trending_top_6": [
     {
@@ -32,6 +32,15 @@
       "active": true
     },
     {
+      "id": "410f8522b383",
+      "title": "MPSC 16,797 Group C Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://mpsconline.gov.in/",
+      "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "c956d06b1b76",
       "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
       "sub": "Latest Jobs",
@@ -50,21 +59,12 @@
       "active": true
     },
     {
-      "id": "06fc752490f5",
-      "title": "UPSSSC Regional Youth Welfare Officer Online Form 2026 – Last Date Today",
-      "sub": "Today Last Date",
-      "url": "https://upsssc.gov.in/ViewPdf.aspx?ZAav3PHO8SadE1elv4czrrIC+FQDR9n9BYbJOCnh3Rs=",
-      "details": "Application Fee For General, OBC, EWS : ₹ 25/- For SC / ST : ₹ 25/- For PH Candidates : ₹ 25/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 122,
-      "active": true
-    },
-    {
-      "id": "f7a14a56db7b",
-      "title": "UPESSC PRT recruitment 2026: Registration window closes today for 12,405 posts; direct link to apply here",
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
       "sub": "Latest Jobs",
-      "url": "https://ssc.gov.in",
-      "details": "Official notification for UPESSC PRT recruitment 2026: Registration window closes today for 12,405 posts; direct link to apply here. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 119,
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 123,
       "active": true
     }
   ],
