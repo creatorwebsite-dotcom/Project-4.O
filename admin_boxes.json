@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-12 11:44:21 PM IST",
+  "updated_at": "2026-11-13 12:00:34 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 8,
-  "unseen_auto_published_count": 975,
+  "pruned_posts_last_run": 7,
+  "unseen_auto_published_count": 993,
   "category_counts": {
-    "latest_jobs": 321,
+    "latest_jobs": 331,
     "results": 179,
-    "admit_cards": 130,
+    "admit_cards": 131,
     "answer_keys": 66,
     "syllabus": 46,
-    "admissions": 233
+    "admissions": 240
   },
   "trending_top_6": [
     {
@@ -50,20 +50,20 @@
       "active": true
     },
     {
-      "id": "3919c89162dd",
-      "title": "UPESSC TGT Online Form (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "id": "45222509181b",
+      "title": "RRB ALP CBT 1 Answer Key 2026",
+      "sub": "Closing Soon",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
+      "details": "The Railway Recruitment Boards (RRBs) have issued the RRB ALP Answer Key 2026 notice for the Assistant Loco Pilot CBT 1 examination under CEN 01/2026. The provisional answer key and response sheet download link will be activated on 12 November 2026 at 7:00 PM . Candidates who appeared for the examination held from 3 to 5 November 2026 can check their question papers, recorded responses and correct answers through the official RRB portal.",
       "rushScore": 125,
       "active": true
     },
     {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "id": "c956d06b1b76",
+      "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
       "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
