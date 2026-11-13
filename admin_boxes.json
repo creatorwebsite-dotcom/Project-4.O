@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-13 06:51:48 AM IST",
+  "updated_at": "2026-11-13 02:58:31 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 7,
-  "unseen_auto_published_count": 1014,
+  "pruned_posts_last_run": 32,
+  "unseen_auto_published_count": 1027,
   "category_counts": {
-    "latest_jobs": 335,
-    "results": 182,
-    "admit_cards": 133,
-    "answer_keys": 66,
-    "syllabus": 46,
-    "admissions": 252
+    "latest_jobs": 340,
+    "results": 188,
+    "admit_cards": 125,
+    "answer_keys": 70,
+    "syllabus": 48,
+    "admissions": 256
   },
   "trending_top_6": [
     {
@@ -32,6 +32,24 @@
       "active": true
     },
     {
+      "id": "9971a1e8d88a",
+      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "9dcaae145010",
+      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "410f8522b383",
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
@@ -46,24 +64,6 @@
       "sub": "Admit Card",
       "url": "https://ssccr.gov.in/admit-card/696529dfde07fd2f63e510d9",
       "details": "The Staff Selection Commission (SSC) has released the SSC GD PET PST Admit Card 2026 on 12 November 2026. Candidates who qualified in the Computer-Based Examination can download their admit cards for the Physical Efficiency Test (PET) and Physical Standard Test (PST) from the official website. Candidates must log in using their registration number/roll number and date of birth or password to access the call letter.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "45222509181b",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Closing Soon",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
-      "details": "The Railway Recruitment Boards (RRBs) have issued the RRB ALP Answer Key 2026 notice for the Assistant Loco Pilot CBT 1 examination under CEN 01/2026. The provisional answer key and response sheet download link will be activated on 12 November 2026 at 7:00 PM . Candidates who appeared for the examination held from 3 to 5 November 2026 can check their question papers, recorded responses and correct answers through the official RRB portal.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "c956d06b1b76",
-      "title": "West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for West Bengal Police Recruitment Adds 10,544 Vacancies Amid Staff Shortage. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
