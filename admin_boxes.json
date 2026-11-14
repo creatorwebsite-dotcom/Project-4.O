@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-14 12:23:48 PM IST",
+  "updated_at": "2026-11-14 07:03:56 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 10,
-  "unseen_auto_published_count": 1166,
+  "pruned_posts_last_run": 16,
+  "unseen_auto_published_count": 1178,
   "category_counts": {
-    "latest_jobs": 376,
-    "results": 202,
-    "admit_cards": 156,
-    "answer_keys": 73,
-    "syllabus": 62,
-    "admissions": 297
+    "latest_jobs": 377,
+    "results": 206,
+    "admit_cards": 160,
+    "answer_keys": 74,
+    "syllabus": 57,
+    "admissions": 304
   },
   "trending_top_6": [
     {
@@ -50,20 +50,20 @@
       "active": true
     },
     {
-      "id": "9971a1e8d88a",
-      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 125,
       "active": true
     },
     {
-      "id": "9dcaae145010",
-      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 125,
       "active": true
     }
