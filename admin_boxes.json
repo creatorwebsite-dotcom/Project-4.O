@@ -1,18 +1,27 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-14 05:16:34 AM IST",
+  "updated_at": "2026-11-14 11:42:27 AM IST",
   "window_days": 15,
   "pruned_posts_last_run": 11,
-  "unseen_auto_published_count": 1134,
+  "unseen_auto_published_count": 1155,
   "category_counts": {
-    "latest_jobs": 368,
-    "results": 198,
-    "admit_cards": 149,
+    "latest_jobs": 373,
+    "results": 202,
+    "admit_cards": 153,
     "answer_keys": 73,
-    "syllabus": 58,
-    "admissions": 288
+    "syllabus": 59,
+    "admissions": 295
   },
   "trending_top_6": [
+    {
+      "id": "4b04fb87d2b4",
+      "title": "RRB 1,688 NTPC UG Online Form 2026",
+      "sub": "Today Last Date",
+      "url": "https://www.rrbapply.gov.in/assets/forms/corrigendum1_07_2026_NTPC_UG.pdf",
+      "details": "Total Vacancies 1,688 Posts Ticket Clerk, Accounts Clerk, Junior Clerk, Trains Clerk Qualification 12th Pass Age Limit 18–30 Years Application Opens 15 Oct 2026 Last Date 15 Nov 2026, 11:59 PM Initial Salary ₹19,900–21,700 Application Fee ₹500 / ₹250 Selection Process CBT 1, CBT 2, Typing Test (if applicable), DV, Medical Apply Mode Online Only",
+      "rushScore": 147,
+      "active": true
+    },
     {
       "id": "45bd52449ad2",
       "title": "UPESSC PRT Assistant Teacher Re-Open Form 2026 (12405 Posts)",
@@ -32,6 +41,15 @@
       "active": true
     },
     {
+      "id": "849df1ee41db",
+      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
+      "sub": "Date Extended",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "9971a1e8d88a",
       "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
       "sub": "Result",
@@ -46,24 +64,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "410f8522b383",
-      "title": "MPSC 16,797 Group C Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://mpsconline.gov.in/",
-      "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "3b18867114c0",
-      "title": "SSC GD PET PST Admit Card 2026 Out",
-      "sub": "Admit Card",
-      "url": "https://ssccr.gov.in/admit-card/696529dfde07fd2f63e510d9",
-      "details": "The Staff Selection Commission (SSC) has released the SSC GD PET PST Admit Card 2026 on 12 November 2026. Candidates who qualified in the Computer-Based Examination can download their admit cards for the Physical Efficiency Test (PET) and Physical Standard Test (PST) from the official website. Candidates must log in using their registration number/roll number and date of birth or password to access the call letter.",
       "rushScore": 125,
       "active": true
     }
