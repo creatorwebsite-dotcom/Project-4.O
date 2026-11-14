@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-14 08:46:43 PM IST",
+  "updated_at": "2026-11-15 12:37:35 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 11,
-  "unseen_auto_published_count": 1196,
+  "pruned_posts_last_run": 111,
+  "unseen_auto_published_count": 1104,
   "category_counts": {
-    "latest_jobs": 386,
-    "results": 209,
-    "admit_cards": 161,
-    "answer_keys": 75,
-    "syllabus": 57,
-    "admissions": 308
+    "latest_jobs": 362,
+    "results": 200,
+    "admit_cards": 147,
+    "answer_keys": 65,
+    "syllabus": 47,
+    "admissions": 283
   },
   "trending_top_6": [
     {
@@ -50,20 +50,20 @@
       "active": true
     },
     {
-      "id": "3919c89162dd",
-      "title": "UPESSC TGT Online Form (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "id": "9971a1e8d88a",
+      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     },
     {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "id": "9dcaae145010",
+      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
