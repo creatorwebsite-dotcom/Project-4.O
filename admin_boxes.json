@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-16 03:03:55 PM IST",
+  "updated_at": "2026-11-17 12:17:58 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 16,
-  "unseen_auto_published_count": 1228,
+  "pruned_posts_last_run": 12,
+  "unseen_auto_published_count": 1265,
   "category_counts": {
-    "latest_jobs": 401,
-    "results": 202,
-    "admit_cards": 170,
-    "answer_keys": 72,
-    "syllabus": 53,
-    "admissions": 330
+    "latest_jobs": 408,
+    "results": 213,
+    "admit_cards": 173,
+    "answer_keys": 73,
+    "syllabus": 59,
+    "admissions": 339
   },
   "trending_top_6": [
     {
@@ -41,20 +41,11 @@
       "active": true
     },
     {
-      "id": "3919c89162dd",
-      "title": "UPESSC TGT Online Form (17,735 Posts)",
-      "sub": "Closing Soon",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Closing Soon",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "id": "38ab4716935b",
+      "title": "RRB Group D Score Card 2026",
+      "sub": "Result",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
+      "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
       "rushScore": 125,
       "active": true
     },
@@ -64,6 +55,15 @@
       "sub": "Date Extended",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "9971a1e8d88a",
+      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
