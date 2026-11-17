@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-17 09:57:56 AM IST",
+  "updated_at": "2026-11-17 07:14:55 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 8,
-  "unseen_auto_published_count": 1305,
+  "pruned_posts_last_run": 100,
+  "unseen_auto_published_count": 1221,
   "category_counts": {
-    "latest_jobs": 428,
-    "results": 215,
-    "admit_cards": 177,
-    "answer_keys": 73,
-    "syllabus": 64,
-    "admissions": 348
+    "latest_jobs": 396,
+    "results": 211,
+    "admit_cards": 184,
+    "answer_keys": 61,
+    "syllabus": 57,
+    "admissions": 312
   },
   "trending_top_6": [
     {
@@ -45,7 +45,7 @@
       "title": "RRB Group D Score Card 2026",
       "sub": "Result",
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
-      "details": "The CEN 09/2025 notification covers 22,195 vacancies in Level-1 (Group D) posts. The basic eligibility details are given below.",
+      "details": "The Railway Recruitment Boards (RRBs) have released the RRB Group D Score Card 2026 for CEN 09/2025 on 16 November 2026 at 05:00 PM. Candidates who appeared in the CBT can now log in with their Registration Number and Date of Birth and download their score card with percentile score and normalized marks.",
       "rushScore": 125,
       "active": true
     },
