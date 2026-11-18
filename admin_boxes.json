@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-18 01:20:37 PM IST",
+  "updated_at": "2026-11-18 10:42:52 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 22,
-  "unseen_auto_published_count": 1339,
+  "pruned_posts_last_run": 158,
+  "unseen_auto_published_count": 1223,
   "category_counts": {
-    "latest_jobs": 427,
-    "results": 226,
-    "admit_cards": 207,
-    "answer_keys": 66,
-    "syllabus": 64,
-    "admissions": 349
+    "latest_jobs": 398,
+    "results": 180,
+    "admit_cards": 209,
+    "answer_keys": 55,
+    "syllabus": 61,
+    "admissions": 320
   },
   "trending_top_6": [
     {
@@ -29,15 +29,6 @@
       "url": "https://www.upessc.up.gov.in/Notice/2f5b-2b53-4364-eeff-c38d.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
       "rushScore": 140,
-      "active": true
-    },
-    {
-      "id": "98caf671d10b",
-      "title": "RRB NTPC Graduate Level Online Form 2026 (3548 Posts)",
-      "sub": "Today Last Date",
-      "url": "https://rrb.indianrailways.gov.in/-/image/1791375679144CEN_06_2026_NTPC_G.pdf/examsDocuments",
-      "details": "Application Fee For General / OBC / EWS : ₹ 500/- For SC / ST / EBC : ₹ 250/- For All Category female : ₹ 250/- Fess Refund : General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam. Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 138,
       "active": true
     },
     {
@@ -64,6 +55,15 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "9dcaae145010",
+      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
+      "sub": "Result",
+      "url": "https://indianrailways.gov.in",
+      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
