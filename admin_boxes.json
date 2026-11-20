@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-20 09:09:52 AM IST",
+  "updated_at": "2026-11-20 06:18:29 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 14,
-  "unseen_auto_published_count": 1281,
+  "pruned_posts_last_run": 75,
+  "unseen_auto_published_count": 1235,
   "category_counts": {
-    "latest_jobs": 422,
-    "results": 170,
-    "admit_cards": 219,
-    "answer_keys": 67,
-    "syllabus": 70,
-    "admissions": 333
+    "latest_jobs": 385,
+    "results": 165,
+    "admit_cards": 218,
+    "answer_keys": 70,
+    "syllabus": 73,
+    "admissions": 324
   },
   "trending_top_6": [
     {
@@ -23,12 +23,21 @@
       "active": true
     },
     {
-      "id": "45bd52449ad2",
-      "title": "UPESSC PRT Assistant Teacher Re-Open Form 2026 (12405 Posts)",
-      "sub": "Date Extended",
-      "url": "https://www.upessc.up.gov.in/Notice/2f5b-2b53-4364-eeff-c38d.pdf",
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Closing Soon",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 140,
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
+      "sub": "Closing Soon",
+      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -55,15 +64,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "410f8522b383",
-      "title": "MPSC 16,797 Group C Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://mpsconline.gov.in/",
-      "details": "The Maharashtra Public Service Commission (MPSC) has issued important updates regarding the MPSC Group C Recruitment 2026 , covering a total of 16,717 vacancies across various departments of the Maharashtra Government. The recruitment includes posts such as Clerk-Typist, Tax Assistant, Technical Assistant, Assistant Motor Vehicle Inspector, Industry Inspector and several other Group C positions.",
       "rushScore": 125,
       "active": true
     }
