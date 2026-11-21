@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-21 06:24:55 PM IST",
+  "updated_at": "2026-11-22 02:00:12 AM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 71,
-  "unseen_auto_published_count": 1315,
+  "pruned_posts_last_run": 98,
+  "unseen_auto_published_count": 1239,
   "category_counts": {
-    "latest_jobs": 414,
-    "results": 190,
-    "admit_cards": 235,
-    "answer_keys": 72,
-    "syllabus": 83,
-    "admissions": 321
+    "latest_jobs": 386,
+    "results": 191,
+    "admit_cards": 215,
+    "answer_keys": 67,
+    "syllabus": 81,
+    "admissions": 299
   },
   "trending_top_6": [
     {
@@ -25,19 +25,19 @@
     {
       "id": "3919c89162dd",
       "title": "UPESSC TGT Online Form (17,735 Posts)",
-      "sub": "Closing Soon",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "sub": "Date Extended",
+      "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 125,
+      "rushScore": 138,
       "active": true
     },
     {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Closing Soon",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
+      "id": "93509941c801",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Extended",
+      "sub": "Date Extended",
+      "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 125,
+      "rushScore": 138,
       "active": true
     },
     {
