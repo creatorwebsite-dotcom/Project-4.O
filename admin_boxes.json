@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-23 08:28:45 AM IST",
+  "updated_at": "2026-11-23 12:57:48 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 17,
-  "unseen_auto_published_count": 1252,
+  "pruned_posts_last_run": 16,
+  "unseen_auto_published_count": 1290,
   "category_counts": {
-    "latest_jobs": 377,
-    "results": 195,
-    "admit_cards": 226,
-    "answer_keys": 60,
-    "syllabus": 89,
-    "admissions": 305
+    "latest_jobs": 384,
+    "results": 207,
+    "admit_cards": 231,
+    "answer_keys": 65,
+    "syllabus": 90,
+    "admissions": 313
   },
   "trending_top_6": [
     {
@@ -28,7 +28,7 @@
       "sub": "Date Extended",
       "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 136,
+      "rushScore": 140,
       "active": true
     },
     {
@@ -37,7 +37,16 @@
       "sub": "Date Extended",
       "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 136,
+      "rushScore": 140,
+      "active": true
+    },
+    {
+      "id": "4b2d73385d02",
+      "title": "Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -55,15 +64,6 @@
       "sub": "Result",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "9dcaae145010",
-      "title": "RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026: Zone-wise PET shortlist released for 22,195 vacancies, check cut-off marks. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
