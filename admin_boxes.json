@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-23 12:57:48 PM IST",
+  "updated_at": "2026-11-23 08:40:52 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 16,
-  "unseen_auto_published_count": 1290,
+  "pruned_posts_last_run": 11,
+  "unseen_auto_published_count": 1317,
   "category_counts": {
-    "latest_jobs": 384,
+    "latest_jobs": 391,
     "results": 207,
-    "admit_cards": 231,
-    "answer_keys": 65,
-    "syllabus": 90,
-    "admissions": 313
+    "admit_cards": 236,
+    "answer_keys": 66,
+    "syllabus": 94,
+    "admissions": 323
   },
   "trending_top_6": [
     {
@@ -41,6 +41,15 @@
       "active": true
     },
     {
+      "id": "6e0507364114",
+      "title": "IBPS Clerk Prelims Result 2026",
+      "sub": "Result",
+      "url": "https://www.ibps.in/",
+      "details": "As of 23 November 2026, the official result link has not been independently confirmed as active. Candidates should visit the recruitment page regularly to check for the latest announcement.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "4b2d73385d02",
       "title": "Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts",
       "sub": "Latest Jobs",
@@ -55,15 +64,6 @@
       "sub": "Date Extended",
       "url": "https://indianrailways.gov.in",
       "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "9971a1e8d88a",
-      "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details",
-      "sub": "Result",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
