@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-24 10:14:16 AM IST",
+  "updated_at": "2026-11-24 08:39:05 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 5,
-  "unseen_auto_published_count": 1401,
+  "pruned_posts_last_run": 19,
+  "unseen_auto_published_count": 1442,
   "category_counts": {
     "latest_jobs": 414,
-    "results": 218,
-    "admit_cards": 243,
+    "results": 223,
+    "admit_cards": 265,
     "answer_keys": 75,
-    "syllabus": 106,
-    "admissions": 345
+    "syllabus": 110,
+    "admissions": 355
   },
   "trending_top_6": [
     {
@@ -28,16 +28,34 @@
       "sub": "Date Extended",
       "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 138,
+      "rushScore": 140,
       "active": true
     },
     {
-      "id": "93509941c801",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Extended",
+      "id": "75eb3e7c4019",
+      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
       "sub": "Date Extended",
       "url": "https://upessc.up.gov.in/Notice/47ad-baf9-4893-45ef-1f16.pdf",
       "details": "Application Fee For General, EWS, OBC : ₹ 1000/- For SC, ST : ₹ 500/- For PH : ₹ 300/- Payment Mode (Online): You can make the payment using the following methods: Debit Card Credit Card Internet Banking IMPS Cash Card / Mobile Wallet",
-      "rushScore": 138,
+      "rushScore": 140,
+      "active": true
+    },
+    {
+      "id": "1c7141ab516f",
+      "title": "KEA FDA SDA Online Form 2026 (5,431 Vacancy)",
+      "sub": "Today Last Date",
+      "url": "https://cetonline.karnataka.gov.in/kea/",
+      "details": "Latest Updates on this Recruitment KPSC FDA SDA Syllabus 2026 - Check Subject-Wise Syllabus and Exam Pattern Posted 31 Oct 2026",
+      "rushScore": 135,
+      "active": true
+    },
+    {
+      "id": "f62232a5a7fa",
+      "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -46,24 +64,6 @@
       "sub": "Result",
       "url": "https://www.ibps.in/",
       "details": "As of 23 November 2026, the official result link has not been independently confirmed as active. Candidates should visit the recruitment page regularly to check for the latest announcement.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "4b2d73385d02",
-      "title": "Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "849df1ee41db",
-      "title": "RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in",
-      "sub": "Date Extended",
-      "url": "https://indianrailways.gov.in",
-      "details": "Official notification for RRB NTPC UG Recruitment 2026: Last Date Extended to November 15, Apply Online for 1688 Vacancies at rrbapply.gov.in. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
