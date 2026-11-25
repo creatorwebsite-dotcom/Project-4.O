@@ -1,16 +1,16 @@
 {
   "project_repo": "Project-4.O-pie-pie",
-  "updated_at": "2026-11-25 07:51:48 AM IST",
+  "updated_at": "2026-11-25 05:05:53 PM IST",
   "window_days": 15,
-  "pruned_posts_last_run": 17,
-  "unseen_auto_published_count": 1529,
+  "pruned_posts_last_run": 171,
+  "unseen_auto_published_count": 1413,
   "category_counts": {
-    "latest_jobs": 441,
-    "results": 249,
-    "admit_cards": 288,
-    "answer_keys": 74,
-    "syllabus": 119,
-    "admissions": 358
+    "latest_jobs": 408,
+    "results": 220,
+    "admit_cards": 279,
+    "answer_keys": 63,
+    "syllabus": 116,
+    "admissions": 327
   },
   "trending_top_6": [
     {
@@ -41,6 +41,15 @@
       "active": true
     },
     {
+      "id": "f79bf1cb4cc6",
+      "title": "Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi",
+      "sub": "Latest Jobs",
+      "url": "https://uppbpb.gov.in",
+      "details": "Official notification for Odisha has 88,905 vacancies across depts, 26,101 in police force: CM Majhi. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
+      "rushScore": 125,
+      "active": true
+    },
+    {
       "id": "f62232a5a7fa",
       "title": "Gujarat Police Recruitment Expanded to 12,993 Posts; 12,752 Lokrakshak and 241 PSI Vacancies Announced",
       "sub": "Latest Jobs",
@@ -55,15 +64,6 @@
       "sub": "Result",
       "url": "https://www.ibps.in/",
       "details": "As of 23 November 2026, the official result link has not been independently confirmed as active. Candidates should visit the recruitment page regularly to check for the latest announcement.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "4b2d73385d02",
-      "title": "Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts",
-      "sub": "Latest Jobs",
-      "url": "https://uppbpb.gov.in",
-      "details": "Official notification for Over 26,000 vacancies in Odisha Police; Recruitment underway for 6,885 posts. Check important dates, post-wise eligibility, exam pattern, syllabus and direct official links below.",
       "rushScore": 125,
       "active": true
     }
